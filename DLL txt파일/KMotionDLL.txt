@@ -1,0 +1,91 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35211.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file F:\DED monitoring\DED\KMotionDLL.dll
+
+File Type: DLL
+
+  Section contains the following exports for KMotionDLL.dll
+
+    00000000 characteristics
+    5B7361D9 time date stamp Wed Aug 15 08:12:25 2018
+        0.00 version
+           1 ordinal base
+          58 number of functions
+          58 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001116D ??0CKMotionDLL@@QAE@H@Z
+          2    1 000111B8 ??0CKMotionDLL_Direct@@QAE@XZ
+          3    2 0001141F ??1CKMotionDLL@@UAE@XZ
+          4    3 00011E5B ??4CKMotionDLL_Direct@@QAEAAV0@$$QAV0@@Z
+          5    4 00011767 ??4CKMotionDLL_Direct@@QAEAAV0@ABV0@@Z
+          6    5 00035088 ??_7CKMotionDLL@@6B@
+          7    6 00011CE4 ?CheckCoffSize@CKMotionDLL@@QAEHPBDPAH111@Z
+          8    7 000111BD ?CheckForReady@CKMotionDLL@@QAEHXZ
+          9    8 0001136B ?CheckForReady@CKMotionDLL_Direct@@QAEHH@Z
+         10    9 00011BD6 ?CheckKMotionVersion@CKMotionDLL@@QAEHPAH_N@Z
+         11    A 00011578 ?ClearErrMsg@CKMotionDLL_Direct@@QAEXH@Z
+         12    B 00011C71 ?Compile@CKMotionDLL@@QAEHPBD0HHPADH@Z
+         13    C 000119BF ?CompileAndLoadCoff@CKMotionDLL@@QAEHPBDH@Z
+         14    D 00011528 ?CompileAndLoadCoff@CKMotionDLL@@QAEHPBDHPADH@Z
+         15    E 00011DA7 ?ConvertToOut@CKMotionDLL@@QAEXHPBDPADH@Z
+         16    F 00011C3A ?Disconnect@CKMotionDLL@@QAEHXZ
+         17   10 000113C5 ?Disconnect@CKMotionDLL_Direct@@QAEHH@Z
+         18   11 00011361 ?DoErrMsg@CKMotionDLL@@QAEXPBD@Z
+         19   12 00011591 ?ExtractCoffVersionString@CKMotionDLL@@QAEHPBDPAD@Z
+         20   13 00011645 ?ExtractPath@CKMotionDLL@@AAE?AV?$CStringT@DV?$StrTraitMFC_DLL@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@V23@@Z
+         21   14 00011613 ?Failed@CKMotionDLL@@QAEHXZ
+         22   15 00011BE0 ?Failed@CKMotionDLL_Direct@@QAEHH@Z
+         23   16 0001178F ?FirmwareVersion@CKMotionDLL@@QAEHXZ
+         24   17 00011E0B ?FirmwareVersion@CKMotionDLL_Direct@@QAEHH@Z
+         25   18 00011AA5 ?GetErrMsg@CKMotionDLL_Direct@@QAEPBDH@Z
+         26   19 00011E79 ?GetLoadAddress@CKMotionDLL@@QAEIHH@Z
+         27   1A 00011AD7 ?GetStatus@CKMotionDLL@@QAEHAAUMAIN_STATUS@@_N@Z
+         28   1B 000115DC ?KMotionLock@CKMotionDLL@@QAEHPAD@Z
+         29   1C 00011294 ?KMotionLock@CKMotionDLL_Direct@@QAEHHPAD@Z
+         30   1D 000112CB ?KMotionLockRecovery@CKMotionDLL@@QAEHXZ
+         31   1E 00011A96 ?KMotionLockRecovery@CKMotionDLL_Direct@@QAEHH@Z
+         32   1F 00011424 ?LaunchServer@CKMotionDLL@@AAEHXZ
+         33   20 0001103C ?ListLocations@CKMotionDLL@@QAEHPAH0@Z
+         34   21 00011596 ?ListLocations@CKMotionDLL_Direct@@QAEHPAH0@Z
+         35   22 00011A82 ?LoadCoff@CKMotionDLL@@QAEHHPBDH@Z
+         36   23 00011E10 ?MapBoardToIndex@CKMotionDLL_Direct@@QAEHH@Z
+         37   24 00011E2E ?Pipe@CKMotionDLL@@AAEHPBDHPADPAH@Z
+         38   25 00011861 ?PipeCmd@CKMotionDLL@@AAEHH@Z
+         39   26 0001111D ?PipeCmdStr@CKMotionDLL@@AAEHHPBD@Z
+         40   27 000116CC ?ReadLineTimeOut@CKMotionDLL@@QAEHPADH@Z
+         41   28 0001107D ?ReadLineTimeOut@CKMotionDLL_Direct@@QAEHHPADH@Z
+         42   29 0001186B ?ReleaseToken@CKMotionDLL@@QAEXXZ
+         43   2A 0001194C ?ReleaseToken@CKMotionDLL_Direct@@QAEXH@Z
+         44   2B 000117DA ?ServiceConsole@CKMotionDLL@@QAEHXZ
+         45   2C 00011519 ?ServiceConsole@CKMotionDLL_Direct@@QAEHH@Z
+         46   2D 00011C9E ?SetConsoleCallback@CKMotionDLL@@QAEHP6AHPBD@Z@Z
+         47   2E 00011BFE ?SetConsoleCallback@CKMotionDLL_Direct@@QAEHHP6AHHPBD@Z@Z
+         48   2F 00011762 ?SetErrMsgCallback@CKMotionDLL@@QAEHP6AXPBD@Z@Z
+         49   30 00011D4D ?USBLocation@CKMotionDLL@@QAEHXZ
+         50   31 000114FB ?USBLocation@CKMotionDLL_Direct@@QAEHH@Z
+         51   32 00011D7F ?WaitToken@CKMotionDLL@@QAEH_NHPAD@Z
+         52   33 00011799 ?WriteLine@CKMotionDLL@@QAEHPBD@Z
+         53   34 00011659 ?WriteLine@CKMotionDLL_Direct@@QAEHHPBD@Z
+         54   35 00011DF7 ?WriteLineReadLine@CKMotionDLL@@QAEHPBDPAD@Z
+         55   36 000115A5 ?WriteLineReadLine@CKMotionDLL_Direct@@QAEHHPBDPAD@Z
+         56   37 00011541 ?WriteLineWithEcho@CKMotionDLL@@QAEHPBD@Z
+         57   38 000117F3 ?WriteLineWithEcho@CKMotionDLL_Direct@@QAEHHPBD@Z
+         58   39 000113F7 ?nInstances@CKMotionDLL_Direct@@QAEHXZ
+
+  Summary
+
+        1000 .00cfg
+        1000 .SHARED
+       15000 .data
+        1000 .gfids
+        2000 .idata
+        A000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       23000 .text
+       10000 .textbss
+        1000 .tls

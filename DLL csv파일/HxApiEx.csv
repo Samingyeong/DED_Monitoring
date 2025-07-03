@@ -1,0 +1,99 @@
+﻿함수명,설명
+- `?HxExGetActiveToolNumber@@YAXHH@Z`,활성화된 공구 번호를 가져옵니다.
+- `?HxExPushWorkOffset@@YAXHHHN@Z`,작업 오프셋을 설정합니다.
+- `HxExCNCFileCopy`,CNC 파일을 복사합니다.
+- `HxExCNCFileDelete`,CNC 파일을 삭제합니다.
+- `HxExCNCFileDeleteAll`,모든 CNC 파일을 삭제합니다.
+- `HxExCNCFileExecute`,CNC 파일을 실행합니다.
+- `HxExCNCFileExecuteExtern`,외부에서 CNC 파일을 실행합니다.
+- `HxExCNCFileMove`,CNC 파일을 이동합니다.
+- `HxExCNCFileRename`,CNC 파일의 이름을 변경합니다.
+- `HxExConnect`,CNC 장치에 연결합니다.
+- `HxExCreateCNCFile`,새로운 CNC 파일을 생성합니다.
+- `HxExCreateCNCFolder`,새로운 CNC 폴더를 생성합니다.
+- `HxExDeleteMDI`,MDI(수동 데이터 입력)를 삭제합니다.
+- `HxExFileCommand`,파일 명령을 실행합니다.
+- `HxExGetAbsoluteAxisPosition`,절대 축 위치를 가져옵니다.
+- `HxExGetActiveCurrentToolLife`,활성화된 공구의 현재 수명을 가져옵니다.
+- `HxExGetActiveEdgeEnabled`,활성화된 공구의 날이 사용 가능한지 확인합니다.
+- `HxExGetActiveMagazineLocationNumber`,활성화된 매거진의 위치 번호를 가져옵니다.
+- `HxExGetActiveMagazineNumber`,활성화된 매거진 번호를 가져옵니다.
+- `HxExGetActiveMaximumToolLife`,활성화된 공구의 최대 수명을 가져옵니다.
+- `HxExGetActiveOffsetNumberToolLength`,활성화된 공구 길이 오프셋 번호를 가져옵니다.
+- `HxExGetActiveOffsetNumberToolRadius`,활성화된 공구 반지름 오프셋 번호를 가져옵니다.
+- `HxExGetActiveProgramDate`,활성화된 프로그램의 날짜를 가져옵니다.
+- `HxExGetActiveProgramName`,활성화된 프로그램의 이름을 가져옵니다.
+- `HxExGetActiveProgramPath`,활성화된 프로그램의 경로를 가져옵니다.
+- `HxExGetActiveProgramSize`,활성화된 프로그램의 크기를 가져옵니다.
+- `HxExGetActiveRemainingToolLife`,활성화된 공구의 남은 수명을 가져옵니다.
+- `HxExGetActiveSisterToolNumber`,활성화된 자매 공구 번호를 가져옵니다.
+- `HxExGetActiveToolCuttingEdgeCount`,활성화된 공구의 날 개수를 가져옵니다.
+- `HxExGetActiveToolCuttingEdgeNumber`,활성화된 공구의 날 번호를 가져옵니다.
+- `HxExGetActiveToolDiameter`,활성화된 공구의 직경을 가져옵니다.
+- `HxExGetActiveToolEnabled`,활성화된 공구가 사용 가능한지 확인합니다.
+- `HxExGetActiveToolLength`,활성화된 공구의 길이를 가져옵니다.
+- `HxExGetActiveToolLifeUnit`,활성화된 공구 수명의 단위를 가져옵니다.
+- `HxExGetActiveToolName`,활성화된 공구의 이름을 가져옵니다.
+- `HxExGetActiveToolNumber`,활성화된 공구 번호를 가져옵니다.
+- `HxExGetActiveToolType`,활성화된 공구의 유형을 가져옵니다.
+- `HxExGetActiveToolWarningCount`,활성화된 공구의 경고 횟수를 가져옵니다.
+- `HxExGetActiveToolWearDiameter`,활성화된 공구의 마모 직경을 가져옵니다.
+- `HxExGetActiveToolWearLength`,활성화된 공구의 마모 길이를 가져옵니다.
+- `HxExGetActualFeedRateSpeed`,실제 이송 속도를 가져옵니다.
+- `HxExGetActualSpindleSpeed`,실제 스핀들 속도를 가져옵니다.
+- `HxExGetAlarmCode`,알람 코드를 가져옵니다.
+- `HxExGetAlarmNumber`,알람 번호를 가져옵니다.
+- `HxExGetAlarmStatus`,알람 상태를 가져옵니다.
+- `HxExGetAlarmText`,알람 텍스트를 가져옵니다.
+- `HxExGetAlarmType`,알람 유형을 가져옵니다.
+- `HxExGetAlarmsCount`,알람의 개수를 가져옵니다.
+- `HxExGetAttributeEditedTime`,속성의 수정 시간을 가져옵니다.
+- `HxExGetAttributeExists`,속성이 존재하는지 확인합니다.
+- `HxExGetAttributeIsNc`,속성이 NC인지 확인합니다.
+- `HxExGetAttributeLogicalPath`,속성의 논리 경로를 가져옵니다.
+- `HxExGetAttributeName`,속성의 이름을 가져옵니다.
+- `HxExGetAttributePath`,속성의 경로를 가져옵니다.
+- `HxExGetAttributeSize`,속성의 크기를 가져옵니다.
+- `HxExGetAttributeType`,속성의 유형을 가져옵니다.
+- `HxExGetAxesCount`,축의 개수를 가져옵니다.
+- `HxExGetAxisActualPowerConsumption`,축의 실제 전력 소비를 가져옵니다.
+- `HxExGetAxisCurrent`,축의 전류를 가져옵니다.
+- `HxExGetAxisEnabled`,축이 사용 가능한지 확인합니다.
+- `HxExGetAxisFeedrate`,축의 이송률을 가져옵니다.
+- `HxExGetAxisLimitMINUS`,축의 마이너스 한계를 가져옵니다.
+- `HxExGetAxisLimitPLUS`,축의 플러스 한계를 가져옵니다.
+- `HxExGetAxisLoad`,축의 부하를 가져옵니다.
+- `HxExGetAxisName`,축의 이름을 가져옵니다.
+- `HxExGetAxisPowerConsumption`,축의 전력 소비를 가져옵니다.
+- `HxExGetAxisRegeneratedPower`,축의 재생 전력을 가져옵니다.
+- `HxExGetAxisTemperature`,축의 온도를 가져옵니다.
+- `HxExGetBit`,비트를 가져옵니다.
+- `HxExGetBlockCurrent`,현재 블록을 가져옵니다.
+- `HxExGetBlockLast`,마지막 블록을 가져옵니다.
+- `HxExGetBlockNext`,다음 블록을 가져옵니다.
+- `HxExGetBlockSkip`,블록 건너뛰기를 가져옵니다.
+- `HxExGetCB`,CB 값을 가져옵니다.
+- `HxExGetCW`,CW 값을 가져옵니다.
+- `HxExGetChannelEnabled`,채널이 사용 가능한지 확인합니다.
+- `HxExGetChannelsCount`,채널의 개수를 가져옵니다.
+- `HxExGetCncVendor`,CNC 공급업체를 가져옵니다.
+- `HxExGetCurrentAccessLevel`,현재 접근 수준을 가져옵니다.
+- `HxExGetCurrentBlockCounter`,현재 블록 카운터를 가져옵니다.
+- `HxExGetCurrentDepthLevel`,현재 깊이 수준을 가져옵니다.
+- `HxExGetCurrentSequenceNumber`,현재 시퀀스 번호를 가져옵니다.
+- `HxExGetCurrentTotalWorkOffsetIndex`,현재 총 작업 오프셋 인덱스를 가져옵니다.
+- `HxExGetCurrentTotalWorkOffsetMirroringEnabled`,현재 총 작업 오프셋 미러링이 사용 가능한지 확인합니다.
+- `HxExGetCurrentTotalWorkOffsetRotation`,현재 총 작업 오프셋 회전을 가져옵니다.
+- `HxExGetCurrentTotalWorkOffsetScalingFactor`,현재 총 작업 오프셋 스케일링 팩터를 가져옵니다.
+- `HxExGetCurrentTotalWorkOffsetValue`,현재 총 작업 오프셋 값을 가져옵니다.
+- `HxExGetCurrentWorkCounter`,현재 작업 카운터를 가져옵니다.
+- `HxExGetCurrentWorkOffsetIndex`,현재 작업 오프셋 인덱스를 가져옵니다.
+- `HxExGetDB`,DB 값을 가져옵니다.
+- `HxExGetDW`,DW 값을 가져옵니다.
+- `HxExGetDesiredFeedRateSpeed`,원하는 이송 속도를 가져옵니다.
+- `HxExGetDesiredSpindleSpeed`,원하는 스핀들 속도를 가져옵니다.
+- `HxExGetDistanceToGoPosition`,목표 위치까지의 거리를 가져옵니다.
+- `HxExGetDryRun`,드라이 런 상태를 가져옵니다.
+- `HxExGetEstimatedMachiningTime`,예상 가공 시간을 가져옵니다.
+- `HxExGetFB`,FB 값을 가져옵니다.
+- `HxExGetFW`,FW 값을 가져옵니다.

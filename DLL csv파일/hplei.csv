@@ -1,0 +1,99 @@
+﻿함수명,설명
+- GetLP_AutoSwitchOffTime,자동으로 전원을 끄는 시간 설정을 가져옵니다.
+- GetLP_BS_Optical_Limit,빔 스위치의 광학적 한계를 가져옵니다.
+- GetLP_BeamSwitchType,빔 스위치의 유형을 가져옵니다.
+- GetLP_ChillerTemp1Max,냉각기 1의 최대 온도를 가져옵니다.
+- GetLP_ChillerTemp1Min,냉각기 1의 최소 온도를 가져옵니다.
+- GetLP_ChillerTemp2Max,냉각기 2의 최대 온도를 가져옵니다.
+- GetLP_ChillerTemp2Min,냉각기 2의 최소 온도를 가져옵니다.
+- GetLP_ChillerType,냉각기의 유형을 가져옵니다.
+- GetLP_FFBD_Threshold,FFBD 임계값을 가져옵니다.
+- GetLP_FieldBusProtocolType,필드버스 프로토콜 유형을 가져옵니다.
+- GetLP_FieldBusSlot,필드버스 슬롯 정보를 가져옵니다.
+- GetLP_Firmware1Version,펌웨어 1의 버전을 가져옵니다.
+- GetLP_Firmware2Version,펌웨어 2의 버전을 가져옵니다.
+- GetLP_Firmware3Version,펌웨어 3의 버전을 가져옵니다.
+- GetLP_Firmware4Version,펌웨어 4의 버전을 가져옵니다.
+- GetLP_Firmware5Version,펌웨어 5의 버전을 가져옵니다.
+- GetLP_Firmware6Version,펌웨어 6의 버전을 가져옵니다.
+- GetLP_Firmware7Version,펌웨어 7의 버전을 가져옵니다.
+- GetLP_Firmware8Version,펌웨어 8의 버전을 가져옵니다.
+- GetLP_Firmware9Version,펌웨어 9의 버전을 가져옵니다.
+- GetLP_FreqSyntMax,주파수 합성기의 최대값을 가져옵니다.
+- GetLP_FreqSyntMin,주파수 합성기의 최소값을 가져옵니다.
+- GetLP_HardwiringModules,하드와이어링 모듈 정보를 가져옵니다.
+- GetLP_HardwiringVersion,하드와이어링 버전을 가져옵니다.
+- GetLP_HotReservEmsTime,핫 리저브 방출 시간을 가져옵니다.
+- GetLP_IpgFfcType,IPG FFC 유형을 가져옵니다.
+- GetLP_LaserConfig,레이저 설정을 가져옵니다.
+- GetLP_LaserConfig2,레이저 설정 2를 가져옵니다.
+- GetLP_LaserConfig3,레이저 설정 3을 가져옵니다.
+- GetLP_LaserConfig4,레이저 설정 4를 가져옵니다.
+- GetLP_LaserID,레이저 ID를 가져옵니다.
+- GetLP_LaserMode,레이저 모드를 가져옵니다.
+- GetLP_LaserNumber,레이저 번호를 가져옵니다.
+- GetLP_LaserSN,레이저 시리얼 번호를 가져옵니다.
+- GetLP_LaserType,레이저 유형을 가져옵니다.
+- GetLP_MACAddress,MAC 주소를 가져옵니다.
+- GetLP_MasterModMask,마스터 모듈 마스크를 가져옵니다.
+- GetLP_MaxLaserProgramCommands,최대 레이저 프로그램 명령 수를 가져옵니다.
+- GetLP_MaxLaserPrograms,최대 레이저 프로그램 수를 가져옵니다.
+- GetLP_MaxPower,최대 출력을 가져옵니다.
+- GetLP_MaxRampingTime,최대 램핑 시간을 가져옵니다.
+- GetLP_MeanPower_Thr,평균 출력 임계값을 가져옵니다.
+- GetLP_ModReservedDef_H,예약된 모듈 정의 상위값을 가져옵니다.
+- GetLP_ModReservedDef_L,예약된 모듈 정의 하위값을 가져옵니다.
+- GetLP_Modules,모듈 정보를 가져옵니다.
+- GetLP_OpticalChannels,광학 채널 정보를 가져옵니다.
+- GetLP_OpticalPath,광학 경로 정보를 가져옵니다.
+- GetLP_PmWidthMax,펄스 폭의 최대값을 가져옵니다.
+- GetLP_PmWidthMin,펄스 폭의 최소값을 가져옵니다.
+- GetLP_PowerSupplyAmount,전원 공급량을 가져옵니다.
+- GetLP_QCWSwitchTimeOFF,QCW 스위치 꺼짐 시간을 가져옵니다.
+- GetLP_QCWSwitchTimeON,QCW 스위치 켜짐 시간을 가져옵니다.
+- GetLP_TPS_AlarmLevel,TPS 경보 수준을 가져옵니다.
+- GetLP_TPS_WarnLevel,TPS 경고 수준을 가져옵니다.
+- GetLP_UPS_AlarmLevel,UPS 경보 수준을 가져옵니다.
+- GetLP_UPS_WarnLevel,UPS 경고 수준을 가져옵니다.
+- GetLP_Version,버전을 가져옵니다.
+- GetLP_WCEConfig,WCE 설정을 가져옵니다.
+- GetLS_Alarms,알람 정보를 가져옵니다.
+- GetLS_Alarms2,알람 정보 2를 가져옵니다.
+- GetLS_BeamSwitchScatteredLight,빔 스위치 산란광 정보를 가져옵니다.
+- GetLS_BeamSwitchScatteredLightAlarms,빔 스위치 산란광 알람 정보를 가져옵니다.
+- GetLS_BeamSwitchSetChannel,빔 스위치 설정 채널을 가져옵니다.
+- GetLS_BeamSwitchState,빔 스위치 상태를 가져옵니다.
+- GetLS_CabinetTemp,캐비닛 온도를 가져옵니다.
+- GetLS_ChillerConductivity,냉각기 전도도를 가져옵니다.
+- GetLS_ChillerStatus,냉각기 상태를 가져옵니다.
+- GetLS_ChillerTemp1,냉각기 1의 온도를 가져옵니다.
+- GetLS_ChillerTemp2,냉각기 2의 온도를 가져옵니다.
+- GetLS_DewPoint,이슬점을 가져옵니다.
+- GetLS_EmissionTime,방출 시간을 가져옵니다.
+- GetLS_EmissionTimeToday,오늘의 방출 시간을 가져옵니다.
+- GetLS_ExtOpticsWarnings,외부 광학 경고를 가져옵니다.
+- GetLS_FallTime,하강 시간을 가져옵니다.
+- GetLS_FieldbusError,필드버스 오류를 가져옵니다.
+- GetLS_FieldbusInputs,필드버스 입력을 가져옵니다.
+- GetLS_FieldbusOutputs,필드버스 출력을 가져옵니다.
+- GetLS_FieldbusState,필드버스 상태를 가져옵니다.
+- GetLS_HardwiringActiveNum,활성 하드와이어링 번호를 가져옵니다.
+- GetLS_HardwiringFirstNum,첫 번째 하드와이어링 번호를 가져옵니다.
+- GetLS_HardwiringInput,하드와이어링 입력을 가져옵니다.
+- GetLS_HardwiringOutput,하드와이어링 출력을 가져옵니다.
+- GetLS_HotResRemEmsTime,남은 핫 리저브 방출 시간을 가져옵니다.
+- GetLS_Humidity,습도를 가져옵니다.
+- GetLS_IpgBswCh,IPG BSW 채널을 가져옵니다.
+- GetLS_LaserTime,레이저 시간을 가져옵니다.
+- GetLS_MeasDutyCycle,측정된 듀티 사이클을 가져옵니다.
+- GetLS_MeasFreqSynt,측정된 주파수 합성을 가져옵니다.
+- GetLS_ModDisable_H,모듈 비활성화 상위값을 가져옵니다.
+- GetLS_ModDisable_L,모듈 비활성화 하위값을 가져옵니다.
+- GetLS_ModFail_H,모듈 실패 상위값을 가져옵니다.
+- GetLS_ModFail_L,모듈 실패 하위값을 가져옵니다.
+- GetLS_ModFatalDisabled_H,치명적 비활성화 모듈 상위값을 가져옵니다.
+- GetLS_ModFatalDisabled_L,치명적 비활성화 모듈 하위값을 가져옵니다.
+- GetLS_ModFiberInterlocks,모듈 섬유 인터록을 가져옵니다.
+- GetLS_ModReserved_H,예약된 모듈 상위값을 가져옵니다.
+- GetLS_ModReserved_L,예약된 모듈 하위값을 가져옵니다.
+- GetLS_ModUnconnected_H,연결되지 않은 모듈 상위값을 가져옵니다.

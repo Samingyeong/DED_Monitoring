@@ -1,0 +1,43 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35211.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file F:\DED monitoring\DED\opencv_videoio_ffmpeg453.dll
+
+File Type: DLL
+
+  Section contains the following exports for opencv_videoio_ffmpeg.dll
+
+    00000000 characteristics
+    60BF7A06 time date stamp Tue Jun  8 23:09:10 2021
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00E88CF0 cvCreateVideoWriter_FFMPEG
+          2    1 00E89120 cvGetCaptureProperty_FFMPEG
+          3    2 00E89140 cvGrabFrame_FFMPEG
+          4    3 00E89590 cvReleaseCapture_FFMPEG
+          5    4 00E895C0 cvReleaseVideoWriter_FFMPEG
+          6    5 00E895F0 cvRetrieveFrame_FFMPEG
+          7    6 00E89640 cvSetCaptureProperty_FFMPEG
+          8    7 00E8A080 cvWriteFrame_FFMPEG
+          9    8 00E8A0D0 opencv_videoio_capture_plugin_init_v1
+         10    9 00E8A0F0 opencv_videoio_writer_plugin_init_v1
+
+  Summary
+
+        1000 .CRT
+      7E9000 .bss
+       25000 .data
+        1000 .edata
+        2000 .idata
+      30A000 .rdata
+       4E000 .reloc
+        1000 .rodata
+        1000 .rsrc
+      EFC000 .text
+        1000 .tls

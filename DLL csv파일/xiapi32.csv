@@ -1,0 +1,99 @@
+﻿함수명,설명
+- `?ReadSPIWORD@@YAHPAXKPAG@Z`,SPI 버스에서 16비트 데이터를 읽어오는 함수입니다.
+- `?StartCameraStatus@@YAHPAXPAU_CAMERA@@H@Z`,카메라의 상태를 시작하거나 초기화하는 함수입니다.
+- `?WriteSPIWORD@@YAHPAXKG@Z`,SPI 버스에 16비트 데이터를 쓰는 함수입니다.
+- `?com_IsFrameComplete@@YAHPAXPAU_CAMERA@@@Z`,카메라 프레임이 완전히 수신되었는지 확인하는 함수입니다.
+- `?com_IsSetModeComplete@@YAHPAXPAU_CAMERA@@@Z`,카메라의 모드 설정이 완료되었는지 확인하는 함수입니다.
+- `?com_RetrieveBitmapAdv@@YAHPAXPAU_CAMERA@@PAUMMGETBITMAP@@PAUMMGETBITMAPOPT@@@Z`,고급 옵션을 사용하여 카메라에서 비트맵 이미지를 가져오는 함수입니다.
+- `?com_RetrieveFrame@@YAHPAXPAU_CAMERA@@PAUMMGETFRAME@@@Z`,카메라에서 프레임을 가져오는 함수입니다.
+- `?com_RetrieveFrameBayerEx@@YAHPAXPAU_CAMERA@@PAUMMGETFRAMEEX@@@Z`,Bayer 형식의 확장된 프레임을 가져오는 함수입니다.
+- `?com_RetrieveFrameEx@@YAHPAXPAU_CAMERA@@PAUMMGETFRAMEEX@@@Z`,확장된 프레임을 가져오는 함수입니다.
+- `?com_RetrieveFramePlaneEx@@YAHPAXPAU_CAMERA@@PAUMMGETFRAMEEX@@K@Z`,확장된 평면 형식의 프레임을 가져오는 함수입니다.
+- `?md_GetTemperatureEx@@YAHPAXPAM1@Z`,확장된 옵션으로 온도를 가져오는 함수입니다.
+- `?md_GetTimestamp@@YAHPAXPAU_CAMERA@@PAK2@Z`,카메라의 타임스탬프를 가져오는 함수입니다.
+- `?md_ParseProfileFFS@@YAHPAXPAD@Z`,FFS 프로파일을 파싱하는 함수입니다.
+- `?md_RetrieveBitmapAdv@@YAHPAXPAU_CAMERA@@PAUMMGETBITMAP@@PAUMMGETBITMAPOPT@@@Z`,고급 옵션을 사용하여 카메라에서 비트맵 이미지를 가져오는 함수입니다.
+- `?mmDetectEEPROMsize1394@@YAHPAX@Z`,1394 인터페이스에서 EEPROM의 크기를 감지하는 함수입니다.
+- `?mmDetectEEPROMsizePCIE@@YAHPAX@Z`,PCIe 인터페이스에서 EEPROM의 크기를 감지하는 함수입니다.
+- `?mmDetectEEPROMsizeUSB20@@YAHPAX@Z`,USB 2.0 인터페이스에서 EEPROM의 크기를 감지하는 함수입니다.
+- `?mmDetectEEPROMsizeUSB30@@YAHPAX@Z`,USB 3.0 인터페이스에서 EEPROM의 크기를 감지하는 함수입니다.
+- `?mmEraseEEPROM1394@@YAHPAXKK@Z`,1394 인터페이스에서 EEPROM을 지우는 함수입니다.
+- `?mmEraseEEPROMPCIE@@YAHPAXKK@Z`,PCIe 인터페이스에서 EEPROM을 지우는 함수입니다.
+- `?mmEraseEEPROMUSB30@@YAHPAXKK@Z`,USB 3.0 인터페이스에서 EEPROM을 지우는 함수입니다.
+- `?mmReadBlock1394@@YAHPAXKK0@Z`,1394 인터페이스에서 블록 단위로 데이터를 읽는 함수입니다.
+- `?mmReadEEPROM1394@@YAHPAXKKPAE@Z`,1394 인터페이스에서 EEPROM 데이터를 읽는 함수입니다.
+- `?mmReadEEPROMPCIE@@YAHPAXKKPAE@Z`,PCIe 인터페이스에서 EEPROM 데이터를 읽는 함수입니다.
+- `?mmReadEEPROMUSB20@@YAHPAXKKPAE@Z`,USB 2.0 인터페이스에서 EEPROM 데이터를 읽는 함수입니다.
+- `?mmReadEEPROMUSB30@@YAHPAXKKPAE@Z`,USB 3.0 인터페이스에서 EEPROM 데이터를 읽는 함수입니다.
+- `?mmReadEEPROMVIRT@@YAHPAXKKPAE@Z`,가상 인터페이스에서 EEPROM 데이터를 읽는 함수입니다.
+- `?mmStartBusSpeed@@YAHPAX@Z`,버스 속도를 시작하는 함수입니다.
+- `?mmStopBusSpeed@@YAHPAX@Z`,버스 속도를 중지하는 함수입니다.
+- `?mmWriteEEPROM1394@@YAHPAXKKPAE@Z`,1394 인터페이스에서 EEPROM에 데이터를 쓰는 함수입니다.
+- `?mmWriteEEPROMPCIE@@YAHPAXKKPAE@Z`,PCIe 인터페이스에서 EEPROM에 데이터를 쓰는 함수입니다.
+- `?mmWriteEEPROMUSB30@@YAHPAXKKPAE@Z`,USB 3.0 인터페이스에서 EEPROM에 데이터를 쓰는 함수입니다.
+- `?mm_CorrectBadPixels@@YAHPAXPAUBADPIXELSTATISTICS@@@Z`,손상된 픽셀을 보정하는 함수입니다.
+- `?mm_GetMeans@@YAHPAU_CAMERA@@KKKKPAM@Z`,카메라에서 평균값을 계산하는 함수입니다.
+- `?mm_GetRawPixel@@YAHPAXPAU_CAMERA@@KKPAG@Z`,카메라에서 원시 픽셀 데이터를 가져오는 함수입니다.
+- `?mm_GetRawPixelEx@@YAHPAXPAU_CAMERA@@KKPAG@Z`,확장된 옵션으로 원시 픽셀 데이터를 가져오는 함수입니다.
+- `?mm_IsFrameComplete@@YAHPAXPAU_CAMERA@@@Z`,카메라 프레임이 완전히 수신되었는지 확인하는 함수입니다.
+- `?mm_ProcessFrame@@YAHPAXPAU_CAMERA@@@Z`,카메라 프레임을 처리하는 함수입니다.
+- `?mm_RetrieveBitmapAdv@@YAHPAXPAU_CAMERA@@PAUMMGETBITMAP@@PAUMMGETBITMAPOPT@@@Z`,고급 옵션을 사용하여 카메라에서 비트맵 이미지를 가져오는 함수입니다.
+- `?mm_RetrieveFrame@@YAHPAXPAU_CAMERA@@PAUMMGETFRAME@@@Z`,카메라에서 프레임을 가져오는 함수입니다.
+- `?mm_RetrieveFrameBayerEx@@YAHPAXPAU_CAMERA@@PAUMMGETFRAMEEX@@@Z`,Bayer 형식의 확장된 프레임을 가져오는 함수입니다.
+- `?mm_RetrieveFrameEx@@YAHPAXPAU_CAMERA@@PAUMMGETFRAMEEX@@@Z`,확장된 프레임을 가져오는 함수입니다.
+- `?mm_RetrieveFramePlaneEx@@YAHPAXPAU_CAMERA@@PAUMMGETFRAMEEX@@K@Z`,확장된 평면 형식의 프레임을 가져오는 함수입니다.
+- `?mm_SaveBadPixelsList@@YAHPAXPAU_CAMERA@@@Z`,손상된 픽셀 목록을 저장하는 함수입니다.
+- `?mm_StartCameraStatus@@YAHPAXPAU_CAMERA@@H@Z`,카메라의 상태를 시작하거나 초기화하는 함수입니다.
+- `?mq_CorrectBadPixels@@YAHPAXPAUBADPIXELSTATISTICS@@@Z`,손상된 픽셀을 보정하는 함수입니다.
+- `?mq_GetDeviceUserID@@YAHPAXPADPAK@Z`,장치의 사용자 ID를 가져오는 함수입니다.
+- `?mq_GetFactoryInfo@@YAHPAXPAD111PAK@Z`,장치의 공장 정보를 가져오는 함수입니다.
+- `?mq_GetImageSensorTemperatureRaw@@YAHPAXPAM@Z`,이미지 센서의 원시 온도 데이터를 가져오는 함수입니다.
+- `?mq_GetTemperatureEx@@YAHPAXPAM1@Z`,확장된 옵션으로 온도를 가져오는 함수입니다.
+- `?mq_GetTimestamp@@YAHPAXPAU_CAMERA@@PAK2@Z`,카메라의 타임스탬프를 가져오는 함수입니다.
+- `?mq_ParseProfileNFFS@@YAHPAXPAD@Z`,NFFS 프로파일을 파싱하는 함수입니다.
+- `?mq_SetAcquisitionBufferSize@@YAHPAXPAU_CAMERA@@K@Z`,카메라의 데이터 수집 버퍼 크기를 설정하는 함수입니다.
+- `?mq_SetDeviceUserID@@YAHPAXPAD@Z`,장치의 사용자 ID를 설정하는 함수입니다.
+- `?mr_CalibrateTemperature2P@@YAHPAXMM@Z`,2점 보정을 통해 온도를 보정하는 함수입니다.
+- `?mr_CalibrateTemperature@@YAHPAXMM@Z`,온도를 보정하는 함수입니다.
+- `?mr_CorrectBadPixels@@YAHPAXPAUBADPIXELSTATISTICS@@@Z`,손상된 픽셀을 보정하는 함수입니다.
+- `?mr_GetFactoryInfo@@YAHPAXPAD111PAK@Z`,장치의 공장 정보를 가져오는 함수입니다.
+- `?mr_GetMeans@@YAHPAU_CAMERA@@KKKKPAM@Z`,카메라에서 평균값을 계산하는 함수입니다.
+- `?mr_GetRawPixel@@YAHPAXPAU_CAMERA@@KKPAG@Z`,카메라에서 원시 픽셀 데이터를 가져오는 함수입니다.
+- `?mr_GetRawPixelEx@@YAHPAXPAU_CAMERA@@KKPAG@Z`,확장된 옵션으로 원시 픽셀 데이터를 가져오는 함수입니다.
+- `?mr_GetTemperature@@YAHPAXPAK@Z`,온도를 가져오는 함수입니다.
+- `?mr_GetTemperatureEx@@YAHPAXPAM1@Z`,확장된 옵션으로 온도를 가져오는 함수입니다.
+- `?mr_GetTimestamp@@YAHPAXPAU_CAMERA@@PAK2@Z`,카메라의 타임스탬프를 가져오는 함수입니다.
+- `?mr_ParseProfileFFS@@YAHPAXPAD@Z`,FFS 프로파일을 파싱하는 함수입니다.
+- `?mr_ProcessFrame@@YAHPAXPAU_CAMERA@@@Z`,카메라 프레임을 처리하는 함수입니다.
+- `?mr_RetrieveBitmapDn@@YAHPAXPAU_CAMERA@@PAUMMGETBITMAP@@PAUMMGETBITMAPOPT@@PAUNOISE_PARAMS@@@Z`,노이즈 파라미터를 사용하여 비트맵 이미지를 가져오는 함수입니다.
+- `?mr_SetCooling@@YAHPAXHM@Z`,냉각 기능을 설정하는 함수입니다.
+- `?ms_GetFactoryInfo@@YAHPAXPAD111PAK@Z`,장치의 공장 정보를 가져오는 함수입니다.
+- `?ms_GetTemperatureEx@@YAHPAXPAM1@Z`,확장된 옵션으로 온도를 가져오는 함수입니다.
+- `?ms_GetTimestamp@@YAHPAXPAU_CAMERA@@PAK2@Z`,카메라의 타임스탬프를 가져오는 함수입니다.
+- `?ms_SetAcquisitionBufferSize@@YAHPAXPAU_CAMERA@@K@Z`,카메라의 데이터 수집 버퍼 크기를 설정하는 함수입니다.
+- `?mu_CorrectBadPixels@@YAHPAXPAUBADPIXELSTATISTICS@@@Z`,손상된 픽셀을 보정하는 함수입니다.
+- `?mu_GetFactoryInfo@@YAHPAXPAD111PAK@Z`,장치의 공장 정보를 가져오는 함수입니다.
+- `?mu_GetTemperatureEx@@YAHPAXPAM1@Z`,확장된 옵션으로 온도를 가져오는 함수입니다.
+- `?mu_GetTimestamp@@YAHPAXPAU_CAMERA@@PAK2@Z`,카메라의 타임스탬프를 가져오는 함수입니다.
+- `?mu_ProcessFrame@@YAHPAXPAU_CAMERA@@@Z`,카메라 프레임을 처리하는 함수입니다.
+- `?mu_SaveBadPixelsList@@YAHPAXPAU_CAMERA@@@Z`,손상된 픽셀 목록을 저장하는 함수입니다.
+- `?mu_SetAcquisitionBufferSize@@YAHPAXPAU_CAMERA@@K@Z`,카메라의 데이터 수집 버퍼 크기를 설정하는 함수입니다.
+- `?mx_GetTemperatureEx@@YAHPAXPAM1@Z`,확장된 옵션으로 온도를 가져오는 함수입니다.
+- `?xi3API_xiCloseDevice@@YAHPAX@Z`,장치 연결을 닫는 함수입니다.
+- `?xi3API_xiGetDeviceInfo@@YAHKPBDPAXPAKPAW4XI_PRM_TYPE@@@Z`,장치 정보를 가져오는 함수입니다.
+- `?xi3API_xiGetDeviceInfoInt@@YAHKPBDPAH@Z`,정수 형식의 장치 정보를 가져오는 함수입니다.
+- `?xi3API_xiGetDeviceInfoString@@YAHKPBDPADK@Z`,문자열 형식의 장치 정보를 가져오는 함수입니다.
+- `?xi3API_xiGetImage@@YAHPAXKPAUXI_IMG@@@Z`,이미지를 가져오는 함수입니다.
+- `?xi3API_xiGetNumberDevices@@YAHPAK@Z`,연결된 장치의 수를 가져오는 함수입니다.
+- `?xi3API_xiGetParam@@YAHPAXPBD0PAKPAW4XI_PRM_TYPE@@@Z`,장치의 파라미터를 가져오는 함수입니다.
+- `?xi3API_xiOpenDevice@@YAHKPAPAX@Z`,장치를 여는 함수입니다.
+- `?xi3API_xiOpenDeviceBy@@YAHW4XI_OPEN_BY@@PBDPAPAX@Z`,특정 기준에 따라 장치를 여는 함수입니다.
+- `?xi3API_xiSetDeviceInfo@@YAHKPBDPAXKW4XI_PRM_TYPE@@@Z`,장치 정보를 설정하는 함수입니다.
+- `?xi3API_xiSetDeviceInfoString@@YAHKPBDPADK@Z`,문자열 형식으로 장치 정보를 설정하는 함수입니다.
+- `?xi3API_xiSetParam@@YAHPAXPBD0KW4XI_PRM_TYPE@@@Z`,장치의 파라미터를 설정하는 함수입니다.
+- `?xi3API_xiStartAcquisition@@YAHPAX@Z`,데이터 수집을 시작하는 함수입니다.
+- `?xi3API_xiStopAcquisition@@YAHPAX@Z`,데이터 수집을 중지하는 함수입니다.
+- `?xiSetDeviceInfo@@YAHKPBDPAXKW4XI_PRM_TYPE@@@Z`,장치 정보를 설정하는 함수입니다.
+- `IFM_Close`,파일이나 장치의 연결을 닫는 함수입니다.
+- `IFM_Closedir`,디렉토리를 닫는 함수입니다.
+- `IFM_Fstat`,파일의 상태 정보를 가져오는 함수입니다.

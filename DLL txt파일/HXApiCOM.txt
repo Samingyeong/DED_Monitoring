@@ -1,0 +1,94 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35211.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file F:\DED monitoring\DED\HXApiCOM.dll
+
+File Type: DLL
+
+  Section contains the following exports for HXApiCOM.dll
+
+    00000000 characteristics
+    5DE8914B time date stamp Thu Dec  5 14:10:35 2019
+        0.00 version
+           1 ordinal base
+          67 number of functions
+          67 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001140 iChangeDir
+          2    1 00001130 iChangeDirMacro
+          3    2 00001120 iChangeDirNc
+          4    3 00001030 iConnectState
+          5    4 00001270 iFileCommand
+          6    5 000011F0 iFileRename
+          7    6 00001110 iFtpConnect
+          8    7 000011C0 iGetAlarmCode
+          9    8 000011D0 iGetAlarmText
+         10    9 00001090 iGetBit
+         11    A 000010F0 iGetBitB
+         12    B 00001230 iGetFileList
+         13    C 00001210 iGetNcFileCount
+         14    D 00001250 iGetNcFileStr
+         15    E 00001150 iGetNcIndex
+         16    F 00001040 iGetRegister32
+         17   10 000010B0 iGetRegister32B
+         18   11 00001060 iGetRegister64
+         19   12 000010D0 iGetRegister64B
+         20   13 00001190 iGetString
+         21   14 00001180 iGetSystemPath
+         22   15 00001010 iInitialize
+         23   16 000011E0 iLoadAlarmMsg
+         24   17 000010A0 iSetBit
+         25   18 00001100 iSetBitB
+         26   19 00001160 iSetMainProgram
+         27   1A 00001050 iSetRegister32
+         28   1B 000010C0 iSetRegister32B
+         29   1C 00001070 iSetRegister64
+         30   1D 000010E0 iSetRegister64B
+         31   1E 000011A0 iSetString
+         32   1F 00001170 iSetSubProgram
+         33   20 00001020 iTerminate
+         34   21 00001390 iXAddUpdateMap
+         35   22 000013E0 iXChangeDir
+         36   23 000013D0 iXChangeDirMacro
+         37   24 000013C0 iXChangeDirNc
+         38   25 00001280 iXConnectState
+         39   26 00001480 iXCreateFile
+         40   27 00001470 iXDeleteFile
+         41   28 00001450 iXDownloadFile
+         42   29 000013B0 iXFtpConnect
+         43   2A 000011B0 iXGetAlarmCode
+         44   2B 00001310 iXGetBit
+         45   2C 00001370 iXGetBitB
+         46   2D 00001220 iXGetNcFileCount
+         47   2E 00001260 iXGetNcFileStr
+         48   2F 000013F0 iXGetNcIndex
+         49   30 000012B0 iXGetRegister32
+         50   31 00001330 iXGetRegister32B
+         51   32 000012D0 iXGetRegister64
+         52   33 00001350 iXGetRegister64B
+         53   34 00001430 iXGetString
+         54   35 00001420 iXGetSystemPath
+         55   36 00001290 iXInitialize
+         56   37 000013A0 iXRemoveUpdateMap
+         57   38 00001320 iXSetBit
+         58   39 00001380 iXSetBitB
+         59   3A 00001400 iXSetMainProgram
+         60   3B 000012C0 iXSetRegister32
+         61   3C 00001340 iXSetRegister32B
+         62   3D 000012E0 iXSetRegister64
+         63   3E 00001360 iXSetRegister64B
+         64   3F 00001440 iXSetString
+         65   40 00001410 iXSetSubProgram
+         66   41 000012A0 iXTerminate
+         67   42 00001460 iXUploadFile
+
+  Summary
+
+        1000 .data
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

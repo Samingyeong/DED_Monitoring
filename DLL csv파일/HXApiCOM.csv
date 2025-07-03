@@ -1,0 +1,68 @@
+﻿함수명,설명
+- iChangeDir,디렉토리를 변경하는 기능을 수행합니다.
+- iChangeDirMacro,매크로를 사용하여 디렉토리를 변경하는 기능을 수행합니다.
+- iChangeDirNc,NC 파일의 디렉토리를 변경하는 기능을 수행합니다.
+- iConnectState,연결 상태를 확인하는 기능을 수행합니다.
+- iFileCommand,파일에 대한 명령을 실행하는 기능을 수행합니다.
+- iFileRename,파일의 이름을 변경하는 기능을 수행합니다.
+- iFtpConnect,FTP 서버에 연결하는 기능을 수행합니다.
+- iGetAlarmCode,알람 코드를 가져오는 기능을 수행합니다.
+- iGetAlarmText,알람 메시지를 가져오는 기능을 수행합니다.
+- iGetBit,특정 비트 값을 가져오는 기능을 수행합니다.
+- iGetBitB,백업된 비트 값을 가져오는 기능을 수행합니다.
+- iGetFileList,파일 목록을 가져오는 기능을 수행합니다.
+- iGetNcFileCount,NC 파일의 개수를 가져오는 기능을 수행합니다.
+- iGetNcFileStr,NC 파일의 문자열을 가져오는 기능을 수행합니다.
+- iGetNcIndex,NC 파일의 인덱스를 가져오는 기능을 수행합니다.
+- iGetRegister32,32비트 레지스터 값을 가져오는 기능을 수행합니다.
+- iGetRegister32B,백업된 32비트 레지스터 값을 가져오는 기능을 수행합니다.
+- iGetRegister64,64비트 레지스터 값을 가져오는 기능을 수행합니다.
+- iGetRegister64B,백업된 64비트 레지스터 값을 가져오는 기능을 수행합니다.
+- iGetString,문자열을 가져오는 기능을 수행합니다.
+- iGetSystemPath,시스템 경로를 가져오는 기능을 수행합니다.
+- iInitialize,초기화 작업을 수행하는 기능을 수행합니다.
+- iLoadAlarmMsg,알람 메시지를 로드하는 기능을 수행합니다.
+- iSetBit,특정 비트 값을 설정하는 기능을 수행합니다.
+- iSetBitB,백업된 비트 값을 설정하는 기능을 수행합니다.
+- iSetMainProgram,메인 프로그램을 설정하는 기능을 수행합니다.
+- iSetRegister32,32비트 레지스터 값을 설정하는 기능을 수행합니다.
+- iSetRegister32B,백업된 32비트 레지스터 값을 설정하는 기능을 수행합니다.
+- iSetRegister64,64비트 레지스터 값을 설정하는 기능을 수행합니다.
+- iSetRegister64B,백업된 64비트 레지스터 값을 설정하는 기능을 수행합니다.
+- iSetString,문자열을 설정하는 기능을 수행합니다.
+- iSetSubProgram,서브 프로그램을 설정하는 기능을 수행합니다.
+- iTerminate,종료 작업을 수행하는 기능을 수행합니다.
+- iXAddUpdateMap,업데이트 맵을 추가하는 기능을 수행합니다.
+- iXChangeDir,디렉토리를 변경하는 기능을 수행합니다.
+- iXChangeDirMacro,매크로를 사용하여 디렉토리를 변경하는 기능을 수행합니다.
+- iXChangeDirNc,NC 파일의 디렉토리를 변경하는 기능을 수행합니다.
+- iXConnectState,연결 상태를 확인하는 기능을 수행합니다.
+- iXCreateFile,파일을 생성하는 기능을 수행합니다.
+- iXDeleteFile,파일을 삭제하는 기능을 수행합니다.
+- iXDownloadFile,파일을 다운로드하는 기능을 수행합니다.
+- iXFtpConnect,FTP 서버에 연결하는 기능을 수행합니다.
+- iXGetAlarmCode,알람 코드를 가져오는 기능을 수행합니다.
+- iXGetBit,특정 비트 값을 가져오는 기능을 수행합니다.
+- iXGetBitB,백업된 비트 값을 가져오는 기능을 수행합니다.
+- iXGetNcFileCount,NC 파일의 개수를 가져오는 기능을 수행합니다.
+- iXGetNcFileStr,NC 파일의 문자열을 가져오는 기능을 수행합니다.
+- iXGetNcIndex,NC 파일의 인덱스를 가져오는 기능을 수행합니다.
+- iXGetRegister32,32비트 레지스터 값을 가져오는 기능을 수행합니다.
+- iXGetRegister32B,백업된 32비트 레지스터 값을 가져오는 기능을 수행합니다.
+- iXGetRegister64,64비트 레지스터 값을 가져오는 기능을 수행합니다.
+- iXGetRegister64B,백업된 64비트 레지스터 값을 가져오는 기능을 수행합니다.
+- iXGetString,문자열을 가져오는 기능을 수행합니다.
+- iXGetSystemPath,시스템 경로를 가져오는 기능을 수행합니다.
+- iXInitialize,초기화 작업을 수행하는 기능을 수행합니다.
+- iXRemoveUpdateMap,업데이트 맵을 제거하는 기능을 수행합니다.
+- iXSetBit,특정 비트 값을 설정하는 기능을 수행합니다.
+- iXSetBitB,백업된 비트 값을 설정하는 기능을 수행합니다.
+- iXSetMainProgram,메인 프로그램을 설정하는 기능을 수행합니다.
+- iXSetRegister32,32비트 레지스터 값을 설정하는 기능을 수행합니다.
+- iXSetRegister32B,백업된 32비트 레지스터 값을 설정하는 기능을 수행합니다.
+- iXSetRegister64,64비트 레지스터 값을 설정하는 기능을 수행합니다.
+- iXSetRegister64B,백업된 64비트 레지스터 값을 설정하는 기능을 수행합니다.
+- iXSetString,문자열을 설정하는 기능을 수행합니다.
+- iXSetSubProgram,서브 프로그램을 설정하는 기능을 수행합니다.
+- iXTerminate,종료 작업을 수행하는 기능을 수행합니다.
+- iXUploadFile,파일을 업로드하는 기능을 수행합니다.

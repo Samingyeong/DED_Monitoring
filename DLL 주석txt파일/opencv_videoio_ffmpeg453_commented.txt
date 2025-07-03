@@ -1,0 +1,12 @@
+functions  // 
+names  // 
+cvCreateVideoWriter_FFMPEG  // FFMPEG를 사용하여 비디오 파일을 생성하고, 비디오 데이터를 파일에 기록할 수 있는 VideoWriter 객체를 생성합니다.
+cvGetCaptureProperty_FFMPEG  // FFMPEG를 사용하여 비디오 캡처 객체의 속성(예: 프레임 너비, 높이 등)을 가져옵니다.
+cvGrabFrame_FFMPEG  // FFMPEG를 사용하여 비디오 캡처 장치나 파일에서 다음 프레임을 가져옵니다. 이 함수는 프레임을 실제로 반환하지 않고 내부 버퍼에 저장합니다.
+cvReleaseCapture_FFMPEG  // FFMPEG를 사용하여 비디오 캡처 객체를 해제하고 관련된 모든 리소스를 정리합니다.
+cvReleaseVideoWriter_FFMPEG  // FFMPEG를 사용하여 VideoWriter 객체를 해제하고 관련된 모든 리소스를 정리합니다.
+cvRetrieveFrame_FFMPEG  // FFMPEG를 사용하여 이전에 cvGrabFrame_FFMPEG로 가져온 프레임을 반환합니다.
+cvSetCaptureProperty_FFMPEG  // FFMPEG를 사용하여 비디오 캡처 객체의 속성(예: 프레임 속도, 해상도 등)을 설정합니다.
+cvWriteFrame_FFMPEG  // FFMPEG를 사용하여 VideoWriter 객체에 비디오 프레임을 기록합니다.
+opencv_videoio_capture_plugin_init_v1  // OpenCV의 비디오 입력 플러그인을 초기화하여 다양한 비디오 캡처 소스를 사용할 수 있도록 설정합니다.
+opencv_videoio_writer_plugin_init_v1  // OpenCV의 비디오 출력 플러그인을 초기화하여 다양한 비디오 파일 형식으로 출력을 지원할 수 있도록 설정합니다.

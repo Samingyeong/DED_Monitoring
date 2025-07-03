@@ -1,0 +1,100 @@
+﻿함수명,설명
+이 함수들은 OpenCV 라이브러리와 관련된 다양한 클래스의 생성자입니다. 각 함수는 특정 클래스의 객체를 초기화하는 역할을 합니다. 다음은 각 함수의 기능이나 용도를 간단히 설명한 것입니다,
+- ??0?$RotationWarperBase@UCompressedRectilinearPortraitProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Compressed Rectilinear Portrait Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UCompressedRectilinearPortraitProjector@detail@cv@@@detail@cv@@QAE@XZ,Compressed Rectilinear Portrait Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UCompressedRectilinearProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Compressed Rectilinear Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UCompressedRectilinearProjector@detail@cv@@@detail@cv@@QAE@XZ,Compressed Rectilinear Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UCylindricalPortraitProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Cylindrical Portrait Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UCylindricalPortraitProjector@detail@cv@@@detail@cv@@QAE@XZ,Cylindrical Portrait Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UCylindricalProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Cylindrical Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UCylindricalProjector@detail@cv@@@detail@cv@@QAE@XZ,Cylindrical Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UFisheyeProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Fisheye Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UFisheyeProjector@detail@cv@@@detail@cv@@QAE@XZ,Fisheye Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UMercatorProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Mercator Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UMercatorProjector@detail@cv@@@detail@cv@@QAE@XZ,Mercator Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UPaniniPortraitProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Panini Portrait Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UPaniniPortraitProjector@detail@cv@@@detail@cv@@QAE@XZ,Panini Portrait Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UPaniniProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Panini Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UPaniniProjector@detail@cv@@@detail@cv@@QAE@XZ,Panini Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UPlanePortraitProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Plane Portrait Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UPlanePortraitProjector@detail@cv@@@detail@cv@@QAE@XZ,Plane Portrait Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UPlaneProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Plane Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UPlaneProjector@detail@cv@@@detail@cv@@QAE@XZ,Plane Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@USphericalPortraitProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Spherical Portrait Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@USphericalPortraitProjector@detail@cv@@@detail@cv@@QAE@XZ,Spherical Portrait Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@USphericalProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Spherical Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@USphericalProjector@detail@cv@@@detail@cv@@QAE@XZ,Spherical Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UStereographicProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Stereographic Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UStereographicProjector@detail@cv@@@detail@cv@@QAE@XZ,Stereographic Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0?$RotationWarperBase@UTransverseMercatorProjector@detail@cv@@@detail@cv@@QAE@ABV012@@Z,Transverse Mercator Projector를 위한 Rotation Warper Base 클래스의 복사 생성자.
+- ??0?$RotationWarperBase@UTransverseMercatorProjector@detail@cv@@@detail@cv@@QAE@XZ,Transverse Mercator Projector를 위한 Rotation Warper Base 클래스의 기본 생성자.
+- ??0AKAZE@cv@@QAE@$$QAV01@@Z,AKAZE 클래스의 이동 생성자.
+- ??0AKAZE@cv@@QAE@ABV01@@Z,AKAZE 클래스의 복사 생성자.
+- ??0AKAZE@cv@@QAE@XZ,AKAZE 클래스의 기본 생성자.
+- ??0ANN_MLP@ml@cv@@QAE@$$QAV012@@Z,ANN_MLP 클래스의 이동 생성자.
+- ??0ANN_MLP@ml@cv@@QAE@ABV012@@Z,ANN_MLP 클래스의 복사 생성자.
+- ??0ANN_MLP@ml@cv@@QAE@XZ,ANN_MLP 클래스의 기본 생성자.
+- ??0AdaptiveManifoldFilter@ximgproc@cv@@QAE@$$QAV012@@Z,Adaptive Manifold Filter 클래스의 이동 생성자.
+- ??0AdaptiveManifoldFilter@ximgproc@cv@@QAE@ABV012@@Z,Adaptive Manifold Filter 클래스의 복사 생성자.
+- ??0AdaptiveManifoldFilter@ximgproc@cv@@QAE@XZ,Adaptive Manifold Filter 클래스의 기본 생성자.
+- ??0AffineBasedEstimator@detail@cv@@QAE@$$QAV012@@Z,Affine Based Estimator 클래스의 이동 생성자.
+- ??0AffineBasedEstimator@detail@cv@@QAE@ABV012@@Z,Affine Based Estimator 클래스의 복사 생성자.
+- ??0AffineBasedEstimator@detail@cv@@QAE@XZ,Affine Based Estimator 클래스의 기본 생성자.
+- ??0AffineBestOf2NearestMatcher@detail@cv@@QAE@$$QAV012@@Z,Affine Best Of 2 Nearest Matcher 클래스의 이동 생성자.
+- ??0AffineBestOf2NearestMatcher@detail@cv@@QAE@ABV012@@Z,Affine Best Of 2 Nearest Matcher 클래스의 복사 생성자.
+- ??0AffineBestOf2NearestMatcher@detail@cv@@QAE@_N0MH@Z,Affine Best Of 2 Nearest Matcher 클래스의 특정 생성자.
+- ??0AffineFeature2D@xfeatures2d@cv@@QAE@$$QAV012@@Z,Affine Feature 2D 클래스의 이동 생성자.
+- ??0AffineFeature2D@xfeatures2d@cv@@QAE@ABV012@@Z,Affine Feature 2D 클래스의 복사 생성자.
+- ??0AffineFeature2D@xfeatures2d@cv@@QAE@XZ,Affine Feature 2D 클래스의 기본 생성자.
+- ??0AffineFeature@cv@@QAE@$$QAV01@@Z,Affine Feature 클래스의 이동 생성자.
+- ??0AffineFeature@cv@@QAE@ABV01@@Z,Affine Feature 클래스의 복사 생성자.
+- ??0AffineFeature@cv@@QAE@XZ,Affine Feature 클래스의 기본 생성자.
+- ??0AffineTransformer@cv@@QAE@$$QAV01@@Z,Affine Transformer 클래스의 이동 생성자.
+- ??0AffineTransformer@cv@@QAE@ABV01@@Z,Affine Transformer 클래스의 복사 생성자.
+- ??0AffineTransformer@cv@@QAE@XZ,Affine Transformer 클래스의 기본 생성자.
+- ??0AffineWarper@cv@@QAE@$$QAV01@@Z,Affine Warper 클래스의 이동 생성자.
+- ??0AffineWarper@cv@@QAE@ABV01@@Z,Affine Warper 클래스의 복사 생성자.
+- ??0AffineWarper@cv@@QAE@XZ,Affine Warper 클래스의 기본 생성자.
+- ??0AffineWarper@detail@cv@@QAE@$$QAV012@@Z,Affine Warper 클래스의 이동 생성자.
+- ??0AffineWarper@detail@cv@@QAE@ABV012@@Z,Affine Warper 클래스의 복사 생성자.
+- ??0AffineWarper@detail@cv@@QAE@M@Z,Affine Warper 클래스의 특정 생성자.
+- ??0AgastFeatureDetector@cv@@QAE@$$QAV01@@Z,Agast Feature Detector 클래스의 이동 생성자.
+- ??0AgastFeatureDetector@cv@@QAE@ABV01@@Z,Agast Feature Detector 클래스의 복사 생성자.
+- ??0AgastFeatureDetector@cv@@QAE@XZ,Agast Feature Detector 클래스의 기본 생성자.
+- ??0Algorithm@cv@@QAE@ABV01@@Z,Algorithm 클래스의 복사 생성자.
+- ??0AlignExposures@cv@@QAE@$$QAV01@@Z,Align Exposures 클래스의 이동 생성자.
+- ??0AlignExposures@cv@@QAE@ABV01@@Z,Align Exposures 클래스의 복사 생성자.
+- ??0AlignExposures@cv@@QAE@XZ,Align Exposures 클래스의 기본 생성자.
+- ??0AlignMTB@cv@@QAE@$$QAV01@@Z,Align MTB 클래스의 이동 생성자.
+- ??0AlignMTB@cv@@QAE@ABV01@@Z,Align MTB 클래스의 복사 생성자.
+- ??0AlignMTB@cv@@QAE@XZ,Align MTB 클래스의 기본 생성자.
+- ??0Allocator@GpuMat@cuda@cv@@QAE@ABV0123@@Z,GpuMat의 Allocator 클래스의 복사 생성자.
+- ??0Allocator@GpuMat@cuda@cv@@QAE@XZ,GpuMat의 Allocator 클래스의 기본 생성자.
+- ??0AsyncArray@cv@@QAE@$$QAV01@@Z,AsyncArray 클래스의 이동 생성자.
+- ??0AverageHash@img_hash@cv@@IAE@XZ,Average Hash 클래스의 기본 생성자.
+- ??0AverageHash@img_hash@cv@@QAE@$$QAV012@@Z,Average Hash 클래스의 이동 생성자.
+- ??0AverageHash@img_hash@cv@@QAE@ABV012@@Z,Average Hash 클래스의 복사 생성자.
+- ??0BEBLID@xfeatures2d@cv@@QAE@$$QAV012@@Z,BEBLID 클래스의 이동 생성자.
+- ??0BEBLID@xfeatures2d@cv@@QAE@ABV012@@Z,BEBLID 클래스의 복사 생성자.
+- ??0BEBLID@xfeatures2d@cv@@QAE@XZ,BEBLID 클래스의 기본 생성자.
+- ??0BFMatcher@cv@@QAE@ABV01@@Z,BFMatcher 클래스의 복사 생성자.
+- ??0BOWImgDescriptorExtractor@cv@@QAE@ABV01@@Z,BOWImgDescriptorExtractor 클래스의 복사 생성자.
+- ??0BOWKMeansTrainer@cv@@QAE@ABV01@@Z,BOWKMeansTrainer 클래스의 복사 생성자.
+- ??0BOWTrainer@cv@@QAE@ABV01@@Z,BOWTrainer 클래스의 복사 생성자.
+- ??0BRISK@cv@@QAE@$$QAV01@@Z,BRISK 클래스의 이동 생성자.
+- ??0BRISK@cv@@QAE@ABV01@@Z,BRISK 클래스의 복사 생성자.
+- ??0BRISK@cv@@QAE@XZ,BRISK 클래스의 기본 생성자.
+- ??0BackgroundSubtractor@cv@@QAE@$$QAV01@@Z,Background Subtractor 클래스의 이동 생성자.
+- ??0BackgroundSubtractor@cv@@QAE@ABV01@@Z,Background Subtractor 클래스의 복사 생성자.
+- ??0BackgroundSubtractor@cv@@QAE@XZ,Background Subtractor 클래스의 기본 생성자.
+- ??0BackgroundSubtractorCNT@bgsegm@cv@@QAE@$$QAV012@@Z,Background Subtractor CNT 클래스의 이동 생성자.
+- ??0BackgroundSubtractorCNT@bgsegm@cv@@QAE@ABV012@@Z,Background Subtractor CNT 클래스의 복사 생성자.
+- ??0BackgroundSubtractorCNT@bgsegm@cv@@QAE@XZ,Background Subtractor CNT 클래스의 기본 생성자.
+- ??0BackgroundSubtractorGMG@bgsegm@cv@@QAE@$$QAV012@@Z,Background Subtractor GMG 클래스의 이동 생성자.
+- ??0BackgroundSubtractorGMG@bgsegm@cv@@QAE@ABV012@@Z,Background Subtractor GMG 클래스의 복사 생성자.
+- ??0BackgroundSubtractorGMG@bgsegm@cv@@QAE@XZ,Background Subtractor GMG 클래스의 기본 생성자.
+- ??0BackgroundSubtractorGSOC@bgsegm@cv@@QAE@$$QAV012@@Z,Background Subtractor GSOC 클래스의 이동 생성자.
+- ??0BackgroundSubtractorGSOC@bgsegm@cv@@QAE@ABV012@@Z,Background Subtractor GSOC 클래스의 복사 생성자.
+- ??0BackgroundSubtractorGSOC@bgsegm@cv@@QAE@XZ,Background Subtractor GSOC 클래스의 기본 생성자.
+- ??0BackgroundSubtractorKNN@cv@@QAE@$$QAV01@@Z,Background Subtractor KNN 클래스의 이동 생성자.
+- ??0BackgroundSubtractorKNN@cv@@QAE@ABV01@@Z,Background Subtractor KNN 클래스의 복사 생성자.

@@ -1,0 +1,99 @@
+﻿함수명,설명
+- ??0AutoMutex@@QAE@AAPAX@Z,AutoMutex 클래스의 생성자. 자동으로 뮤텍스를 관리하는 객체를 초기화합니다.
+- ??0ConnectionError@evo@@QAE@AAV01@@Z,ConnectionError 클래스의 복사 생성자. 기존 ConnectionError 객체를 복사하여 초기화합니다.
+- ??0ConnectionError@evo@@QAE@ABV01@@Z,ConnectionError 클래스의 복사 생성자. 상수 참조를 사용하여 객체를 초기화합니다.
+- ??0ConnectionError@evo@@QAE@PBD@Z,ConnectionError 클래스의 생성자. 문자열을 입력받아 초기화합니다.
+- ??0ConnectionError@evo@@QAE@XZ,ConnectionError 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0DaemonCamHandler@evo@@QAE@ABV01@@Z,DaemonCamHandler 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0DaemonCamHandler@evo@@QAE@PAVIRImager@1@H@Z,DaemonCamHandler 클래스의 생성자. IRImager 객체와 정수를 입력받아 초기화합니다.
+- ??0DirectBridge@evo@@QAE@ABV01@@Z,DirectBridge 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0DirectBridge@evo@@QAE@H@Z,DirectBridge 클래스의 생성자. 정수를 입력받아 초기화합니다.
+- ??0DirectBridgeClient@evo@@QAE@ABV01@@Z,DirectBridgeClient 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0DirectBridgeClient@evo@@QAE@XZ,DirectBridgeClient 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0DirectBridgeClientTCP@evo@@AAE@XZ,DirectBridgeClientTCP 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0DirectBridgeClientTCP@evo@@QAE@ABV01@@Z,DirectBridgeClientTCP 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0DirectBridgeClientUSB@evo@@AAE@XZ,DirectBridgeClientUSB 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0DirectBridgeClientUSB@evo@@QAE@ABV01@@Z,DirectBridgeClientUSB 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0FramerateCounter@evo@@QAE@ABV01@@Z,FramerateCounter 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0FramerateCounter@evo@@QAE@NI@Z,FramerateCounter 클래스의 생성자. 정수와 부호 없는 정수를 입력받아 초기화합니다.
+- ??0HIDComm@@QAE@XZ,HIDComm 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0HIDDevice@@QAE@XZ,HIDDevice 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0IRCalibrationManager@evo@@AAE@XZ,IRCalibrationManager 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0IRDevice@evo@@QAE@ABV01@@Z,IRDevice 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0IRDevice@evo@@QAE@XZ,IRDevice 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0IRDeviceDS@evo@@AAE@XZ,IRDeviceDS 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0IRDeviceDS@evo@@QAE@ABV01@@Z,IRDeviceDS 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0IRDeviceParamsReader@evo@@AAE@XZ,IRDeviceParamsReader 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0IRFileReader@evo@@QAE@ABV01@@Z,IRFileReader 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0IRFileReader@evo@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAUIRDeviceParams@1@@Z,IRFileReader 클래스의 생성자. 문자열과 IRDeviceParams를 입력받아 초기화합니다.
+- ??0IRFileWriter@evo@@QAE@ABV01@@Z,IRFileWriter 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0IRFileWriter@evo@@QAE@_JPBDURawdataHeader@1@@Z,"IRFileWriter 클래스의 생성자. 정수, 문자열, RawdataHeader를 입력받아 초기화합니다."
+- ??0IRImager@evo@@QAE@XZ,IRImager 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0IRImagerClient@evo@@QAE@ABV01@@Z,IRImagerClient 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0IRImagerClient@evo@@QAE@XZ,IRImagerClient 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0IRLogger@evo@@AAE@XZ,IRLogger 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??0ImageBuilder@evo@@QAE@_N@Z,ImageBuilder 클래스의 생성자. 부울 값을 입력받아 초기화합니다.
+- ??0Tcp@evo@@QAE@ABV01@@Z,Tcp 클래스의 복사 생성자. 기존 객체를 복사하여 초기화합니다.
+- ??0Tcp@evo@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HN@Z,"Tcp 클래스의 생성자. 문자열, 정수, 부호 없는 정수를 입력받아 초기화합니다."
+- ??0Tcp@evo@@QAE@H@Z,Tcp 클래스의 생성자. 정수를 입력받아 초기화합니다.
+- ??0Timer@evo@@QAE@XZ,Timer 클래스의 기본 생성자. 기본 상태로 객체를 초기화합니다.
+- ??1AutoMutex@@QAE@XZ,AutoMutex 클래스의 소멸자. 객체가 소멸될 때 자동으로 뮤텍스를 해제합니다.
+- ??1ConnectionError@evo@@UAE@XZ,ConnectionError 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1DaemonCamHandler@evo@@UAE@XZ,DaemonCamHandler 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1DirectBridge@evo@@UAE@XZ,DirectBridge 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1DirectBridgeClient@evo@@UAE@XZ,DirectBridgeClient 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1DirectBridgeClientTCP@evo@@UAE@XZ,DirectBridgeClientTCP 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1DirectBridgeClientUSB@evo@@UAE@XZ,DirectBridgeClientUSB 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1FramerateCounter@evo@@UAE@XZ,FramerateCounter 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1HIDComm@@QAE@XZ,HIDComm 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1HIDDevice@@QAE@XZ,HIDDevice 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRCalibrationManager@evo@@QAE@XZ,IRCalibrationManager 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRDevice@evo@@UAE@XZ,IRDevice 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRDeviceDS@evo@@UAE@XZ,IRDeviceDS 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRDeviceParamsReader@evo@@AAE@XZ,IRDeviceParamsReader 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRFileReader@evo@@UAE@XZ,IRFileReader 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRFileWriter@evo@@UAE@XZ,IRFileWriter 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRImager@evo@@QAE@XZ,IRImager 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRImagerClient@evo@@UAE@XZ,IRImagerClient 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1IRLogger@evo@@AAE@XZ,IRLogger 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1ImageBuilder@evo@@QAE@XZ,ImageBuilder 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1Tcp@evo@@QAE@XZ,Tcp 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??1Timer@evo@@QAE@XZ,Timer 클래스의 소멸자. 객체가 소멸될 때 호출됩니다.
+- ??4ConnectionError@evo@@QAEAAV01@ABV01@@Z,ConnectionError 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4DEVICE_DESCRIPTION@@QAEAAU0@ABU0@@Z,DEVICE_DESCRIPTION 구조체의 대입 연산자. 기존 구조체를 다른 구조체로 대입합니다.
+- ??4DaemonCamHandler@evo@@QAEAAV01@ABV01@@Z,DaemonCamHandler 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4DirectBridge@evo@@QAEAAV01@ABV01@@Z,DirectBridge 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4DirectBridgeClient@evo@@QAEAAV01@ABV01@@Z,DirectBridgeClient 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4DirectBridgeClientTCP@evo@@QAEAAV01@ABV01@@Z,DirectBridgeClientTCP 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4DirectBridgeClientUSB@evo@@QAEAAV01@ABV01@@Z,DirectBridgeClientUSB 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4FramerateCounter@evo@@QAEAAV01@ABV01@@Z,FramerateCounter 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4HIDComm@@QAEAAV0@ABV0@@Z,HIDComm 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4HIDDevice@@QAEAAV0@ABV0@@Z,HIDDevice 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRCalibrationManager@evo@@QAEAAV01@ABV01@@Z,IRCalibrationManager 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRDevice@evo@@QAEAAV01@ABV01@@Z,IRDevice 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRDeviceDS@evo@@QAEAAV01@ABV01@@Z,IRDeviceDS 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRDeviceParamsReader@evo@@QAEAAV01@ABV01@@Z,IRDeviceParamsReader 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRFileReader@evo@@QAEAAV01@ABV01@@Z,IRFileReader 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRFileWriter@evo@@QAEAAV01@ABV01@@Z,IRFileWriter 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRImager@evo@@QAEAAV01@ABV01@@Z,IRImager 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRImagerClient@evo@@QAEAAV01@ABV01@@Z,IRImagerClient 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4IRLogger@evo@@QAEAAV01@ABV01@@Z,IRLogger 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4ImageBuilder@evo@@QAEAAV01@ABV01@@Z,ImageBuilder 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4Tcp@evo@@QAEAAV01@ABV01@@Z,Tcp 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??4Timer@evo@@QAEAAV01@ABV01@@Z,Timer 클래스의 대입 연산자. 기존 객체를 다른 객체로 대입합니다.
+- ??_7ConnectionError@evo@@6B@,ConnectionError 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7DaemonCamHandler@evo@@6B@,DaemonCamHandler 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7DirectBridge@evo@@6B@,DirectBridge 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7DirectBridgeClient@evo@@6B@,DirectBridgeClient 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7DirectBridgeClientTCP@evo@@6B@,DirectBridgeClientTCP 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7DirectBridgeClientUSB@evo@@6BDirectBridgeClient@1@@,DirectBridgeClientUSB 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7DirectBridgeClientUSB@evo@@6BIRImagerClient@1@@,DirectBridgeClientUSB 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7FramerateCounter@evo@@6B@,FramerateCounter 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7IRDevice@evo@@6B@,IRDevice 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7IRDeviceDS@evo@@6B@,IRDeviceDS 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7IRFileReader@evo@@6B@,IRFileReader 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7IRFileWriter@evo@@6B@,IRFileWriter 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_7IRImagerClient@evo@@6B@,IRImagerClient 클래스의 가상 소멸자 테이블. 다형성을 지원하기 위한 구조입니다.
+- ??_FFramerateCounter@evo@@QAEXXZ,FramerateCounter 클래스의 소멸자 호출. 객체가 소멸될 때 호출됩니다.
+- ??_FImageBuilder@evo@@QAEXXZ,ImageBuilder 클래스의 소멸자 호출. 객체가 소멸될 때 호출됩니다.
+- ?CloseHIDDevice@HIDDevice@@QAEHXZ,HIDDevice 클래스의 CloseHIDDevice 함수. HID 장치를 닫습니다.

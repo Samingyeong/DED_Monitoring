@@ -1,0 +1,100 @@
+﻿함수명,설명
+DLL에서 추출한 export 함수 목록에 대한 설명은 다음과 같습니다,
+- HxConnect,연결을 설정합니다.
+- HxDisconnect,연결을 해제합니다.
+- HxGetAlarmCode,알람 코드를 가져옵니다.
+- HxGetApiVersion,API 버전을 가져옵니다.
+- HxGetBit,비트 값을 가져옵니다.
+- HxGetCB,CB 값을 가져옵니다.
+- HxGetCW,CW 값을 가져옵니다.
+- HxGetConnectState,연결 상태를 가져옵니다.
+- HxGetDB,DB 값을 가져옵니다.
+- HxGetDW,DW 값을 가져옵니다.
+- HxGetFB,FB 값을 가져옵니다.
+- HxGetFW,FW 값을 가져옵니다.
+- HxGetGB,GB 값을 가져옵니다.
+- HxGetGW,GW 값을 가져옵니다.
+- HxGetPAF,PAF 값을 가져옵니다.
+- HxGetPAW,PAW 값을 가져옵니다.
+- HxGetPIF,PIF 값을 가져옵니다.
+- HxGetPIW,PIW 값을 가져옵니다.
+- HxGetPMF,PMF 값을 가져옵니다.
+- HxGetPMW,PMW 값을 가져옵니다.
+- HxGetPPF,PPF 값을 가져옵니다.
+- HxGetPPW,PPW 값을 가져옵니다.
+- HxGetPSF,PSF 값을 가져옵니다.
+- HxGetPSW,PSW 값을 가져옵니다.
+- HxGetPUF,PUF 값을 가져옵니다.
+- HxGetPUW,PUW 값을 가져옵니다.
+- HxGetRB,RB 값을 가져옵니다.
+- HxGetRW,RW 값을 가져옵니다.
+- HxGetReg32,32비트 레지스터 값을 가져옵니다.
+- HxGetReg64,64비트 레지스터 값을 가져옵니다.
+- HxGetSNF,SNF 값을 가져옵니다.
+- HxGetSNW,SNW 값을 가져옵니다.
+- HxGetSVF,SVF 값을 가져옵니다.
+- HxGetSVW,SVW 값을 가져옵니다.
+- HxGetString,문자열을 가져옵니다.
+- HxGetTB,TB 값을 가져옵니다.
+- HxGetTW,TW 값을 가져옵니다.
+- HxGetXB,XB 값을 가져옵니다.
+- HxGetXW,XW 값을 가져옵니다.
+- HxGetYB,YB 값을 가져옵니다.
+- HxGetYW,YW 값을 가져옵니다.
+- HxInitialize,초기화를 수행합니다.
+- HxInitialize2,초기화를 수행합니다 (다른 방식).
+- HxIsConnected,연결 여부를 확인합니다.
+- HxPushBit,비트 값을 설정합니다.
+- HxPushCB,CB 값을 설정합니다.
+- HxPushCW,CW 값을 설정합니다.
+- HxPushDB,DB 값을 설정합니다.
+- HxPushDW,DW 값을 설정합니다.
+- HxPushGB,GB 값을 설정합니다.
+- HxPushGW,GW 값을 설정합니다.
+- HxPushPAF,PAF 값을 설정합니다.
+- HxPushPAW,PAW 값을 설정합니다.
+- HxPushPIF,PIF 값을 설정합니다.
+- HxPushPIW,PIW 값을 설정합니다.
+- HxPushPMF,PMF 값을 설정합니다.
+- HxPushPMW,PMW 값을 설정합니다.
+- HxPushPPF,PPF 값을 설정합니다.
+- HxPushPPW,PPW 값을 설정합니다.
+- HxPushPSF,PSF 값을 설정합니다.
+- HxPushPSW,PSW 값을 설정합니다.
+- HxPushPUF,PUF 값을 설정합니다.
+- HxPushPUW,PUW 값을 설정합니다.
+- HxPushRB,RB 값을 설정합니다.
+- HxPushRW,RW 값을 설정합니다.
+- HxPushReg32,32비트 레지스터 값을 설정합니다.
+- HxPushReg64,64비트 레지스터 값을 설정합니다.
+- HxPushSNF,SNF 값을 설정합니다.
+- HxPushSNW,SNW 값을 설정합니다.
+- HxPushSVF,SVF 값을 설정합니다.
+- HxPushSVW,SVW 값을 설정합니다.
+- HxPushTB,TB 값을 설정합니다.
+- HxPushTW,TW 값을 설정합니다.
+- HxPushXB,XB 값을 설정합니다.
+- HxPushXW,XW 값을 설정합니다.
+- HxPushYB,YB 값을 설정합니다.
+- HxPushYW,YW 값을 설정합니다.
+- HxRegistMap,맵을 등록합니다.
+- HxSendSetData,데이터를 설정하여 전송합니다.
+- HxSetBit,비트 값을 설정합니다.
+- HxSetCB,CB 값을 설정합니다.
+- HxSetCW,CW 값을 설정합니다.
+- HxSetDB,DB 값을 설정합니다.
+- HxSetDW,DW 값을 설정합니다.
+- HxSetGB,GB 값을 설정합니다.
+- HxSetGW,GW 값을 설정합니다.
+- HxSetPAF,PAF 값을 설정합니다.
+- HxSetPAW,PAW 값을 설정합니다.
+- HxSetPIF,PIF 값을 설정합니다.
+- HxSetPIW,PIW 값을 설정합니다.
+- HxSetPMF,PMF 값을 설정합니다.
+- HxSetPMW,PMW 값을 설정합니다.
+- HxSetPPF,PPF 값을 설정합니다.
+- HxSetPPW,PPW 값을 설정합니다.
+- HxSetPSF,PSF 값을 설정합니다.
+- HxSetPSW,PSW 값을 설정합니다.
+- HxSetPUF,PUF 값을 설정합니다.
+- HxSetPUW,PUW 값을 설정합니다.

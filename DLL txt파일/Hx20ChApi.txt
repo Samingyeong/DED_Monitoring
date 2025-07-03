@@ -1,0 +1,183 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35211.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file F:\DED monitoring\DED\Hx20ChApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for Hx20ChApi.dll
+
+    00000000 characteristics
+    5DE9FA43 time date stamp Fri Dec  6 15:50:43 2019
+        0.00 version
+           1 ordinal base
+         156 number of functions
+         156 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000054B0 HxConnect
+          2    1 00005570 HxDisconnect
+          3    2 00005830 HxGetAlarmCode
+          4    3 000053E0 HxGetApiVersion
+          5    4 00003430 HxGetBit
+          6    5 00004210 HxGetCB
+          7    6 000042F0 HxGetCW
+          8    7 000055C0 HxGetConnectState
+          9    8 000043C0 HxGetDB
+         10    9 000044A0 HxGetDW
+         11    A 00003FE0 HxGetFB
+         12    B 00004020 HxGetFW
+         13    C 00003E30 HxGetGB
+         14    D 00003F10 HxGetGW
+         15    E 000048F0 HxGetPAF
+         16    F 000049C0 HxGetPAW
+         17   10 00004C70 HxGetPIF
+         18   11 00004D40 HxGetPIW
+         19   12 00005060 HxGetPMF
+         20   13 00005130 HxGetPMW
+         21   14 00004AB0 HxGetPPF
+         22   15 00004B80 HxGetPPW
+         23   16 00004E30 HxGetPSF
+         24   17 00004F30 HxGetPSW
+         25   18 00005220 HxGetPUF
+         26   19 000052F0 HxGetPUW
+         27   1A 00003C80 HxGetRB
+         28   1B 00003D60 HxGetRW
+         29   1C 00002D40 HxGetReg32
+         30   1D 00003080 HxGetReg64
+         31   1E 00004730 HxGetSNF
+         32   1F 00004800 HxGetSNW
+         33   20 00004570 HxGetSVF
+         34   21 00004640 HxGetSVW
+         35   22 00002D20 HxGetString
+         36   23 00004060 HxGetTB
+         37   24 00004140 HxGetTW
+         38   25 00003910 HxGetXB
+         39   26 00003A00 HxGetXW
+         40   27 00003AD0 HxGetYB
+         41   28 00003BB0 HxGetYW
+         42   29 000053F0 HxInitialize
+         43   2A 00005410 HxInitialize2
+         44   2B 000055C0 HxIsConnected
+         45   2C 000056B0 HxPushBit
+         46   2D 00004280 HxPushCB
+         47   2E 00004360 HxPushCW
+         48   2F 00004430 HxPushDB
+         49   30 00004510 HxPushDW
+         50   31 00003EA0 HxPushGB
+         51   32 00003F80 HxPushGW
+         52   33 00004960 HxPushPAF
+         53   34 00004A50 HxPushPAW
+         54   35 00004CE0 HxPushPIF
+         55   36 00004DD0 HxPushPIW
+         56   37 000050D0 HxPushPMF
+         57   38 000051C0 HxPushPMW
+         58   39 00004B20 HxPushPPF
+         59   3A 00004C10 HxPushPPW
+         60   3B 00004EC0 HxPushPSF
+         61   3C 00004FF0 HxPushPSW
+         62   3D 00005290 HxPushPUF
+         63   3E 00005380 HxPushPUW
+         64   3F 00003CF0 HxPushRB
+         65   40 00003DD0 HxPushRW
+         66   41 000055D0 HxPushReg32
+         67   42 00005640 HxPushReg64
+         68   43 000047A0 HxPushSNF
+         69   44 00004890 HxPushSNW
+         70   45 000045E0 HxPushSVF
+         71   46 000046D0 HxPushSVW
+         72   47 000040D0 HxPushTB
+         73   48 000041B0 HxPushTW
+         74   49 00003990 HxPushXB
+         75   4A 00003A70 HxPushXW
+         76   4B 00003B40 HxPushYB
+         77   4C 00003C20 HxPushYW
+         78   4D 00005800 HxRegistMap
+         79   4E 00005720 HxSendSetData
+         80   4F 00003800 HxSetBit
+         81   50 00004250 HxSetCB
+         82   51 00004330 HxSetCW
+         83   52 00004400 HxSetDB
+         84   53 000044E0 HxSetDW
+         85   54 00003E70 HxSetGB
+         86   55 00003F50 HxSetGW
+         87   56 00004930 HxSetPAF
+         88   57 00004A10 HxSetPAW
+         89   58 00004CB0 HxSetPIF
+         90   59 00004D90 HxSetPIW
+         91   5A 000050A0 HxSetPMF
+         92   5B 00005180 HxSetPMW
+         93   5C 00004AF0 HxSetPPF
+         94   5D 00004BD0 HxSetPPW
+         95   5E 00004E80 HxSetPSF
+         96   5F 00004F90 HxSetPSW
+         97   60 00005260 HxSetPUF
+         98   61 00005340 HxSetPUW
+         99   62 00003CC0 HxSetRB
+        100   63 00003DA0 HxSetRW
+        101   64 00003540 HxSetReg32
+        102   65 00003690 HxSetReg64
+        103   66 00004770 HxSetSNF
+        104   67 00004850 HxSetSNW
+        105   68 000045B0 HxSetSVF
+        106   69 00004690 HxSetSVW
+        107   6A 00002D30 HxSetString
+        108   6B 000040A0 HxSetTB
+        109   6C 00004180 HxSetTW
+        110   6D 00003950 HxSetXB
+        111   6E 00003A40 HxSetXW
+        112   6F 00003B10 HxSetYB
+        113   70 00003BF0 HxSetYW
+        114   71 00005400 HxTerminate
+        115   72 00002810 getBit32
+        116   73 00002910 getBit32Map
+        117   74 000029D0 getBitRMap
+        118   75 000028E0 getReg32Map
+        119   76 00002940 getReg64Map
+        120   77 00002A40 getRegPUMap
+        121   78 00002970 getRegRMap
+        122   79 00002B00 getRegSNMap
+        123   7A 00002AA0 getRegSVMap
+        124   7B 00002840 init
+        125   7C 00002090 mCommand
+        126   7D 00001170 mConnect
+        127   7E 000055C0 mConnectState
+        128   7F 000025F0 mGetAlarmCode
+        129   80 000013D0 mGetBit32Map
+        130   81 00002580 mGetBitRMap
+        131   82 00001610 mGetReg32Map
+        132   83 00001E90 mGetReg64Map
+        133   84 00002390 mGetRegPUMap
+        134   85 00002450 mGetRegRMap
+        135   86 00002330 mGetRegSNMap
+        136   87 000022D0 mGetRegSVMap
+        137   88 000026B0 mGetString
+        138   89 00001120 mInit
+        139   8A 000055C0 mIsConnected
+        140   8B 00001840 mSetBit32Map
+        141   8C 00002510 mSetBitRMap
+        142   8D 00001A70 mSetReg32Map
+        143   8E 00001C80 mSetReg64Map
+        144   8F 000023F0 mSetRegPUMap
+        145   90 000024B0 mSetRegRMap
+        146   91 00002770 mSetString
+        147   92 00001390 mTerm
+        148   93 00002230 mWriteCmd
+        149   94 00002820 setBit32
+        150   95 00002B90 setBit32Map
+        151   96 00002C50 setBitRMap
+        152   97 00002B60 setReg32Map
+        153   98 00002BC0 setReg64Map
+        154   99 00002CC0 setRegPUMap
+        155   9A 00002BF0 setRegRMap
+        156   9B 000028A0 term
+
+  Summary
+
+     4DE9000 .data
+        2000 .rdata
+        4000 .reloc
+        1000 .rsrc
+        A000 .text

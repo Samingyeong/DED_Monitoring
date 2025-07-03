@@ -1,0 +1,203 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35211.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file F:\DED monitoring\DED\GCodeInterpreter.dll
+
+File Type: DLL
+
+  Section contains the following exports for GCodeInterpreter.dll
+
+    00000000 characteristics
+    5B7361DA time date stamp Wed Aug 15 08:12:26 2018
+        0.00 version
+           1 ordinal base
+         170 number of functions
+         170 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00377F3D ??0CCoordMotion@@QAE@ABV0@@Z
+          2    1 0037CD35 ??0CCoordMotion@@QAE@PAVCKMotionDLL@@@Z
+          3    2 003807E1 ??0CGCodeInterpreter@@QAE@ABV0@@Z
+          4    3 0038E233 ??0CGCodeInterpreter@@QAE@PAVCCoordMotion@@@Z
+          5    4 0037F09E ??0CKinematics@@QAE@ABV0@@Z
+          6    5 00377286 ??0CKinematics@@QAE@XZ
+          7    6 003795BD ??1CCoordMotion@@UAE@XZ
+          8    7 0037EE37 ??1CGCodeInterpreter@@UAE@XZ
+          9    8 00384152 ??1CKinematics@@UAE@XZ
+         10    9 003899C7 ??4CCoordMotion@@QAEAAV0@ABV0@@Z
+         11    A 00383B03 ??4CGCodeInterpreter@@QAEAAV0@ABV0@@Z
+         12    B 0038A318 ??4CKinematics@@QAEAAV0@ABV0@@Z
+         13    C 00A9629C ??_7CCoordMotion@@6B@
+         14    D 00A9791C ??_7CGCodeInterpreter@@6B@
+         15    E 00A980A8 ??_7CKinematics@@6B@
+         16    F 00379E23 ??_FCCoordMotion@@QAEXXZ
+         17   10 0038E0B2 ?Abort@CGCodeInterpreter@@QAEXXZ
+         18   11 0037BB3D ?ArcFeed@CCoordMotion@@QAEHNHNNNNHNNNNHH@Z
+         19   12 003775EC ?ArcFeed@CCoordMotion@@QAEHNHNNNNHNNNNNNHH@Z
+         20   13 00383162 ?ArcFeedAccel@CCoordMotion@@QAEHNNHNNNNHNNNNHH@Z
+         21   14 0037D370 ?ArcFeedAccel@CCoordMotion@@QAEHNNHNNNNHNNNNNNHH@Z
+         22   15 0038171D ?ChangeFixtureNumber@CGCodeInterpreter@@QAEHH@Z
+         23   16 00388824 ?CheckMotionHalt@CCoordMotion@@QAEH_N@Z
+         24   17 00385066 ?CheckSoftLimits@CCoordMotion@@QAEHNNNNNNNNAAV?$CStringT@DV?$StrTraitMFC@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@@Z
+         25   18 00379FEA ?CheckSoftLimitsArc@CCoordMotion@@QAEHNNNNNNNNNNNNNNHNNNHHHDDDAAV?$CStringT@DV?$StrTraitMFC@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@@Z
+         26   19 00377835 ?ClearAbort@CCoordMotion@@QAEXXZ
+         27   1A 00387E1A ?ClearHalt@CCoordMotion@@QAEXXZ
+         28   1B 0037A300 ?ClearWriteLineBuffer@CCoordMotion@@AAEHXZ
+         29   1C 0038748D ?CommitPendingSegments@CCoordMotion@@AAEH_N@Z
+         30   1D 0038B655 ?ComputeAnglesOption@CKinematics@@UAEHH@Z
+         31   1E 00385C5F ?ConfigSpindle@CCoordMotion@@QAEHHHNNN@Z
+         32   1F 0037FE36 ?ConvertAbsToUserUnitsA@CGCodeInterpreter@@QAENN@Z
+         33   20 003867E0 ?ConvertAbsToUserUnitsB@CGCodeInterpreter@@QAENN@Z
+         34   21 003847C4 ?ConvertAbsToUserUnitsC@CGCodeInterpreter@@QAENN@Z
+         35   22 0037CEE3 ?ConvertAbsToUserUnitsU@CGCodeInterpreter@@QAENN@Z
+         36   23 0038B4D9 ?ConvertAbsToUserUnitsV@CGCodeInterpreter@@QAENN@Z
+         37   24 003891E3 ?ConvertAbsToUserUnitsX@CGCodeInterpreter@@QAENN@Z
+         38   25 003824A6 ?ConvertAbsToUserUnitsY@CGCodeInterpreter@@QAENN@Z
+         39   26 00382FA0 ?ConvertAbsToUserUnitsZ@CGCodeInterpreter@@QAENN@Z
+         40   27 00375D8C ?ConvertAbsoluteToInterpreterCoord@CGCodeInterpreter@@QAEXNNNNNNNNPAN0000000PAUsetup_struct@@@Z
+         41   28 00377F7E ?ConvertAbsoluteToInterpreterCoord@CGCodeInterpreter@@QAEXNNNNNNPAN00000PAUsetup_struct@@@Z
+         42   29 0038C48D ?ConvertAbsoluteToMachine@CGCodeInterpreter@@QAEXNNNNNNNNPAN0000000@Z
+         43   2A 0038E0B7 ?ConvertAbsoluteToMachine@CGCodeInterpreter@@QAEXNNNNNNPAN00000@Z
+         44   2B 0038D07C ?DetermineSoftwareHardwareFRO@CCoordMotion@@AAEXAAN0@Z
+         45   2C 0038D0F4 ?DoExecute@CGCodeInterpreter@@QAEHXZ
+         46   2D 0037C3E4 ?DoExecuteComplete@CGCodeInterpreter@@QAEHXZ
+         47   2E 00384AEE ?DoKMotionBufCmd@CCoordMotion@@QAEHPBDH@Z
+         48   2F 00380138 ?DoKMotionCmd@CCoordMotion@@QAEHPBDH@Z
+         49   30 003841ED ?DoRateAdjustments@CCoordMotion@@QAEHHH@Z
+         50   31 0037568E ?DoRateAdjustmentsArc@CCoordMotion@@QAEHHNNNN@Z
+         51   32 00386F3D ?DoResumeSafe@CGCodeInterpreter@@AAEHXZ
+         52   33 00385DB3 ?DoReverseSearch@CGCodeInterpreter@@QAEHPBDH@Z
+         53   34 00377B0F ?DoSegmentCallbacks@CCoordMotion@@QAEXHH@Z
+         54   35 003788E8 ?DoSegmentCallbacksRapid@CCoordMotion@@QAEXHH@Z
+         55   36 0037684F ?DoSpecialCommand@CCoordMotion@@QAEHH@Z
+         56   37 003782B7 ?DoSpecialInitialCommands@CCoordMotion@@QAEHXZ
+         57   38 00374C6B ?DownloadDoneSegments@CCoordMotion@@QAEHXZ
+         58   39 00383EB9 ?DownloadInit@CCoordMotion@@QAEXXZ
+         59   3A 0038106F ?Dwell@CCoordMotion@@QAEHNH@Z
+         60   3B 003808FE ?ExecutePC@CGCodeInterpreter@@QAEHPBD@Z
+         61   3C 003869F7 ?ExecutionStop@CCoordMotion@@QAEHXZ
+         62   3D 003861BE ?FeedRateDistance@CCoordMotion@@QAENNNNNNNNNPAH@Z
+         63   3E 00385B3D ?FeedRateDistance@CCoordMotion@@QAENNNNNNNPAH@Z
+         64   3F 0037F468 ?FlushSegments@CCoordMotion@@QAEHXZ
+         65   40 003886EE ?FlushWriteLineBuffer@CCoordMotion@@AAEHXZ
+         66   41 00387235 ?GeoCorrect@CKinematics@@UAEHNNNPAN00@Z
+         67   42 00386376 ?GetAbort@CCoordMotion@@QAE_NXZ
+         68   43 00379829 ?GetAbort@CGCodeInterpreter@@QAE_NXZ
+         69   44 0037A8A5 ?GetAxisDefinitions@CCoordMotion@@QAEHPAH0000000@Z
+         70   45 0038277B ?GetAxisDefinitions@CCoordMotion@@QAEHPAH00000@Z
+         71   46 003778A3 ?GetAxisDone@CCoordMotion@@QAEHHPAH@Z
+         72   47 0038976F ?GetDestination@CCoordMotion@@QAEHHPAN@Z
+         73   48 0037D47E ?GetFeedRateOverride@CCoordMotion@@QAENXZ
+         74   49 00389A1C ?GetFeedRateRapidOverride@CCoordMotion@@QAENXZ
+         75   4A 00386D99 ?GetHalt@CCoordMotion@@QAE_NXZ
+         76   4B 0037BC4B ?GetHalt@CGCodeInterpreter@@QAE_NXZ
+         77   4C 00376DD1 ?GetHaltNextLine@CGCodeInterpreter@@QAE_NXZ
+         78   4D 00384486 ?GetHardwareFRORange@CCoordMotion@@QAENXZ
+         79   4E 0037B18D ?GetMotionParams@CCoordMotion@@QAEPAUMOTION_PARAMS@@XZ
+         80   4F 0038707D ?GetMotionParams@CGCodeInterpreter@@QAEPAUMOTION_PARAMS@@XZ
+         81   50 0038C668 ?GetOrigin@CGCodeInterpreter@@QAEHHPAN0000000@Z
+         82   51 0037B82C ?GetOrigin@CGCodeInterpreter@@QAEHHPAN00000@Z
+         83   52 003878D9 ?GetPosition@CCoordMotion@@QAEHHPAN@Z
+         84   53 00379BD5 ?GetRapidSettings@CCoordMotion@@QAEHXZ
+         85   54 00381998 ?GetRapidSettingsAxis@CCoordMotion@@QAEHHPAN0000N@Z
+         86   55 00386C86 ?GetRealTimeState@CGCodeInterpreter@@QAEPAUsetup_struct@@XZ
+         87   56 00385615 ?GetSoftLimits@CKinematics@@UAEHPAN000000000000000@Z
+         88   57 0038A4A8 ?GetSpindleRPS@CCoordMotion@@QAEHAAM@Z
+         89   58 00375945 ?GetSpindleRateOverride@CCoordMotion@@QAENXZ
+         90   59 0037BDE0 ?Halt@CGCodeInterpreter@@QAEXXZ
+         91   5A 0038290B ?HaltNextLine@CGCodeInterpreter@@QAEXXZ
+         92   5B 00376EE4 ?InchesOrDegToUserUnitsA@CGCodeInterpreter@@QAENN@Z
+         93   5C 003832D9 ?InchesOrDegToUserUnitsB@CGCodeInterpreter@@QAENN@Z
+         94   5D 003757F1 ?InchesOrDegToUserUnitsC@CGCodeInterpreter@@QAENN@Z
+         95   5E 0038644D ?InchesToUserUnits@CGCodeInterpreter@@QAENN@Z
+         96   5F 0037564D ?InchesToUserUnitsX@CGCodeInterpreter@@QAENN@Z
+         97   60 00387668 ?InitializeInterp@CGCodeInterpreter@@QAEHXZ
+         98   61 00389369 ?Interpret@CGCodeInterpreter@@QAEHHPBDHHHP6AXH0@ZP6AXHHH0@Z@Z
+         99   62 0037A2BA ?IntersectionTwoCircles@CKinematics@@QAEHVCPT2D@@N0NPAV2@@Z
+        100   63 0037A16B ?InvertTransformCADtoActuators@CKinematics@@QAEHPAN000000_N@Z
+        101   64 00385EB7 ?InvokeAction@CGCodeInterpreter@@QAEHHH@Z
+        102   65 0037B6DD ?InvokeAction@CGCodeInterpreter@@QAEHHHPAUMCODE_ACTION@@@Z
+        103   66 003819C0 ?InvokeActionDirect@CGCodeInterpreter@@QAEHHHPAUMCODE_ACTION@@@Z
+        104   67 003867AE ?LaunchCoordMotion@CCoordMotion@@AAEHXZ
+        105   68 00378988 ?LaunchExecution@CGCodeInterpreter@@AAEHXZ
+        106   69 00373375 ?MaxAccelInDirection@CKinematics@@QAEHNNNNNNNNPAN@Z
+        107   6A 003881F8 ?MaxRapidAccelInDirection@CKinematics@@QAEHNNNNNNNNPAN@Z
+        108   6B 0038DB85 ?MaxRapidJerkInDirection@CKinematics@@QAEHNNNNNNNNPAN@Z
+        109   6C 0037C6A5 ?MaxRapidRateInDirection@CKinematics@@QAEHNNNNNNNNPAN@Z
+        110   6D 00386759 ?MaxRateInDirection@CKinematics@@QAEHNNNNNNNNPAN@Z
+        111   6E 00377B41 ?MeasurePointAppendToFile@CCoordMotion@@QAEHPBD@Z
+        112   6F 00388914 ?OutputSegment@CCoordMotion@@QAEHH@Z
+        113   70 003787C1 ?PutWriteLineBuffer@CCoordMotion@@AAEHV?$CStringT@DV?$StrTraitMFC@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@N@Z
+        114   71 0037BDA9 ?ReadAndSyncCurPositions@CGCodeInterpreter@@QAEHPAN0000000@Z
+        115   72 00382B54 ?ReadCurAbsPosition@CCoordMotion@@QAEHPAN0000000_N1@Z
+        116   73 0038D8BF ?ReadCurAbsPosition@CCoordMotion@@QAEHPAN00000_N1@Z
+        117   74 0037EB0D ?ReadGeoTable@CKinematics@@UAEHPBD@Z
+        118   75 00381E5C ?ReadSetupFile@CGCodeInterpreter@@QAEHXZ
+        119   76 00388B26 ?ReadToolFile@CGCodeInterpreter@@QAEHXZ
+        120   77 00375774 ?RemapForNonStandardAxes@CKinematics@@UAEHPAN00000@Z
+        121   78 0037707E ?SaveStateOnceOnly@CGCodeInterpreter@@QAEXXZ
+        122   79 00380A07 ?SetAbort@CCoordMotion@@QAEXXZ
+        123   7A 0037C317 ?SetArcFeedCallback@CCoordMotion@@QAEXP6AX_NNHNNNNHNNNNHH@Z@Z
+        124   7B 00380FCA ?SetArcFeedCallback@CCoordMotion@@QAEXP6AX_NNHNNNNHNNNNNNNHH@Z@Z
+        125   7C 00373F96 ?SetAxisDefinitions@CCoordMotion@@QAEHHHHHHH@Z
+        126   7D 00385C05 ?SetAxisDefinitions@CCoordMotion@@QAEHHHHHHHHH@Z
+        127   7E 003744E6 ?SetCSS@CGCodeInterpreter@@QAEHH@Z
+        128   7F 0037E85B ?SetFeedRate@CGCodeInterpreter@@QAEXN@Z
+        129   80 00373BE5 ?SetFeedRateOverride@CCoordMotion@@QAEXN@Z
+        130   81 00383A40 ?SetFeedRateRapidOverride@CCoordMotion@@QAEXN@Z
+        131   82 00373BF4 ?SetHalt@CCoordMotion@@QAEXXZ
+        132   83 0038978D ?SetHardwareFRORange@CCoordMotion@@QAEXN@Z
+        133   84 0038431E ?SetOrigin@CGCodeInterpreter@@QAEHHNNNNNN@Z
+        134   85 0038AAAC ?SetOrigin@CGCodeInterpreter@@QAEHHNNNNNNNN@Z
+        135   86 0038355E ?SetPreviouslyStoppedAtSeg@CCoordMotion@@QAEXPAUSEGMENT@@H@Z
+        136   87 0037F74C ?SetScreenScriptCallback@CGCodeInterpreter@@QAEXP6AHPBD@Z@Z
+        137   88 00382E10 ?SetSetupFile@CGCodeInterpreter@@QAEXPAD@Z
+        138   89 0037F37D ?SetSpindleRateOverride@CCoordMotion@@QAEXN@Z
+        139   8A 00379199 ?SetStraightFeedCallback@CCoordMotion@@QAEXP6AXNNNNHH@Z@Z
+        140   8B 00387F0F ?SetStraightFeedCallback@CCoordMotion@@QAEXP6AXNNNNNNNHH@Z@Z
+        141   8C 00381245 ?SetStraightTraverseCallback@CCoordMotion@@QAEXP6AXNNNH@Z@Z
+        142   8D 00374329 ?SetStraightTraverseCallback@CCoordMotion@@QAEXP6AXNNNNNNH@Z@Z
+        143   8E 0037EFAE ?SetTPParams@CCoordMotion@@QAEXXZ
+        144   8F 0037526F ?SetToolFile@CGCodeInterpreter@@QAEXPAD@Z
+        145   90 00389BF2 ?SetUserCallback@CGCodeInterpreter@@QAEXP6AHPBD@Z@Z
+        146   91 00381E7F ?SetUserMCodeCallback@CGCodeInterpreter@@QAEXP6AHH@Z@Z
+        147   92 00378938 ?SetVarsFile@CGCodeInterpreter@@QAEXPAD@Z
+        148   93 003835BD ?Solve@CKinematics@@QAEHPANH@Z
+        149   94 0037BA5C ?StraightFeed@CCoordMotion@@QAEHNNNNNNNHH@Z
+        150   95 0037770E ?StraightFeed@CCoordMotion@@QAEHNNNNNNNNNHH@Z
+        151   96 00373FA0 ?StraightFeedAccel@CCoordMotion@@QAEHNNNNNNNNHH@Z
+        152   97 0038825C ?StraightFeedAccel@CCoordMotion@@QAEHNNNNNNNNNNHH@Z
+        153   98 0038170E ?StraightFeedAccelRapid@CCoordMotion@@QAEHNN_N0NNNNNNNNHH@Z
+        154   99 00376912 ?StraightTraverse@CCoordMotion@@QAEHNNNNNNNN_NHH@Z
+        155   9A 00385F84 ?StraightTraverse@CCoordMotion@@QAEHNNNNNN_NHH@Z
+        156   9B 00387AC8 ?TransformActuatorstoCAD@CKinematics@@UAEHPAN00000000_N@Z
+        157   9C 0037891A ?TransformActuatorstoCAD@CKinematics@@UAEHPAN000000_N@Z
+        158   9D 003867A9 ?TransformCADtoActuators@CKinematics@@UAEHNNNNNNNNPAN_N@Z
+        159   9E 0037C268 ?TransformCADtoActuators@CKinematics@@UAEHNNNNNNPAN_N@Z
+        160   9F 003858DB ?UpdateRealTimeState@CCoordMotion@@AAEHN@Z
+        161   A0 0037F6C0 ?UserUnitsToInches@CGCodeInterpreter@@QAENN@Z
+        162   A1 0037EE3C ?UserUnitsToInchesOrDegA@CGCodeInterpreter@@QAENN@Z
+        163   A2 0037CE98 ?UserUnitsToInchesOrDegB@CGCodeInterpreter@@QAENN@Z
+        164   A3 0037A355 ?UserUnitsToInchesOrDegC@CGCodeInterpreter@@QAENN@Z
+        165   A4 0038B281 ?UserUnitsToInchesX@CGCodeInterpreter@@QAENN@Z
+        166   A5 0038B871 ?WaitForMoveXYZABCFinished@CCoordMotion@@QAEHXZ
+        167   A6 0037532D ?WaitForSegmentsFinished@CCoordMotion@@QAEHH@Z
+        168   A7 003848E1 ?rs274ErrorExit@CGCodeInterpreter@@AAEHH@Z
+        169   A8 0038D5C7 ?rs274ngc_save_parameters@CGCodeInterpreter@@QAEHXZ
+        170   A9 0038412A ?rs274ngc_save_parameters_changed@CGCodeInterpreter@@QAE_NXZ
+
+  Summary
+
+        1000 .00cfg
+     5738000 .data
+       2E000 .gfids
+        1000 .giats
+        7000 .idata
+       DF000 .rdata
+       90000 .reloc
+        1000 .rsrc
+      721000 .text
+      372000 .textbss
+        1000 .tls

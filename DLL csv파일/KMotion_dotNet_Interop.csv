@@ -1,0 +1,99 @@
+﻿함수명,설명
+DllCanUnloadNow,DLL이 메모리에서 언로드될 수 있는지 여부를 결정합니다.
+DllGetClassObject,클래스 객체를 생성하고 인터페이스 포인터를 반환합니다.
+DllRegisterServer,DLL을 시스템에 등록하여 COM 서버로 사용할 수 있게 합니다.
+DllUnregisterServer,시스템에서 DLL의 등록을 해제합니다.
+_KM_dotnet_Interop_CheckCoffSize@24,COFF 파일의 크기를 확인합니다.
+_KM_dotnet_Interop_CheckForReady@4,시스템이 준비 상태인지 확인합니다.
+_KM_dotnet_Interop_CheckKMotionVersion@12,KMotion의 버전을 확인합니다.
+_KM_dotnet_Interop_Compile@28,코드를 컴파일합니다.
+_KM_dotnet_Interop_CompileAndLoadCoff@20,COFF 파일을 컴파일하고 로드합니다.
+_KM_dotnet_Interop_ConvertToOut@20,데이터를 출력 형식으로 변환합니다.
+_KM_dotnet_Interop_CoordMotion_ArcFeed@92,호 피드 동작을 수행합니다.
+_KM_dotnet_Interop_CoordMotion_ArcFeedAccel@100,가속도를 고려하여 호 피드 동작을 수행합니다.
+_KM_dotnet_Interop_CoordMotion_CheckMotionHalt@8,모션이 중지되었는지 확인합니다.
+_KM_dotnet_Interop_CoordMotion_Clear_Abort@4,중단 상태를 초기화합니다.
+_KM_dotnet_Interop_CoordMotion_Clear_Halt@4,정지 상태를 초기화합니다.
+_KM_dotnet_Interop_CoordMotion_DoKMotionBufCmd@8,KMotion 버퍼 명령을 실행합니다.
+_KM_dotnet_Interop_CoordMotion_DoKMotionCmd@12,KMotion 명령을 실행합니다.
+_KM_dotnet_Interop_CoordMotion_DoRateAdjustments@12,속도 조정을 수행합니다.
+_KM_dotnet_Interop_CoordMotion_DoSpecialCommand@8,특수 명령을 실행합니다.
+_KM_dotnet_Interop_CoordMotion_DownloadDoneSegments@4,완료된 세그먼트를 다운로드합니다.
+_KM_dotnet_Interop_CoordMotion_DownloadInit@4,다운로드를 초기화합니다.
+_KM_dotnet_Interop_CoordMotion_DownloadedSegmentCount@4,다운로드된 세그먼트의 수를 반환합니다.
+_KM_dotnet_Interop_CoordMotion_Dwell@16,일정 시간 동안 대기합니다.
+_KM_dotnet_Interop_CoordMotion_ExecutionStop@4,실행을 중지합니다.
+_KM_dotnet_Interop_CoordMotion_FlushSegments@4,세그먼트를 플러시합니다.
+_KM_dotnet_Interop_CoordMotion_Free@4,리소스를 해제합니다.
+_KM_dotnet_Interop_CoordMotion_GetAxisDefinitions@28,축 정의를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_Abort@4,중단 상태를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_AxisDestination@12,축의 목표 위치를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_AxisPosition@12,축의 현재 위치를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_FeedRateOverride@4,피드 속도 오버라이드를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_FeedRateRapidOverride@4,급속 피드 속도 오버라이드를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_Halt@4,정지 상태를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_HardwareFRORange@4,하드웨어 FRO 범위를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_PreviouslyStopped@4,이전에 중지된 상태를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_Simulate@4,시뮬레이션 상태를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_Get_SpindleRateOverride@4,스핀들 속도 오버라이드를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_KinematicsReadGeoTable@8,기하학 테이블을 읽습니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_ArcsToSegs@4,호를 세그먼트로 변환하는 설정을 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_BreakAngle@4,브레이크 각도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_CollinearTol@4,공선 허용 오차를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_CornerTol@4,코너 허용 오차를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_CountsPerInchA@4,A축의 인치당 카운트를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_CountsPerInchB@4,B축의 인치당 카운트를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_CountsPerInchC@4,C축의 인치당 카운트를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_CountsPerInchX@4,X축의 인치당 카운트를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_CountsPerInchY@4,Y축의 인치당 카운트를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_CountsPerInchZ@4,Z축의 인치당 카운트를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_DegreesA@4,A축의 각도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_DegreesB@4,B축의 각도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_DegreesC@4,C축의 각도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_DoRapidsAsFeeds@4,급속 이동을 피드로 처리하는 설정을 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_FacetAngle@4,면 각도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxAccelA@4,A축의 최대 가속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxAccelB@4,B축의 최대 가속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxAccelC@4,C축의 최대 가속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxAccelX@4,X축의 최대 가속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxAccelY@4,Y축의 최대 가속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxAccelZ@4,Z축의 최대 가속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxLinearLength@4,최대 선형 길이를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxRapidFRO@4,최대 급속 FRO를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxVelA@4,A축의 최대 속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxVelB@4,B축의 최대 속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxVelC@4,C축의 최대 속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxVelX@4,X축의 최대 속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxVelY@4,Y축의 최대 속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_MaxVelZ@4,Z축의 최대 속도를 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_RadiusA@4,A축의 반지름을 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_RadiusB@4,B축의 반지름을 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_RadiusC@4,C축의 반지름을 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_TPLookahead@4,TP 선행을 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Get_UseOnlyLinearSegments@4,선형 세그먼트만 사용하는 설정을 가져옵니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_ArcsToSegs@8,호를 세그먼트로 변환하는 설정을 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_BreakAngle@12,브레이크 각도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_CollinearTol@12,공선 허용 오차를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_CornerTol@12,코너 허용 오차를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_CountsPerInchA@12,A축의 인치당 카운트를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_CountsPerInchB@12,B축의 인치당 카운트를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_CountsPerInchC@12,C축의 인치당 카운트를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_CountsPerInchX@12,X축의 인치당 카운트를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_CountsPerInchY@12,Y축의 인치당 카운트를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_CountsPerInchZ@12,Z축의 인치당 카운트를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_DegreesA@8,A축의 각도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_DegreesB@8,B축의 각도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_DegreesC@8,C축의 각도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_DoRapidsAsFeeds@8,급속 이동을 피드로 처리하는 설정을 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_FacetAngle@12,면 각도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxAccelA@12,A축의 최대 가속도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxAccelB@12,B축의 최대 가속도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxAccelC@12,C축의 최대 가속도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxAccelX@12,X축의 최대 가속도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxAccelY@12,Y축의 최대 가속도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxAccelZ@12,Z축의 최대 가속도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxLinearLength@12,최대 선형 길이를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxRapidFRO@12,최대 급속 FRO를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxVelA@12,A축의 최대 속도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxVelB@12,B축의 최대 속도를 설정합니다.
+_KM_dotnet_Interop_CoordMotion_MOTION_PARAMS_Set_MaxVelC@12,C축의 최대 속도를 설정합니다.

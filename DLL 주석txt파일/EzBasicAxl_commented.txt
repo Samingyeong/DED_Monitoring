@@ -1,0 +1,161 @@
+functions  // 
+names  // 
+??0CEzBasic@@QAE@ABV0@@Z  // CEzBasic 클래스의 복사 생성자입니다.
+??0CEzBasic@@QAE@XZ  // CEzBasic 클래스의 기본 생성자입니다.
+??0CEzObject@@QAE@ABV0@@Z  // CEzObject 클래스의 복사 생성자입니다.
+??0CEzObject@@QAE@XZ  // CEzObject 클래스의 기본 생성자입니다.
+??1CEzBasic@@UAE@XZ  // CEzBasic 클래스의 소멸자입니다.
+??1CEzObject@@UAE@XZ  // CEzObject 클래스의 소멸자입니다.
+??4CEzBasic@@QAEAAV0@ABV0@@Z  // CEzBasic 클래스의 대입 연산자입니다.
+??4CEzObject@@QAEAAV0@ABV0@@Z  // CEzObject 클래스의 대입 연산자입니다.
+??_7CEzBasic@@6B@  // CEzBasic 클래스의 가상 함수 테이블입니다.
+??_7CEzObject@@6B@  // CEzObject 클래스의 가상 함수 테이블입니다.
+?Close@CEzBasic@@QAEXXZ  // CEzBasic 객체를 닫습니다.
+?DisableInterrupt@CEzBasic@@QAEXF@Z  // 인터럽트를 비활성화합니다.
+?EepromGetBaseAddress@CEzBasic@@QAEKXZ  // EEPROM의 기본 주소를 가져옵니다.
+?EepromGetLength@CEzBasic@@QAEFXZ  // EEPROM의 길이를 가져옵니다.
+?EepromGetLengthWord@CEzBasic@@QAEFXZ  // EEPROM의 길이를 워드 단위로 가져옵니다.
+?EepromInit@CEzBasic@@QAEEK@Z  // EEPROM을 초기화합니다.
+?EepromIsInit@CEzBasic@@QAEEXZ  // EEPROM이 초기화되었는지 확인합니다.
+?EepromRead@CEzBasic@@QAEEE@Z  // EEPROM에서 데이터를 읽습니다.
+?EepromReadWord@CEzBasic@@QAEGE@Z  // EEPROM에서 워드 데이터를 읽습니다.
+?EepromWrite@CEzBasic@@QAEEEE@Z  // EEPROM에 데이터를 씁니다.
+?EepromWriteWord@CEzBasic@@QAEEEG@Z  // EEPROM에 워드 데이터를 씁니다.
+?Eeprom_delay@CEzBasic@@IAEXF@Z  // EEPROM 작업에 대한 지연을 처리합니다.
+?Eeprom_ewds@CEzBasic@@IAEXXZ  // EEPROM 쓰기 비활성화 명령을 실행합니다.
+?Eeprom_ewen@CEzBasic@@IAEXXZ  // EEPROM 쓰기 활성화 명령을 실행합니다.
+?Eeprom_get_cs@CEzBasic@@IAEEXZ  // EEPROM의 칩 선택 상태를 가져옵니다.
+?Eeprom_get_di@CEzBasic@@IAEEXZ  // EEPROM의 데이터 입력 상태를 가져옵니다.
+?Eeprom_get_do@CEzBasic@@IAEEXZ  // EEPROM의 데이터 출력 상태를 가져옵니다.
+?Eeprom_get_nbit@CEzBasic@@IAEGE@Z  // EEPROM에서 n 비트를 가져옵니다.
+?Eeprom_get_sk@CEzBasic@@IAEEXZ  // EEPROM의 시계 신호 상태를 가져옵니다.
+?Eeprom_put_nbit@CEzBasic@@IAEXGE@Z  // EEPROM에 n 비트를 씁니다.
+?Eeprom_set_cs@CEzBasic@@IAEXE@Z  // EEPROM의 칩 선택 상태를 설정합니다.
+?Eeprom_set_di@CEzBasic@@IAEXE@Z  // EEPROM의 데이터 입력 상태를 설정합니다.
+?Eeprom_set_sk@CEzBasic@@IAEXE@Z  // EEPROM의 시계 신호 상태를 설정합니다.
+?EnableInterrupt@CEzBasic@@QAEEFPAVCEzObject@@@Z  // 인터럽트를 활성화합니다.
+?GetBusType@CEzBasic@@QAEFXZ  // 버스 유형을 가져옵니다.
+?GetDriverVersion@CEzBasic@@QAEKH@Z  // 드라이버 버전을 가져옵니다.
+?GetEffectAddress@CEzBasic@@QAEFFPAUEFFECT_ADDRESS@@@Z  // 특정 효과의 주소를 가져옵니다.
+?GetEffectAddressAll@CEzBasic@@QAEFPAUEFFECT_ADDRESS@@@Z  // 모든 효과의 주소를 가져옵니다.
+?GetEffectAddressNumber@CEzBasic@@QAEFXZ  // 효과 주소의 번호를 가져옵니다.
+?GetIRQno@CEzBasic@@QAEFXZ  // IRQ 번호를 가져옵니다.
+?GetInterruptModuleFlag@CEzBasic@@QAEGH@Z  // 인터럽트 모듈 플래그를 가져옵니다.
+?GetLibraryType@CEzBasic@@UAEFXZ  // 라이브러리 유형을 가져옵니다.
+?GetLibraryType@CEzObject@@UAEFXZ  // 라이브러리 유형을 가져옵니다.
+?Init@CEzBasic@@QAEEFF@Z  // CEzBasic 객체를 초기화합니다.
+?InterruptHandler@CEzBasic@@UAEXJ@Z  // 인터럽트 핸들러를 처리합니다.
+?IsEnableInterrupt@CEzBasic@@QAEEXZ  // 인터럽트가 활성화되었는지 확인합니다.
+?IsInit@CEzBasic@@QAEEXZ  // 객체가 초기화되었는지 확인합니다.
+?IsValidAddress@CEzBasic@@QAEEK@Z  // 주소가 유효한지 확인합니다.
+?IsValidBus@CEzBasic@@SAEF@Z  // 버스가 유효한지 확인합니다.
+?IsValidBusSystem@CEzBasic@@SAEF@Z  // 버스 시스템이 유효한지 확인합니다.
+?Read2@CEzBasic@@QAEEK@Z  // 데이터를 읽습니다.
+?Read@CEzBasic@@QAEEK@Z  // 데이터를 읽습니다.
+?ReadByte2@CEzBasic@@QAEEK@Z  // 바이트 데이터를 읽습니다.
+?ReadByte@CEzBasic@@QAEEK@Z  // 바이트 데이터를 읽습니다.
+?ReadDWord2@CEzBasic@@QAEKK@Z  // 더블 워드 데이터를 읽습니다.
+?ReadDWord@CEzBasic@@QAEKK@Z  // 더블 워드 데이터를 읽습니다.
+?ReadDWordIo@CEzBasic@@QAEKFKPAK@Z  // I/O에서 더블 워드 데이터를 읽습니다.
+?ReadPCIConfigurationRegister@CEzBasic@@QAEEFGPAK@Z  // PCI 구성 레지스터를 읽습니다.
+?ReadWord2@CEzBasic@@QAEGK@Z  // 워드 데이터를 읽습니다.
+?ReadWord@CEzBasic@@QAEGK@Z  // 워드 데이터를 읽습니다.
+?SearchAddressSpace@CEzBasic@@QAEFK@Z  // 주소 공간을 검색합니다.
+?SetInterruptHWND@CEzBasic@@QAEXPAUHWND__@@I@Z  // 인터럽트 윈도우 핸들을 설정합니다.
+?SetInterruptModuleMask@CEzBasic@@QAEXHG@Z  // 인터럽트 모듈 마스크를 설정합니다.
+?SetInterruptProc@CEzBasic@@QAEXP6AXPAXJ@Z0@Z  // 인터럽트 프로시저를 설정합니다.
+?Write2@CEzBasic@@QAEEKE@Z  // 데이터를 씁니다.
+?Write@CEzBasic@@QAEEKE@Z  // 데이터를 씁니다.
+?WriteByte2@CEzBasic@@QAEEKE@Z  // 바이트 데이터를 씁니다.
+?WriteByte@CEzBasic@@QAEEKE@Z  // 바이트 데이터를 씁니다.
+?WriteDWord2@CEzBasic@@QAEKKK@Z  // 더블 워드 데이터를 씁니다.
+?WriteDWord@CEzBasic@@QAEKKK@Z  // 더블 워드 데이터를 씁니다.
+?WriteDWordIo@CEzBasic@@QAEKFKK@Z  // I/O에 더블 워드 데이터를 씁니다.
+?WritePCIConfigurationRegister@CEzBasic@@QAEEFFK@Z  // PCI 구성 레지스터에 씁니다.
+?WriteWord2@CEzBasic@@QAEGKG@Z  // 워드 데이터를 씁니다.
+?WriteWord@CEzBasic@@QAEGKG@Z  // 워드 데이터를 씁니다.
+PlxPci_ApiVersion  // PlxPci API 버전을 가져옵니다.
+PlxPci_ChipGetPortMask  // PlxPci 칩의 포트 마스크를 가져옵니다.
+PlxPci_ChipTypeGet  // PlxPci 칩 유형을 가져옵니다.
+PlxPci_ChipTypeSet  // PlxPci 칩 유형을 설정합니다.
+PlxPci_CommonBufferMap  // 공통 버퍼를 매핑합니다.
+PlxPci_CommonBufferProperties  // 공통 버퍼의 속성을 가져옵니다.
+PlxPci_CommonBufferUnmap  // 공통 버퍼의 매핑을 해제합니다.
+PlxPci_DeviceClose  // PlxPci 장치를 닫습니다.
+PlxPci_DeviceFind  // PlxPci 장치를 찾습니다.
+PlxPci_DeviceFindEx  // PlxPci 장치를 확장된 방식으로 찾습니다.
+PlxPci_DeviceOpen  // PlxPci 장치를 엽니다.
+PlxPci_DeviceReset  // PlxPci 장치를 리셋합니다.
+PlxPci_DmaChannelClose  // DMA 채널을 닫습니다.
+PlxPci_DmaChannelOpen  // DMA 채널을 엽니다.
+PlxPci_DmaControl  // DMA를 제어합니다.
+PlxPci_DmaGetProperties  // DMA의 속성을 가져옵니다.
+PlxPci_DmaSetProperties  // DMA의 속성을 설정합니다.
+PlxPci_DmaStatus  // DMA 상태를 가져옵니다.
+PlxPci_DmaTransferBlock  // DMA 블록 전송을 수행합니다.
+PlxPci_DmaTransferUserBuffer  // 사용자 버퍼를 사용한 DMA 전송을 수행합니다.
+PlxPci_DriverProperties  // 드라이버의 속성을 가져옵니다.
+PlxPci_DriverScheduleRescan  // 드라이버의 재검색을 예약합니다.
+PlxPci_DriverVersion  // 드라이버 버전을 가져옵니다.
+PlxPci_EepromCrcGet  // EEPROM의 CRC 값을 가져옵니다.
+PlxPci_EepromCrcUpdate  // 
+PlxPci_EepromGetAddressWidth  // 
+PlxPci_EepromPresent  // 
+PlxPci_EepromProbe  // 
+PlxPci_EepromReadByOffset  // 
+PlxPci_EepromReadByOffset_16  // 
+PlxPci_EepromSetAddressWidth  // 
+PlxPci_EepromWriteByOffset  // 
+PlxPci_EepromWriteByOffset_16  // 
+PlxPci_GetPortProperties  // 
+PlxPci_I2cGetPorts  // 
+PlxPci_I2cVersion  // 
+PlxPci_InterruptDisable  // 
+PlxPci_InterruptEnable  // 
+PlxPci_IoPortRead  // 
+PlxPci_IoPortWrite  // 
+PlxPci_MH_GetProperties  // 
+PlxPci_MH_MigratePorts  // 
+PlxPci_NotificationCancel  // 
+PlxPci_NotificationRegisterFor  // 
+PlxPci_NotificationStatus  // 
+PlxPci_NotificationWait  // 
+PlxPci_Nt_LutAdd  // 
+PlxPci_Nt_LutDisable  // 
+PlxPci_Nt_LutProperties  // 
+PlxPci_Nt_ReqIdProbe  // 
+PlxPci_PciBarMap  // 
+PlxPci_PciBarProperties  // 
+PlxPci_PciBarSpaceRead  // 
+PlxPci_PciBarSpaceWrite  // 
+PlxPci_PciBarUnmap  // 
+PlxPci_PciRegisterRead  // 
+PlxPci_PciRegisterReadFast  // 
+PlxPci_PciRegisterRead_BypassOS  // 
+PlxPci_PciRegisterWrite  // 
+PlxPci_PciRegisterWriteFast  // 
+PlxPci_PciRegisterWrite_BypassOS  // 
+PlxPci_PerformanceCalcStatistics  // 
+PlxPci_PerformanceGetCounters  // 
+PlxPci_PerformanceInitializeProperties  // 
+PlxPci_PerformanceMonitorControl  // 
+PlxPci_PerformanceResetCounters  // 
+PlxPci_PhysicalMemoryAllocate  // 
+PlxPci_PhysicalMemoryFree  // 
+PlxPci_PhysicalMemoryMap  // 
+PlxPci_PhysicalMemoryUnmap  // 
+PlxPci_PlxMailboxRead  // 
+PlxPci_PlxMailboxWrite  // 
+PlxPci_PlxMappedRegisterRead  // 
+PlxPci_PlxMappedRegisterWrite  // 
+PlxPci_PlxRegisterRead  // 
+PlxPci_PlxRegisterWrite  // 
+PlxPci_SpiFlashErase  // 
+PlxPci_SpiFlashGetStatus  // 
+PlxPci_SpiFlashPropGet  // 
+PlxPci_SpiFlashReadBuffer  // 
+PlxPci_SpiFlashReadByOffset  // 
+PlxPci_SpiFlashWriteBuffer  // 
+PlxPci_SpiFlashWriteByOffset  // 
+PlxPci_VpdRead  // 
+PlxPci_VpdWrite  // 

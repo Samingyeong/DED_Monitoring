@@ -1,0 +1,99 @@
+﻿함수명,설명
+- ??0APIMain@@QAE@PAVCSUcom@@PAVUcomUtil@@@Z,APIMain 클래스의 생성자. CSUcom 및 UcomUtil 객체를 초기화합니다.
+- ??0APIUtil@@QAE@PAVCSUcom@@PAVUcomUtil@@@Z,APIUtil 클래스의 생성자. CSUcom 및 UcomUtil 객체를 초기화합니다.
+- ??0CSUcom@@QAE@XZ,CSUcom 클래스의 기본 생성자. 객체를 초기화합니다.
+- ??0CSUcomManager@@QAE@PAVQObject@@@Z,CSUcomManager 클래스의 생성자. QObject 객체를 초기화합니다.
+- ??0CsApiAlarm@@QAE@PAVCSAlarmThread@@@Z,CsApiAlarm 클래스의 생성자. CSAlarmThread 객체를 초기화합니다.
+- ??0CsApiFileManager@@QAE@XZ,CsApiFileManager 클래스의 기본 생성자. 객체를 초기화합니다.
+- ??0CsApiScope@@QAE@XZ,CsApiScope 클래스의 기본 생성자. 객체를 초기화합니다.
+- ??1CSUcom@@QAE@XZ,CSUcom 클래스의 소멸자. 객체를 정리합니다.
+- ??1CSUcomManager@@UAE@XZ,CSUcomManager 클래스의 소멸자. 객체를 정리합니다.
+- ??1CsApiFileManager@@UAE@XZ,CsApiFileManager 클래스의 소멸자. 객체를 정리합니다.
+- ??1CsApiScope@@UAE@XZ,CsApiScope 클래스의 소멸자. 객체를 정리합니다.
+- ??4APIMain@@QAEAAV0@ABV0@@Z,APIMain 클래스의 대입 연산자. 다른 APIMain 객체의 값을 복사합니다.
+- ??4APIUtil@@QAEAAV0@ABV0@@Z,APIUtil 클래스의 대입 연산자. 다른 APIUtil 객체의 값을 복사합니다.
+- ??4CSUcom@@QAEAAV0@ABV0@@Z,CSUcom 클래스의 대입 연산자. 다른 CSUcom 객체의 값을 복사합니다.
+- ??4CsApiAlarm@@QAEAAV0@ABV0@@Z,CsApiAlarm 클래스의 대입 연산자. 다른 CsApiAlarm 객체의 값을 복사합니다.
+- ??_7CSUcomManager@@6B@,CSUcomManager 클래스의 가상 소멸자 테이블.
+- ??_7CsApiFileManager@@6B@,CsApiFileManager 클래스의 가상 소멸자 테이블.
+- ??_7CsApiScope@@6B@,CsApiScope 클래스의 가상 소멸자 테이블.
+- ??_FCSUcomManager@@QAEXXZ,CSUcomManager 클래스의 특정 기능을 수행하는 함수.
+- ?Arc_Cen@APIMain@@QAE_NNNNNNNHHH@Z,APIMain 클래스에서 원호의 중심을 계산하는 함수.
+- ?Arc_Cen@CSUcom@@QAE_NNNNNNNHHH@Z,CSUcom 클래스에서 원호의 중심을 계산하는 함수.
+- ?Arc_Cen_Done@APIMain@@QAE_NNNNNNNHHH@Z,APIMain 클래스에서 원호 중심 계산 완료를 처리하는 함수.
+- ?Arc_Cen_Done@CSUcom@@QAE_NNNNNNNHHH@Z,CSUcom 클래스에서 원호 중심 계산 완료를 처리하는 함수.
+- ?Arc_Pnt@APIMain@@QAE_NNNNNNNHHHH@Z,APIMain 클래스에서 원호의 점을 계산하는 함수.
+- ?Arc_Pnt@CSUcom@@QAE_NNNNNNNHHHH@Z,CSUcom 클래스에서 원호의 점을 계산하는 함수.
+- ?Arc_Pnt_Done@APIMain@@QAE_NNNNNNNHHHH@Z,APIMain 클래스에서 원호 점 계산 완료를 처리하는 함수.
+- ?Arc_Pnt_Done@CSUcom@@QAE_NNNNNNNHHHH@Z,CSUcom 클래스에서 원호 점 계산 완료를 처리하는 함수.
+- ?Arc_Rad@APIMain@@QAE_NNNNNHHHH@Z,APIMain 클래스에서 원호의 반지름을 계산하는 함수.
+- ?Arc_Rad@CSUcom@@QAE_NNNNNHHHH@Z,CSUcom 클래스에서 원호의 반지름을 계산하는 함수.
+- ?Arc_Rad_Done@APIMain@@QAE_NNNNNHHHH@Z,APIMain 클래스에서 원호 반지름 계산 완료를 처리하는 함수.
+- ?Arc_Rad_Done@CSUcom@@QAE_NNNNNHHHH@Z,CSUcom 클래스에서 원호 반지름 계산 완료를 처리하는 함수.
+- ?AutoCycleMode@APIUtil@@QAEXH@Z,APIUtil 클래스에서 자동 사이클 모드를 설정하는 함수.
+- ?AutoCycleMode@CSUcom@@QAEXH@Z,CSUcom 클래스에서 자동 사이클 모드를 설정하는 함수.
+- ?CalcNormal@CSUcom@@QAE_NNNNNNN@Z,CSUcom 클래스에서 법선을 계산하는 함수.
+- ?ChangeDirMacro@CsApiFileManager@@QAEHXZ,CsApiFileManager 클래스에서 매크로 디렉토리를 변경하는 함수.
+- ?ChangeDirNC@CsApiFileManager@@QAEHXZ,CsApiFileManager 클래스에서 NC 디렉토리를 변경하는 함수.
+- ?ChangeDirectory@CsApiFileManager@@QAEHPAD@Z,CsApiFileManager 클래스에서 디렉토리를 변경하는 함수.
+- ?CycleStart@APIUtil@@QAE_NXZ,APIUtil 클래스에서 사이클 시작을 처리하는 함수.
+- ?CycleStart@CSUcom@@QAE_NXZ,CSUcom 클래스에서 사이클 시작을 처리하는 함수.
+- ?Dwell@APIMain@@QAE_NH@Z,APIMain 클래스에서 대기 시간을 설정하는 함수.
+- ?Dwell@CSUcom@@QAE_NH@Z,CSUcom 클래스에서 대기 시간을 설정하는 함수.
+- ?Dwell_Done@APIMain@@QAE_NH@Z,APIMain 클래스에서 대기 시간 완료를 처리하는 함수.
+- ?Dwell_Done@CSUcom@@QAE_NH@Z,CSUcom 클래스에서 대기 시간 완료를 처리하는 함수.
+- ?EMGStop@APIUtil@@QAE_NXZ,APIUtil 클래스에서 비상 정지를 처리하는 함수.
+- ?EMGStop@CSUcom@@QAE_NXZ,CSUcom 클래스에서 비상 정지를 처리하는 함수.
+- ?FeedHold@APIUtil@@QAE_NXZ,APIUtil 클래스에서 피드 홀드를 처리하는 함수.
+- ?FeedHold@CSUcom@@QAE_NXZ,CSUcom 클래스에서 피드 홀드를 처리하는 함수.
+- ?FileCommand@CSUcom@@QAE_NPBD0@Z,CSUcom 클래스에서 파일 명령을 처리하는 함수.
+- ?FileRename@CSUcom@@QAEXPBD0@Z,CSUcom 클래스에서 파일 이름을 변경하는 함수.
+- ?GetAFQue_cCycleStart@APIUtil@@QAEDXZ,APIUtil 클래스에서 사이클 시작 큐 상태를 가져오는 함수.
+- ?GetAFQue_cCycleStart@CSUcom@@QAEDXZ,CSUcom 클래스에서 사이클 시작 큐 상태를 가져오는 함수.
+- ?GetAFQue_cReset@APIUtil@@QAEDXZ,APIUtil 클래스에서 리셋 큐 상태를 가져오는 함수.
+- ?GetAFQue_cReset@CSUcom@@QAEDXZ,CSUcom 클래스에서 리셋 큐 상태를 가져오는 함수.
+- ?GetAFQue_cResetFin@APIUtil@@QAEDXZ,APIUtil 클래스에서 리셋 완료 큐 상태를 가져오는 함수.
+- ?GetAFQue_cResetFin@CSUcom@@QAEDXZ,CSUcom 클래스에서 리셋 완료 큐 상태를 가져오는 함수.
+- ?GetAFQue_nHDP@APIUtil@@QAEHXZ,APIUtil 클래스에서 HDP 큐 상태를 가져오는 함수.
+- ?GetAFQue_nHDP@CSUcom@@QAEHXZ,CSUcom 클래스에서 HDP 큐 상태를 가져오는 함수.
+- ?GetAFQue_nRDP@APIUtil@@QAEHXZ,APIUtil 클래스에서 RDP 큐 상태를 가져오는 함수.
+- ?GetAFQue_nRDP@CSUcom@@QAEHXZ,CSUcom 클래스에서 RDP 큐 상태를 가져오는 함수.
+- ?GetAFQue_nWRP@APIUtil@@QAEHXZ,APIUtil 클래스에서 WRP 큐 상태를 가져오는 함수.
+- ?GetAFQue_nWRP@CSUcom@@QAEHXZ,CSUcom 클래스에서 WRP 큐 상태를 가져오는 함수.
+- ?GetAFUsed@CSUcom@@QAEHXZ,CSUcom 클래스에서 사용된 AF 상태를 가져오는 함수.
+- ?GetAlarmMsg@APIUtil@@QAEXPAD@Z,APIUtil 클래스에서 알람 메시지를 가져오는 함수.
+- ?GetAlarmMsg@CSUcom@@QAEXPAD@Z,CSUcom 클래스에서 알람 메시지를 가져오는 함수.
+- ?GetAlarmText@CSUcom@@QAEXHPAD@Z,CSUcom 클래스에서 알람 텍스트를 가져오는 함수.
+- ?GetAutoBlkData@APIUtil@@QAEXPADAAKAAJ@Z,APIUtil 클래스에서 자동 블록 데이터를 가져오는 함수.
+- ?GetAutoBlkData@CSUcom@@QAEXPADAAKAAJ@Z,CSUcom 클래스에서 자동 블록 데이터를 가져오는 함수.
+- ?GetBMap_C@APIUtil@@QAEHH@Z,APIUtil 클래스에서 BMap_C 데이터를 가져오는 함수.
+- ?GetBMap_D@APIUtil@@QAEHH@Z,APIUtil 클래스에서 BMap_D 데이터를 가져오는 함수.
+- ?GetBMap_MGN@APIUtil@@QAENH@Z,APIUtil 클래스에서 BMap_MGN 데이터를 가져오는 함수.
+- ?GetBMap_SN@APIUtil@@QAENH@Z,APIUtil 클래스에서 BMap_SN 데이터를 가져오는 함수.
+- ?GetBMap_T@APIUtil@@QAEHH@Z,APIUtil 클래스에서 BMap_T 데이터를 가져오는 함수.
+- ?GetCurCommand@APIUtil@@QAENH@Z,APIUtil 클래스에서 현재 명령을 가져오는 함수.
+- ?GetCurCommand@CSUcom@@QAENH@Z,CSUcom 클래스에서 현재 명령을 가져오는 함수.
+- ?GetCurCommand_n@APIUtil@@QAE_NHPAN@Z,APIUtil 클래스에서 현재 명령을 정수형으로 가져오는 함수.
+- ?GetCurCommand_n@CSUcom@@QAE_NHPAN@Z,CSUcom 클래스에서 현재 명령을 정수형으로 가져오는 함수.
+- ?GetCycleStart@APIUtil@@QAEHXZ,APIUtil 클래스에서 사이클 시작 상태를 가져오는 함수.
+- ?GetCycleStart@CSUcom@@QAEHXZ,CSUcom 클래스에서 사이클 시작 상태를 가져오는 함수.
+- ?GetCycleState@APIUtil@@QAE_NXZ,APIUtil 클래스에서 사이클 상태를 가져오는 함수.
+- ?GetCycleState@CSUcom@@QAE_NXZ,CSUcom 클래스에서 사이클 상태를 가져오는 함수.
+- ?GetDataPath@APIUtil@@QAEXPAD@Z,APIUtil 클래스에서 데이터 경로를 가져오는 함수.
+- ?GetDataPath@CSUcom@@QAEXPAD@Z,CSUcom 클래스에서 데이터 경로를 가져오는 함수.
+- ?GetLastCommand@APIUtil@@QAENH@Z,APIUtil 클래스에서 마지막 명령을 가져오는 함수.
+- ?GetLastCommand@CSUcom@@QAENH@Z,CSUcom 클래스에서 마지막 명령을 가져오는 함수.
+- ?GetLastCommand_n@APIUtil@@QAE_NHPAN@Z,APIUtil 클래스에서 마지막 명령을 정수형으로 가져오는 함수.
+- ?GetLastCommand_n@CSUcom@@QAE_NHPAN@Z,CSUcom 클래스에서 마지막 명령을 정수형으로 가져오는 함수.
+- ?GetMDIBlkData@APIUtil@@QAEXAAKAAJ@Z,APIUtil 클래스에서 MDI 블록 데이터를 가져오는 함수.
+- ?GetMDIBlkData@CSUcom@@QAEXAAKAAJ@Z,CSUcom 클래스에서 MDI 블록 데이터를 가져오는 함수.
+- ?GetMachPos@APIUtil@@QAENH@Z,APIUtil 클래스에서 기계 위치를 가져오는 함수.
+- ?GetMachPos@CSUcom@@QAENH@Z,CSUcom 클래스에서 기계 위치를 가져오는 함수.
+- ?GetMachPos_n@APIUtil@@QAE_NHPAN@Z,APIUtil 클래스에서 기계 위치를 정수형으로 가져오는 함수.
+- ?GetMachPos_n@CSUcom@@QAE_NHPAN@Z,CSUcom 클래스에서 기계 위치를 정수형으로 가져오는 함수.
+- ?GetMainProg@APIUtil@@QAEXPAD@Z,APIUtil 클래스에서 메인 프로그램을 가져오는 함수.
+- ?GetMainProg@CSUcom@@QAEXPAD@Z,CSUcom 클래스에서 메인 프로그램을 가져오는 함수.
+- ?GetMap@APIUtil@@QAENHHH@Z,APIUtil 클래스에서 맵 데이터를 가져오는 함수.
+- ?GetMapBit@APIUtil@@QAEDHHH@Z,APIUtil 클래스에서 맵 비트 데이터를 가져오는 함수.
+- ?GetMapBit_R@APIUtil@@QAEDHH@Z,APIUtil 클래스에서 맵 비트 데이터를 읽어오는 함수.
+- ?GetMap_R@APIUtil@@QAEIH@Z,APIUtil 클래스에서 맵 데이터를 읽어오는 함수.

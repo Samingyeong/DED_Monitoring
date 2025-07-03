@@ -1,0 +1,32 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35211.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file F:\DED monitoring\DED\HXApiATL.dll
+
+File Type: DLL
+
+  Section contains the following exports for HXApiATL.dll
+
+    00000000 characteristics
+    5DC4FB36 time date stamp Fri Nov  8 14:20:54 2019
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003290 DllCanUnloadNow
+          2    1 000032B0 DllGetClassObject
+          3    2 00003400 DllInstall
+          4    3 000033E0 DllRegisterServer
+          5    4 000033F0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        2000 .rdata
+        1000 .reloc
+        3000 .rsrc
+        4000 .text

@@ -1,0 +1,99 @@
+﻿함수명,설명
+- ??0CCoordMotion@@QAE@ABV0@@Z,CCoordMotion 클래스의 복사 생성자입니다.
+- ??0CCoordMotion@@QAE@PAVCKMotionDLL@@@Z,CKMotionDLL 객체를 인자로 받는 CCoordMotion 클래스의 생성자입니다.
+- ??0CGCodeInterpreter@@QAE@ABV0@@Z,CGCodeInterpreter 클래스의 복사 생성자입니다.
+- ??0CGCodeInterpreter@@QAE@PAVCCoordMotion@@@Z,CCoordMotion 객체를 인자로 받는 CGCodeInterpreter 클래스의 생성자입니다.
+- ??0CKinematics@@QAE@ABV0@@Z,CKinematics 클래스의 복사 생성자입니다.
+- ??0CKinematics@@QAE@XZ,CKinematics 클래스의 기본 생성자입니다.
+- ??1CCoordMotion@@UAE@XZ,CCoordMotion 클래스의 소멸자입니다.
+- ??1CGCodeInterpreter@@UAE@XZ,CGCodeInterpreter 클래스의 소멸자입니다.
+- ??1CKinematics@@UAE@XZ,CKinematics 클래스의 소멸자입니다.
+- ??4CCoordMotion@@QAEAAV0@ABV0@@Z,CCoordMotion 객체의 대입 연산자입니다.
+- ??4CGCodeInterpreter@@QAEAAV0@ABV0@@Z,CGCodeInterpreter 객체의 대입 연산자입니다.
+- ??4CKinematics@@QAEAAV0@ABV0@@Z,CKinematics 객체의 대입 연산자입니다.
+- ??_7CCoordMotion@@6B@,CCoordMotion 클래스의 가상 함수 테이블입니다.
+- ??_7CGCodeInterpreter@@6B@,CGCodeInterpreter 클래스의 가상 함수 테이블입니다.
+- ??_7CKinematics@@6B@,CKinematics 클래스의 가상 함수 테이블입니다.
+- ??_FCCoordMotion@@QAEXXZ,CCoordMotion 클래스의 예외 처리 함수입니다.
+- ?Abort@CGCodeInterpreter@@QAEXXZ,CGCodeInterpreter의 작업을 중단합니다.
+- ?ArcFeed@CCoordMotion@@QAEHNHNNNNHNNNNHH@Z,호(arc) 형태의 피드 동작을 수행합니다.
+- ?ArcFeed@CCoordMotion@@QAEHNHNNNNHNNNNNNHH@Z,호(arc) 형태의 피드 동작을 수행합니다.
+- ?ArcFeedAccel@CCoordMotion@@QAEHNNHNNNNHNNNNHH@Z,가속도가 포함된 호(arc) 형태의 피드 동작을 수행합니다.
+- ?ArcFeedAccel@CCoordMotion@@QAEHNNHNNNNHNNNNNNHH@Z,가속도가 포함된 호(arc) 형태의 피드 동작을 수행합니다.
+- ?ChangeFixtureNumber@CGCodeInterpreter@@QAEHH@Z,고정 장치 번호를 변경합니다.
+- ?CheckMotionHalt@CCoordMotion@@QAEH_N@Z,모션이 중지되었는지 확인합니다.
+- ?CheckSoftLimits@CCoordMotion@@QAEHNNNNNNNNAAV?$CStringT@DV?$StrTraitMFC@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@@Z,소프트 제한을 확인합니다.
+- ?CheckSoftLimitsArc@CCoordMotion@@QAEHNNNNNNNNNNNNNNHNNNHHHDDDAAV?$CStringT@DV?$StrTraitMFC@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@@Z,호(arc) 동작에 대한 소프트 제한을 확인합니다.
+- ?ClearAbort@CCoordMotion@@QAEXXZ,중단 상태를 초기화합니다.
+- ?ClearHalt@CCoordMotion@@QAEXXZ,중지 상태를 초기화합니다.
+- ?ClearWriteLineBuffer@CCoordMotion@@AAEHXZ,라인 버퍼를 초기화합니다.
+- ?CommitPendingSegments@CCoordMotion@@AAEH_N@Z,대기 중인 세그먼트를 커밋합니다.
+- ?ComputeAnglesOption@CKinematics@@UAEHH@Z,각도 계산 옵션을 설정합니다.
+- ?ConfigSpindle@CCoordMotion@@QAEHHHNNN@Z,스핀들 설정을 구성합니다.
+- ?ConvertAbsToUserUnitsA@CGCodeInterpreter@@QAENN@Z,절대 좌표를 사용자 단위로 변환합니다.
+- ?ConvertAbsToUserUnitsB@CGCodeInterpreter@@QAENN@Z,절대 좌표를 사용자 단위로 변환합니다.
+- ?ConvertAbsToUserUnitsC@CGCodeInterpreter@@QAENN@Z,절대 좌표를 사용자 단위로 변환합니다.
+- ?ConvertAbsToUserUnitsU@CGCodeInterpreter@@QAENN@Z,절대 좌표를 사용자 단위로 변환합니다.
+- ?ConvertAbsToUserUnitsV@CGCodeInterpreter@@QAENN@Z,절대 좌표를 사용자 단위로 변환합니다.
+- ?ConvertAbsToUserUnitsX@CGCodeInterpreter@@QAENN@Z,절대 좌표를 사용자 단위로 변환합니다.
+- ?ConvertAbsToUserUnitsY@CGCodeInterpreter@@QAENN@Z,절대 좌표를 사용자 단위로 변환합니다.
+- ?ConvertAbsToUserUnitsZ@CGCodeInterpreter@@QAENN@Z,절대 좌표를 사용자 단위로 변환합니다.
+- ?ConvertAbsoluteToInterpreterCoord@CGCodeInterpreter@@QAEXNNNNNNNNPAN0000000PAUsetup_struct@@@Z,절대 좌표를 인터프리터 좌표로 변환합니다.
+- ?ConvertAbsoluteToInterpreterCoord@CGCodeInterpreter@@QAEXNNNNNNPAN00000PAUsetup_struct@@@Z,절대 좌표를 인터프리터 좌표로 변환합니다.
+- ?ConvertAbsoluteToMachine@CGCodeInterpreter@@QAEXNNNNNNNNPAN0000000@Z,절대 좌표를 기계 좌표로 변환합니다.
+- ?ConvertAbsoluteToMachine@CGCodeInterpreter@@QAEXNNNNNNPAN00000@Z,절대 좌표를 기계 좌표로 변환합니다.
+- ?DetermineSoftwareHardwareFRO@CCoordMotion@@AAEXAAN0@Z,소프트웨어 및 하드웨어 피드 속도 비율을 결정합니다.
+- ?DoExecute@CGCodeInterpreter@@QAEHXZ,G코드를 실행합니다.
+- ?DoExecuteComplete@CGCodeInterpreter@@QAEHXZ,G코드 실행을 완료합니다.
+- ?DoKMotionBufCmd@CCoordMotion@@QAEHPBDH@Z,KMotion 버퍼 명령을 실행합니다.
+- ?DoKMotionCmd@CCoordMotion@@QAEHPBDH@Z,KMotion 명령을 실행합니다.
+- ?DoRateAdjustments@CCoordMotion@@QAEHHH@Z,속도 조정을 수행합니다.
+- ?DoRateAdjustmentsArc@CCoordMotion@@QAEHHNNNN@Z,호(arc) 동작에 대한 속도 조정을 수행합니다.
+- ?DoResumeSafe@CGCodeInterpreter@@AAEHXZ,안전하게 실행을 재개합니다.
+- ?DoReverseSearch@CGCodeInterpreter@@QAEHPBDH@Z,역방향 검색을 수행합니다.
+- ?DoSegmentCallbacks@CCoordMotion@@QAEXHH@Z,세그먼트 콜백을 수행합니다.
+- ?DoSegmentCallbacksRapid@CCoordMotion@@QAEXHH@Z,빠른 세그먼트 콜백을 수행합니다.
+- ?DoSpecialCommand@CCoordMotion@@QAEHH@Z,특수 명령을 수행합니다.
+- ?DoSpecialInitialCommands@CCoordMotion@@QAEHXZ,초기 특수 명령을 수행합니다.
+- ?DownloadDoneSegments@CCoordMotion@@QAEHXZ,완료된 세그먼트를 다운로드합니다.
+- ?DownloadInit@CCoordMotion@@QAEXXZ,다운로드를 초기화합니다.
+- ?Dwell@CCoordMotion@@QAEHNH@Z,대기 시간을 설정합니다.
+- ?ExecutePC@CGCodeInterpreter@@QAEHPBD@Z,PC에서 G코드를 실행합니다.
+- ?ExecutionStop@CCoordMotion@@QAEHXZ,실행을 중지합니다.
+- ?FeedRateDistance@CCoordMotion@@QAENNNNNNNNNPAH@Z,피드 속도에 따른 거리 계산을 수행합니다.
+- ?FeedRateDistance@CCoordMotion@@QAENNNNNNNPAH@Z,피드 속도에 따른 거리 계산을 수행합니다.
+- ?FlushSegments@CCoordMotion@@QAEHXZ,세그먼트를 플러시합니다.
+- ?FlushWriteLineBuffer@CCoordMotion@@AAEHXZ,라인 버퍼를 플러시합니다.
+- ?GeoCorrect@CKinematics@@UAEHNNNPAN00@Z,지오메트리 보정을 수행합니다.
+- ?GetAbort@CCoordMotion@@QAE_NXZ,중단 상태를 가져옵니다.
+- ?GetAbort@CGCodeInterpreter@@QAE_NXZ,중단 상태를 가져옵니다.
+- ?GetAxisDefinitions@CCoordMotion@@QAEHPAH0000000@Z,축 정의를 가져옵니다.
+- ?GetAxisDefinitions@CCoordMotion@@QAEHPAH00000@Z,축 정의를 가져옵니다.
+- ?GetAxisDone@CCoordMotion@@QAEHHPAH@Z,축 작업 완료 상태를 가져옵니다.
+- ?GetDestination@CCoordMotion@@QAEHHPAN@Z,목적지를 가져옵니다.
+- ?GetFeedRateOverride@CCoordMotion@@QAENXZ,피드 속도 오버라이드를 가져옵니다.
+- ?GetFeedRateRapidOverride@CCoordMotion@@QAENXZ,빠른 피드 속도 오버라이드를 가져옵니다.
+- ?GetHalt@CCoordMotion@@QAE_NXZ,중지 상태를 가져옵니다.
+- ?GetHalt@CGCodeInterpreter@@QAE_NXZ,중지 상태를 가져옵니다.
+- ?GetHaltNextLine@CGCodeInterpreter@@QAE_NXZ,다음 라인의 중지 상태를 가져옵니다.
+- ?GetHardwareFRORange@CCoordMotion@@QAENXZ,하드웨어 피드 속도 비율 범위를 가져옵니다.
+- ?GetMotionParams@CCoordMotion@@QAEPAUMOTION_PARAMS@@XZ,모션 파라미터를 가져옵니다.
+- ?GetMotionParams@CGCodeInterpreter@@QAEPAUMOTION_PARAMS@@XZ,모션 파라미터를 가져옵니다.
+- ?GetOrigin@CGCodeInterpreter@@QAEHHPAN0000000@Z,원점을 가져옵니다.
+- ?GetOrigin@CGCodeInterpreter@@QAEHHPAN00000@Z,원점을 가져옵니다.
+- ?GetPosition@CCoordMotion@@QAEHHPAN@Z,현재 위치를 가져옵니다.
+- ?GetRapidSettings@CCoordMotion@@QAEHXZ,빠른 설정을 가져옵니다.
+- ?GetRapidSettingsAxis@CCoordMotion@@QAEHHPAN0000N@Z,특정 축의 빠른 설정을 가져옵니다.
+- ?GetRealTimeState@CGCodeInterpreter@@QAEPAUsetup_struct@@XZ,실시간 상태를 가져옵니다.
+- ?GetSoftLimits@CKinematics@@UAEHPAN000000000000000@Z,소프트 제한을 가져옵니다.
+- ?GetSpindleRPS@CCoordMotion@@QAEHAAM@Z,스핀들의 초당 회전수를 가져옵니다.
+- ?GetSpindleRateOverride@CCoordMotion@@QAENXZ,스핀들 속도 오버라이드를 가져옵니다.
+- ?Halt@CGCodeInterpreter@@QAEXXZ,작업을 중지합니다.
+- ?HaltNextLine@CGCodeInterpreter@@QAEXXZ,다음 라인에서 작업을 중지합니다.
+- ?InchesOrDegToUserUnitsA@CGCodeInterpreter@@QAENN@Z,인치 또는 각도를 사용자 단위로 변환합니다.
+- ?InchesOrDegToUserUnitsB@CGCodeInterpreter@@QAENN@Z,인치 또는 각도를 사용자 단위로 변환합니다.
+- ?InchesOrDegToUserUnitsC@CGCodeInterpreter@@QAENN@Z,인치 또는 각도를 사용자 단위로 변환합니다.
+- ?InchesToUserUnits@CGCodeInterpreter@@QAENN@Z,인치를 사용자 단위로 변환합니다.
+- ?InchesToUserUnitsX@CGCodeInterpreter@@QAENN@Z,인치를 사용자 단위로 변환합니다.
+- ?InitializeInterp@CGCodeInterpreter@@QAEHXZ,인터프리터를 초기화합니다.
+- ?Interpret@CGCodeInterpreter@@QAEHHPBDHHHP6AXH0@ZP6AXHHH0@Z@Z,G코드를 해석합니다.

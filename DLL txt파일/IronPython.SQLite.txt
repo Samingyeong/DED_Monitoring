@@ -1,0 +1,13 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35211.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file F:\DED monitoring\DED\IronPython.SQLite.dll
+
+File Type: DLL
+
+  Summary
+
+        2000 .reloc
+        2000 .rsrc
+       9C000 .text

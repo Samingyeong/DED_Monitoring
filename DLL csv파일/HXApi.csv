@@ -1,0 +1,99 @@
+﻿함수명,설명
+??0GxAxis@@QAE@HH@Z,GxAxis 클래스의 생성자. 두 개의 정수 매개변수를 받아 객체를 초기화합니다.
+??0GxChannel@@QAE@HH@Z,GxChannel 클래스의 생성자. 두 개의 정수 매개변수를 받아 객체를 초기화합니다.
+??0GxSystem@@QAE@H@Z,GxSystem 클래스의 생성자. 하나의 정수 매개변수를 받아 객체를 초기화합니다.
+??0Hx20Axis@@QAE@HH@Z,Hx20Axis 클래스의 생성자. 두 개의 정수 매개변수를 받아 객체를 초기화합니다.
+??0Hx20Channel@@QAE@HH@Z,Hx20Channel 클래스의 생성자. 두 개의 정수 매개변수를 받아 객체를 초기화합니다.
+??0Hx20System@@QAE@H@Z,Hx20System 클래스의 생성자. 하나의 정수 매개변수를 받아 객체를 초기화합니다.
+??4GxAxis@@QAEAAV0@ABV0@@Z,GxAxis 클래스의 대입 연산자. 다른 GxAxis 객체로부터 값을 복사합니다.
+??4GxChannel@@QAEAAV0@ABV0@@Z,GxChannel 클래스의 대입 연산자. 다른 GxChannel 객체로부터 값을 복사합니다.
+??4GxSystem@@QAEAAV0@ABV0@@Z,GxSystem 클래스의 대입 연산자. 다른 GxSystem 객체로부터 값을 복사합니다.
+??4Hx20Axis@@QAEAAV0@ABV0@@Z,Hx20Axis 클래스의 대입 연산자. 다른 Hx20Axis 객체로부터 값을 복사합니다.
+??4Hx20Channel@@QAEAAV0@ABV0@@Z,Hx20Channel 클래스의 대입 연산자. 다른 Hx20Channel 객체로부터 값을 복사합니다.
+??4Hx20System@@QAEAAV0@ABV0@@Z,Hx20System 클래스의 대입 연산자. 다른 Hx20System 객체로부터 값을 복사합니다.
+?AllStopAxis_byAlarm@GxSystem@@QAEHXZ,GxSystem에서 모든 축을 알람에 의해 정지시킵니다.
+?AllStopAxis_byAlarm@GxSystem@@QAEXH@Z,GxSystem에서 특정 축을 알람에 의해 정지시킵니다.
+?CommandUnit@GxSystem@@QAEHXZ,GxSystem에서 명령 단위를 가져옵니다.
+?CommandUnit@GxSystem@@QAEXH@Z,GxSystem에서 명령 단위를 설정합니다.
+?Connect@Hx20System@@QAEHPBDH@Z,Hx20System에 연결합니다. 문자열과 정수 매개변수를 사용합니다.
+?Data@GxSystem@@QAEHH@Z,GxSystem에서 데이터를 가져옵니다.
+?Data@GxSystem@@QAEXHH@Z,GxSystem에서 데이터를 설정합니다.
+?EMG@GxChannel@@QAEHXZ,GxChannel에서 비상 정지(EMG) 상태를 가져옵니다.
+?EMG@GxChannel@@QAEXH@Z,GxChannel에서 비상 정지(EMG) 상태를 설정합니다.
+?EMG@GxSystem@@QAEHXZ,GxSystem에서 비상 정지(EMG) 상태를 가져옵니다.
+?EMG@GxSystem@@QAEXH@Z,GxSystem에서 비상 정지(EMG) 상태를 설정합니다.
+?FB@GxSystem@@QAEHHH@Z,GxSystem에서 피드백 데이터를 가져옵니다.
+?FB@Hx20System@@QAEHHH@Z,Hx20System에서 피드백 데이터를 가져옵니다.
+?FW@GxSystem@@QAEHH@Z,GxSystem에서 전방 데이터를 가져옵니다.
+?FW@Hx20System@@QAEHH@Z,Hx20System에서 전방 데이터를 가져옵니다.
+?FeedUnit@GxSystem@@QAEHXZ,GxSystem에서 피드 단위를 가져옵니다.
+?FeedUnit@GxSystem@@QAEXH@Z,GxSystem에서 피드 단위를 설정합니다.
+?FieldBusTime@GxSystem@@QAEHXZ,GxSystem에서 필드버스 시간을 가져옵니다.
+?FieldBusTime@GxSystem@@QAEXH@Z,GxSystem에서 필드버스 시간을 설정합니다.
+?GB@GxSystem@@QAEHHH@Z,GxSystem에서 특정 데이터를 가져옵니다.
+?GB@GxSystem@@QAEXHHH@Z,GxSystem에서 특정 데이터를 설정합니다.
+?GB@Hx20System@@QAEHHH@Z,Hx20System에서 특정 데이터를 가져옵니다.
+?GB@Hx20System@@QAEXHHH@Z,Hx20System에서 특정 데이터를 설정합니다.
+?GW@GxSystem@@QAEHH@Z,GxSystem에서 특정 데이터를 가져옵니다.
+?GW@GxSystem@@QAEXHH@Z,GxSystem에서 특정 데이터를 설정합니다.
+?GW@Hx20System@@QAEHH@Z,Hx20System에서 특정 데이터를 가져옵니다.
+?GW@Hx20System@@QAEXHH@Z,Hx20System에서 특정 데이터를 설정합니다.
+?GetAxis@Hx20System@@QAEPAVHx20Axis@@H@Z,Hx20System에서 특정 축 객체를 가져옵니다.
+?GetChannel@Hx20System@@QAEPAVHx20Channel@@H@Z,Hx20System에서 특정 채널 객체를 가져옵니다.
+?GetMpProgram@GxChannel@@QAEHXZ,GxChannel에서 MP 프로그램을 가져옵니다.
+?GetString@Hx20System@@QAEPBDH@Z,Hx20System에서 문자열 데이터를 가져옵니다.
+?GxGetEB@@YAHHHH@Z,Gx 시스템에서 EB 데이터를 가져옵니다.
+?GxGetEW@@YAHHH@Z,Gx 시스템에서 EW 데이터를 가져옵니다.
+?GxGetMcMode@@YAHHH@Z,Gx 시스템에서 MC 모드를 가져옵니다.
+?GxGetQB@@YAHHHH@Z,Gx 시스템에서 QB 데이터를 가져옵니다.
+?GxGetQW@@YAHHH@Z,Gx 시스템에서 QW 데이터를 가져옵니다.
+?GxGetRefStopSenor@@YAHHH@Z,Gx 시스템에서 참조 정지 센서 상태를 가져옵니다.
+?GxPushEB@@YAXHHHH@Z,Gx 시스템에 EB 데이터를 푸시합니다.
+?GxPushEW@@YAXHHH@Z,Gx 시스템에 EW 데이터를 푸시합니다.
+?GxPushFB@@YAXHHHH@Z,Gx 시스템에 피드백 데이터를 푸시합니다.
+?GxPushFW@@YAXHHH@Z,Gx 시스템에 전방 데이터를 푸시합니다.
+?GxPushMcMode@@YAXHHH@Z,Gx 시스템에 MC 모드를 푸시합니다.
+?GxPushQB@@YAXHHHH@Z,Gx 시스템에 QB 데이터를 푸시합니다.
+?GxPushQW@@YAXHHH@Z,Gx 시스템에 QW 데이터를 푸시합니다.
+?GxSendBuffer@@YAXH@Z,Gx 시스템에 버퍼를 전송합니다.
+?GxSetEB@@YAXHHHH@Z,Gx 시스템에 EB 데이터를 설정합니다.
+?GxSetEW@@YAXHHH@Z,Gx 시스템에 EW 데이터를 설정합니다.
+?GxSetFB@@YAXHHHH@Z,Gx 시스템에 피드백 데이터를 설정합니다.
+?GxSetFW@@YAXHHH@Z,Gx 시스템에 전방 데이터를 설정합니다.
+?GxSetMcMode@@YAXHHH@Z,Gx 시스템에 MC 모드를 설정합니다.
+?GxSetQB@@YAXHHHH@Z,Gx 시스템에 QB 데이터를 설정합니다.
+?GxSetQW@@YAXHHH@Z,Gx 시스템에 QW 데이터를 설정합니다.
+?HXAxisGetType_@@YAJKAAK000@Z,HX 시스템에서 축의 타입을 가져옵니다.
+?HXAxisSetMaxRPM@@YAJKK@Z,HX 시스템에서 축의 최대 RPM을 설정합니다.
+?HXGetMainSpindle@@YAJXZ,HX 시스템에서 메인 스핀들을 가져옵니다.
+?HXGetNCsate@@YAJK@Z,HX 시스템에서 NC 상태를 가져옵니다.
+?HXGetZAxis@@YAJXZ,HX 시스템에서 Z 축을 가져옵니다.
+?HXInitialize2@@YAJJJJJJJ@Z,HX 시스템을 초기화합니다.
+?HXSetMainSpindle@@YAJK@Z,HX 시스템에서 메인 스핀들을 설정합니다.
+?HXSetSFunction@@YAJKKK@Z,HX 시스템에서 S 함수를 설정합니다.
+?HXSetZAxis@@YAJK@Z,HX 시스템에서 Z 축을 설정합니다.
+?HxGetAxisRapidFeed@@YANHH@Z,Hx 시스템에서 축의 고속 피드를 가져옵니다.
+?HxPushAxisRapidFeed@@YAXHHN@Z,Hx 시스템에 축의 고속 피드를 푸시합니다.
+?HxPushFB@@YAXHHHH@Z,Hx 시스템에 피드백 데이터를 푸시합니다.
+?HxPushFW@@YAXHHH@Z,Hx 시스템에 전방 데이터를 푸시합니다.
+?HxPushSystemProgramChangeNumber@@YAXHH@Z,Hx 시스템에 프로그램 변경 번호를 푸시합니다.
+?HxSetAxisRapidFeed@@YAXHHN@Z,Hx 시스템에 축의 고속 피드를 설정합니다.
+?HxSetFW@@YAXHHH@Z,Hx 시스템에 전방 데이터를 설정합니다.
+?Initialize@Hx20System@@QAEHH@Z,Hx20System을 초기화합니다.
+?IpoTime@GxSystem@@QAEHXZ,GxSystem에서 IPO 시간을 가져옵니다.
+?IpoTime@GxSystem@@QAEXH@Z,GxSystem에서 IPO 시간을 설정합니다.
+?JogStart@GxAxis@@QAEXHHHH@Z,GxAxis에서 조깅을 시작합니다.
+?JogStop@GxAxis@@QAEXXZ,GxAxis에서 조깅을 중지합니다.
+?LengthUnit@GxSystem@@QAEHXZ,GxSystem에서 길이 단위를 가져옵니다.
+?LengthUnit@GxSystem@@QAEXH@Z,GxSystem에서 길이 단위를 설정합니다.
+?MachinePosition@GxAxis@@QAEHXZ,GxAxis에서 기계 위치를 가져옵니다.
+?MotionAxis@GxChannel@@QAEHH@Z,GxChannel에서 모션 축을 가져옵니다.
+?MotionAxis@GxChannel@@QAEXHH@Z,GxChannel에서 모션 축을 설정합니다.
+?MoveStart@GxAxis@@QAEHHHHH@Z,GxAxis에서 이동을 시작합니다.
+?PAF@Hx20System@@QAENH@Z,Hx20System에서 PAF 데이터를 가져옵니다.
+?PAF@Hx20System@@QAEXHN@Z,Hx20System에서 PAF 데이터를 설정합니다.
+?PAW@Hx20System@@QAEHH@Z,Hx20System에서 PAW 데이터를 가져옵니다.
+?PAW@Hx20System@@QAEXHH@Z,Hx20System에서 PAW 데이터를 설정합니다.
+?PB@GxSystem@@QAEHHH@Z,GxSystem에서 PB 데이터를 가져옵니다.
+?PB@GxSystem@@QAEXHHH@Z,GxSystem에서 PB 데이터를 설정합니다.
+?PIF@Hx20System@@QAENH@Z,Hx20System에서 PIF 데이터를 가져옵니다.

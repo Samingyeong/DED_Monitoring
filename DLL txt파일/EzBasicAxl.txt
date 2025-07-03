@@ -1,0 +1,186 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35211.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file F:\DED monitoring\DED\EzBasicAxl.dll
+
+File Type: DLL
+
+  Section contains the following exports for EzBasicAxl.dll
+
+    00000000 characteristics
+    66F26D5A time date stamp Tue Sep 24 16:42:18 2024
+        0.00 version
+           1 ordinal base
+         159 number of functions
+         159 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003E60 ??0CEzBasic@@QAE@ABV0@@Z
+          2    1 00004050 ??0CEzBasic@@QAE@XZ
+          3    2 00003D90 ??0CEzObject@@QAE@ABV0@@Z
+          4    3 00003D40 ??0CEzObject@@QAE@XZ
+          5    4 000040D0 ??1CEzBasic@@UAE@XZ
+          6    5 00003D60 ??1CEzObject@@UAE@XZ
+          7    6 00003F10 ??4CEzBasic@@QAEAAV0@ABV0@@Z
+          8    7 00003DB0 ??4CEzObject@@QAEAAV0@ABV0@@Z
+          9    8 0001D81C ??_7CEzBasic@@6B@
+         10    9 0001D80C ??_7CEzObject@@6B@
+         11    A 00004240 ?Close@CEzBasic@@QAEXXZ
+         12    B 00005660 ?DisableInterrupt@CEzBasic@@QAEXF@Z
+         13    C 00004DF0 ?EepromGetBaseAddress@CEzBasic@@QAEKXZ
+         14    D 00004FC0 ?EepromGetLength@CEzBasic@@QAEFXZ
+         15    E 00004E10 ?EepromGetLengthWord@CEzBasic@@QAEFXZ
+         16    F 00004CB0 ?EepromInit@CEzBasic@@QAEEK@Z
+         17   10 00004DC0 ?EepromIsInit@CEzBasic@@QAEEXZ
+         18   11 00005090 ?EepromRead@CEzBasic@@QAEEE@Z
+         19   12 00004F30 ?EepromReadWord@CEzBasic@@QAEGE@Z
+         20   13 00004FF0 ?EepromWrite@CEzBasic@@QAEEEE@Z
+         21   14 00004E40 ?EepromWriteWord@CEzBasic@@QAEEEG@Z
+         22   15 00005100 ?Eeprom_delay@CEzBasic@@IAEXF@Z
+         23   16 000053F0 ?Eeprom_ewds@CEzBasic@@IAEXXZ
+         24   17 00005380 ?Eeprom_ewen@CEzBasic@@IAEXXZ
+         25   18 000051A0 ?Eeprom_get_cs@CEzBasic@@IAEEXZ
+         26   19 00005300 ?Eeprom_get_di@CEzBasic@@IAEEXZ
+         27   1A 00005340 ?Eeprom_get_do@CEzBasic@@IAEEXZ
+         28   1B 000054F0 ?Eeprom_get_nbit@CEzBasic@@IAEGE@Z
+         29   1C 00005250 ?Eeprom_get_sk@CEzBasic@@IAEEXZ
+         30   1D 00005460 ?Eeprom_put_nbit@CEzBasic@@IAEXGE@Z
+         31   1E 00005130 ?Eeprom_set_cs@CEzBasic@@IAEXE@Z
+         32   1F 00005290 ?Eeprom_set_di@CEzBasic@@IAEXE@Z
+         33   20 000051E0 ?Eeprom_set_sk@CEzBasic@@IAEXE@Z
+         34   21 000055F0 ?EnableInterrupt@CEzBasic@@QAEEFPAVCEzObject@@@Z
+         35   22 00004210 ?GetBusType@CEzBasic@@QAEFXZ
+         36   23 00005820 ?GetDriverVersion@CEzBasic@@QAEKH@Z
+         37   24 00004A80 ?GetEffectAddress@CEzBasic@@QAEFFPAUEFFECT_ADDRESS@@@Z
+         38   25 00004B40 ?GetEffectAddressAll@CEzBasic@@QAEFPAUEFFECT_ADDRESS@@@Z
+         39   26 00004A30 ?GetEffectAddressNumber@CEzBasic@@QAEFXZ
+         40   27 00005870 ?GetIRQno@CEzBasic@@QAEFXZ
+         41   28 00005710 ?GetInterruptModuleFlag@CEzBasic@@QAEGH@Z
+         42   29 00005810 ?GetLibraryType@CEzBasic@@UAEFXZ
+         43   2A 00003D80 ?GetLibraryType@CEzObject@@UAEFXZ
+         44   2B 00004140 ?Init@CEzBasic@@QAEEFF@Z
+         45   2C 00005570 ?InterruptHandler@CEzBasic@@UAEXJ@Z
+         46   2D 00005770 ?IsEnableInterrupt@CEzBasic@@QAEEXZ
+         47   2E 000041F0 ?IsInit@CEzBasic@@QAEEXZ
+         48   2F 000049E0 ?IsValidAddress@CEzBasic@@QAEEK@Z
+         49   30 000058F0 ?IsValidBus@CEzBasic@@SAEF@Z
+         50   31 00005950 ?IsValidBusSystem@CEzBasic@@SAEF@Z
+         51   32 00004720 ?Read2@CEzBasic@@QAEEK@Z
+         52   33 00004400 ?Read@CEzBasic@@QAEEK@Z
+         53   34 00004790 ?ReadByte2@CEzBasic@@QAEEK@Z
+         54   35 00004450 ?ReadByte@CEzBasic@@QAEEK@Z
+         55   36 00004870 ?ReadDWord2@CEzBasic@@QAEKK@Z
+         56   37 00004500 ?ReadDWord@CEzBasic@@QAEKK@Z
+         57   38 000048E0 ?ReadDWordIo@CEzBasic@@QAEKFKPAK@Z
+         58   39 00005990 ?ReadPCIConfigurationRegister@CEzBasic@@QAEEFGPAK@Z
+         59   3A 00004800 ?ReadWord2@CEzBasic@@QAEGK@Z
+         60   3B 000044B0 ?ReadWord@CEzBasic@@QAEGK@Z
+         61   3C 00004C40 ?SearchAddressSpace@CEzBasic@@QAEFK@Z
+         62   3D 000057F0 ?SetInterruptHWND@CEzBasic@@QAEXPAUHWND__@@I@Z
+         63   3E 000056C0 ?SetInterruptModuleMask@CEzBasic@@QAEXHG@Z
+         64   3F 000057D0 ?SetInterruptProc@CEzBasic@@QAEXP6AXPAXJ@Z0@Z
+         65   40 00004550 ?Write2@CEzBasic@@QAEEKE@Z
+         66   41 000042A0 ?Write@CEzBasic@@QAEEKE@Z
+         67   42 000045C0 ?WriteByte2@CEzBasic@@QAEEKE@Z
+         68   43 000042F0 ?WriteByte@CEzBasic@@QAEEKE@Z
+         69   44 000046B0 ?WriteDWord2@CEzBasic@@QAEKKK@Z
+         70   45 000043B0 ?WriteDWord@CEzBasic@@QAEKKK@Z
+         71   46 00004960 ?WriteDWordIo@CEzBasic@@QAEKFKK@Z
+         72   47 00005A00 ?WritePCIConfigurationRegister@CEzBasic@@QAEEFFK@Z
+         73   48 00004640 ?WriteWord2@CEzBasic@@QAEGKG@Z
+         74   49 00004350 ?WriteWord@CEzBasic@@QAEGKG@Z
+         75   4A 00012750 PlxPci_ApiVersion
+         76   4B 00012C80 PlxPci_ChipGetPortMask
+         77   4C 00012AD0 PlxPci_ChipTypeGet
+         78   4D 00012BA0 PlxPci_ChipTypeSet
+         79   4E 00016FC0 PlxPci_CommonBufferMap
+         80   4F 00016EA0 PlxPci_CommonBufferProperties
+         81   50 000170D0 PlxPci_CommonBufferUnmap
+         82   51 00012470 PlxPci_DeviceClose
+         83   52 00012510 PlxPci_DeviceFind
+         84   53 00012690 PlxPci_DeviceFindEx
+         85   54 00012340 PlxPci_DeviceOpen
+         86   55 000151E0 PlxPci_DeviceReset
+         87   56 00017F40 PlxPci_DmaChannelClose
+         88   57 000178D0 PlxPci_DmaChannelOpen
+         89   58 00017AF0 PlxPci_DmaControl
+         90   59 00017980 PlxPci_DmaGetProperties
+         91   5A 00017A40 PlxPci_DmaSetProperties
+         92   5B 00017B80 PlxPci_DmaStatus
+         93   5C 00017C00 PlxPci_DmaTransferBlock
+         94   5D 00017DC0 PlxPci_DmaTransferUserBuffer
+         95   5E 000128D0 PlxPci_DriverProperties
+         96   5F 00012A60 PlxPci_DriverScheduleRescan
+         97   60 000127C0 PlxPci_DriverVersion
+         98   61 00016080 PlxPci_EepromCrcGet
+         99   62 00016130 PlxPci_EepromCrcUpdate
+        100   63 000161E0 PlxPci_EepromGetAddressWidth
+        101   64 00015F40 PlxPci_EepromPresent
+        102   65 00015FE0 PlxPci_EepromProbe
+        103   66 00016310 PlxPci_EepromReadByOffset
+        104   67 00016480 PlxPci_EepromReadByOffset_16
+        105   68 00016280 PlxPci_EepromSetAddressWidth
+        106   69 000163E0 PlxPci_EepromWriteByOffset
+        107   6A 00016550 PlxPci_EepromWriteByOffset_16
+        108   6B 00015100 PlxPci_GetPortProperties
+        109   6C 00012720 PlxPci_I2cGetPorts
+        110   6D 000127A0 PlxPci_I2cVersion
+        111   6E 00017240 PlxPci_InterruptDisable
+        112   6F 000171A0 PlxPci_InterruptEnable
+        113   70 00016750 PlxPci_IoPortRead
+        114   71 00016810 PlxPci_IoPortWrite
+        115   72 00018CD0 PlxPci_MH_GetProperties
+        116   73 00018DA0 PlxPci_MH_MigratePorts
+        117   74 000176C0 PlxPci_NotificationCancel
+        118   75 00017420 PlxPci_NotificationRegisterFor
+        119   76 000175F0 PlxPci_NotificationStatus
+        120   77 00017530 PlxPci_NotificationWait
+        121   78 00019040 PlxPci_Nt_LutAdd
+        122   79 00019150 PlxPci_Nt_LutDisable
+        123   7A 00018F30 PlxPci_Nt_LutProperties
+        124   7B 00018E70 PlxPci_Nt_ReqIdProbe
+        125   7C 00015BF0 PlxPci_PciBarMap
+        126   7D 00015AF0 PlxPci_PciBarProperties
+        127   7E 000168D0 PlxPci_PciBarSpaceRead
+        128   7F 000169D0 PlxPci_PciBarSpaceWrite
+        129   80 00015DA0 PlxPci_PciBarUnmap
+        130   81 00015260 PlxPci_PciRegisterRead
+        131   82 000152C0 PlxPci_PciRegisterReadFast
+        132   83 00015470 PlxPci_PciRegisterRead_BypassOS
+        133   84 00015290 PlxPci_PciRegisterWrite
+        134   85 000153B0 PlxPci_PciRegisterWriteFast
+        135   86 000155C0 PlxPci_PciRegisterWrite_BypassOS
+        136   87 00018320 PlxPci_PerformanceCalcStatistics
+        137   88 00018230 PlxPci_PerformanceGetCounters
+        138   89 00017FC0 PlxPci_PerformanceInitializeProperties
+        139   8A 000180A0 PlxPci_PerformanceMonitorControl
+        140   8B 00018140 PlxPci_PerformanceResetCounters
+        141   8C 00016AD0 PlxPci_PhysicalMemoryAllocate
+        142   8D 00016BB0 PlxPci_PhysicalMemoryFree
+        143   8E 00016C90 PlxPci_PhysicalMemoryMap
+        144   8F 00016D90 PlxPci_PhysicalMemoryUnmap
+        145   90 000159A0 PlxPci_PlxMailboxRead
+        146   91 00015A50 PlxPci_PlxMailboxWrite
+        147   92 00015860 PlxPci_PlxMappedRegisterRead
+        148   93 00015900 PlxPci_PlxMappedRegisterWrite
+        149   94 000156E0 PlxPci_PlxRegisterRead
+        150   95 000157B0 PlxPci_PlxRegisterWrite
+        151   96 00016630 PlxPci_SpiFlashErase
+        152   97 00016730 PlxPci_SpiFlashGetStatus
+        153   98 000165F0 PlxPci_SpiFlashPropGet
+        154   99 00016650 PlxPci_SpiFlashReadBuffer
+        155   9A 00016690 PlxPci_SpiFlashReadByOffset
+        156   9B 000166D0 PlxPci_SpiFlashWriteBuffer
+        157   9C 00016710 PlxPci_SpiFlashWriteByOffset
+        158   9D 00017780 PlxPci_VpdRead
+        159   9E 00017830 PlxPci_VpdWrite
+
+  Summary
+
+        3000 .data
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1C000 .text

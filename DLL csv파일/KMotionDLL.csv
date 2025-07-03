@@ -1,0 +1,59 @@
+﻿함수명,설명
+- ??0CKMotionDLL@@QAE@H@Z,CKMotionDLL 클래스의 생성자입니다. 초기화 작업을 수행합니다.
+- ??0CKMotionDLL_Direct@@QAE@XZ,CKMotionDLL_Direct 클래스의 생성자입니다. 초기화 작업을 수행합니다.
+- ??1CKMotionDLL@@UAE@XZ,CKMotionDLL 클래스의 소멸자입니다. 자원을 해제합니다.
+- ??4CKMotionDLL_Direct@@QAEAAV0@$$QAV0@@Z,CKMotionDLL_Direct 객체를 다른 객체로 이동 대입하는 연산자입니다.
+- ??4CKMotionDLL_Direct@@QAEAAV0@ABV0@@Z,CKMotionDLL_Direct 객체를 다른 객체로 복사 대입하는 연산자입니다.
+- ??_7CKMotionDLL@@6B@,CKMotionDLL 클래스의 가상 함수 테이블을 나타냅니다.
+- ?CheckCoffSize@CKMotionDLL@@QAEHPBDPAH111@Z,COFF 파일의 크기를 확인합니다.
+- ?CheckForReady@CKMotionDLL@@QAEHXZ,CKMotionDLL이 준비 상태인지 확인합니다.
+- ?CheckForReady@CKMotionDLL_Direct@@QAEHH@Z,CKMotionDLL_Direct가 준비 상태인지 확인합니다.
+- ?CheckKMotionVersion@CKMotionDLL@@QAEHPAH_N@Z,KMotion의 버전을 확인합니다.
+- ?ClearErrMsg@CKMotionDLL_Direct@@QAEXH@Z,CKMotionDLL_Direct의 오류 메시지를 지웁니다.
+- ?Compile@CKMotionDLL@@QAEHPBD0HHPADH@Z,코드를 컴파일합니다.
+- ?CompileAndLoadCoff@CKMotionDLL@@QAEHPBDH@Z,COFF 파일을 컴파일하고 로드합니다.
+- ?CompileAndLoadCoff@CKMotionDLL@@QAEHPBDHPADH@Z,COFF 파일을 컴파일하고 로드하며 추가 정보를 제공합니다.
+- ?ConvertToOut@CKMotionDLL@@QAEXHPBDPADH@Z,데이터를 출력 형식으로 변환합니다.
+- ?Disconnect@CKMotionDLL@@QAEHXZ,CKMotionDLL의 연결을 해제합니다.
+- ?Disconnect@CKMotionDLL_Direct@@QAEHH@Z,CKMotionDLL_Direct의 연결을 해제합니다.
+- ?DoErrMsg@CKMotionDLL@@QAEXPBD@Z,오류 메시지를 처리합니다.
+- ?ExtractCoffVersionString@CKMotionDLL@@QAEHPBDPAD@Z,COFF 파일의 버전 문자열을 추출합니다.
+- ?ExtractPath@CKMotionDLL@@AAE?AV?$CStringT@DV?$StrTraitMFC_DLL@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@V23@@Z,경로를 추출합니다.
+- ?Failed@CKMotionDLL@@QAEHXZ,CKMotionDLL의 작업 실패 여부를 확인합니다.
+- ?Failed@CKMotionDLL_Direct@@QAEHH@Z,CKMotionDLL_Direct의 작업 실패 여부를 확인합니다.
+- ?FirmwareVersion@CKMotionDLL@@QAEHXZ,펌웨어 버전을 확인합니다.
+- ?FirmwareVersion@CKMotionDLL_Direct@@QAEHH@Z,CKMotionDLL_Direct의 펌웨어 버전을 확인합니다.
+- ?GetErrMsg@CKMotionDLL_Direct@@QAEPBDH@Z,오류 메시지를 가져옵니다.
+- ?GetLoadAddress@CKMotionDLL@@QAEIHH@Z,로드 주소를 가져옵니다.
+- ?GetStatus@CKMotionDLL@@QAEHAAUMAIN_STATUS@@_N@Z,상태 정보를 가져옵니다.
+- ?KMotionLock@CKMotionDLL@@QAEHPAD@Z,KMotion을 잠급니다.
+- ?KMotionLock@CKMotionDLL_Direct@@QAEHHPAD@Z,CKMotionDLL_Direct의 KMotion을 잠급니다.
+- ?KMotionLockRecovery@CKMotionDLL@@QAEHXZ,KMotion 잠금 복구를 수행합니다.
+- ?KMotionLockRecovery@CKMotionDLL_Direct@@QAEHH@Z,CKMotionDLL_Direct의 KMotion 잠금 복구를 수행합니다.
+- ?LaunchServer@CKMotionDLL@@AAEHXZ,서버를 시작합니다.
+- ?ListLocations@CKMotionDLL@@QAEHPAH0@Z,위치 목록을 나열합니다.
+- ?ListLocations@CKMotionDLL_Direct@@QAEHPAH0@Z,CKMotionDLL_Direct의 위치 목록을 나열합니다.
+- ?LoadCoff@CKMotionDLL@@QAEHHPBDH@Z,COFF 파일을 로드합니다.
+- ?MapBoardToIndex@CKMotionDLL_Direct@@QAEHH@Z,보드를 인덱스에 매핑합니다.
+- ?Pipe@CKMotionDLL@@AAEHPBDHPADPAH@Z,파이프를 통해 데이터를 전송합니다.
+- ?PipeCmd@CKMotionDLL@@AAEHH@Z,파이프 명령을 실행합니다.
+- ?PipeCmdStr@CKMotionDLL@@AAEHHPBD@Z,문자열 형태의 파이프 명령을 실행합니다.
+- ?ReadLineTimeOut@CKMotionDLL@@QAEHPADH@Z,타임아웃을 설정하여 한 줄을 읽습니다.
+- ?ReadLineTimeOut@CKMotionDLL_Direct@@QAEHHPADH@Z,CKMotionDLL_Direct에서 타임아웃을 설정하여 한 줄을 읽습니다.
+- ?ReleaseToken@CKMotionDLL@@QAEXXZ,토큰을 해제합니다.
+- ?ReleaseToken@CKMotionDLL_Direct@@QAEXH@Z,CKMotionDLL_Direct의 토큰을 해제합니다.
+- ?ServiceConsole@CKMotionDLL@@QAEHXZ,콘솔 서비스를 수행합니다.
+- ?ServiceConsole@CKMotionDLL_Direct@@QAEHH@Z,CKMotionDLL_Direct의 콘솔 서비스를 수행합니다.
+- ?SetConsoleCallback@CKMotionDLL@@QAEHP6AHPBD@Z@Z,콘솔 콜백 함수를 설정합니다.
+- ?SetConsoleCallback@CKMotionDLL_Direct@@QAEHHP6AHHPBD@Z@Z,CKMotionDLL_Direct의 콘솔 콜백 함수를 설정합니다.
+- ?SetErrMsgCallback@CKMotionDLL@@QAEHP6AXPBD@Z@Z,오류 메시지 콜백 함수를 설정합니다.
+- ?USBLocation@CKMotionDLL@@QAEHXZ,USB 위치를 확인합니다.
+- ?USBLocation@CKMotionDLL_Direct@@QAEHH@Z,CKMotionDLL_Direct의 USB 위치를 확인합니다.
+- ?WaitToken@CKMotionDLL@@QAEH_NHPAD@Z,토큰을 대기합니다.
+- ?WriteLine@CKMotionDLL@@QAEHPBD@Z,한 줄을 씁니다.
+- ?WriteLine@CKMotionDLL_Direct@@QAEHHPBD@Z,CKMotionDLL_Direct에서 한 줄을 씁니다.
+- ?WriteLineReadLine@CKMotionDLL@@QAEHPBDPAD@Z,한 줄을 쓰고 읽습니다.
+- ?WriteLineReadLine@CKMotionDLL_Direct@@QAEHHPBDPAD@Z,CKMotionDLL_Direct에서 한 줄을 쓰고 읽습니다.
+- ?WriteLineWithEcho@CKMotionDLL@@QAEHPBD@Z,에코와 함께 한 줄을 씁니다.
+- ?WriteLineWithEcho@CKMotionDLL_Direct@@QAEHHPBD@Z,CKMotionDLL_Direct에서 에코와 함께 한 줄을 씁니다.
+- ?nInstances@CKMotionDLL_Direct@@QAEHXZ,CKMotionDLL_Direct의 인스턴스 수를 반환합니다.

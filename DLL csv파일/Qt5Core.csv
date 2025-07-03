@@ -1,0 +1,99 @@
+﻿함수명,설명
+- ??0?$QList@VQItemSelectionRange@@@@QAE@$$QAV0@@Z,QItemSelectionRange 객체를 복사하여 QList를 생성하는 생성자입니다.
+- ??0?$QList@VQItemSelectionRange@@@@QAE@ABV0@@Z,기존 QList<QItemSelectionRange> 객체를 복사하여 새로운 QList를 생성하는 생성자입니다.
+- ??0?$QList@VQItemSelectionRange@@@@QAE@XZ,"기본 생성자로, 빈 QList<QItemSelectionRange> 객체를 생성합니다."
+- ??0?$QVector@VQPoint@@@@QAE@$$QAV0@@Z,QPoint 객체를 복사하여 QVector를 생성하는 생성자입니다.
+- ??0?$QVector@VQPoint@@@@QAE@ABV0@@Z,기존 QVector<QPoint> 객체를 복사하여 새로운 QVector를 생성하는 생성자입니다.
+- ??0?$QVector@VQPoint@@@@QAE@H@Z,주어진 크기만큼의 QVector<QPoint>를 생성하는 생성자입니다.
+- ??0?$QVector@VQPoint@@@@QAE@HABVQPoint@@@Z,주어진 크기와 초기값으로 QVector<QPoint>를 생성하는 생성자입니다.
+- ??0?$QVector@VQPoint@@@@QAE@XZ,"기본 생성자로, 빈 QVector<QPoint> 객체를 생성합니다."
+- ??0?$QVector@VQPointF@@@@QAE@$$QAV0@@Z,QPointF 객체를 복사하여 QVector를 생성하는 생성자입니다.
+- ??0?$QVector@VQPointF@@@@QAE@ABV0@@Z,기존 QVector<QPointF> 객체를 복사하여 새로운 QVector를 생성하는 생성자입니다.
+- ??0?$QVector@VQPointF@@@@QAE@H@Z,주어진 크기만큼의 QVector<QPointF>를 생성하는 생성자입니다.
+- ??0?$QVector@VQPointF@@@@QAE@HABVQPointF@@@Z,주어진 크기와 초기값으로 QVector<QPointF>를 생성하는 생성자입니다.
+- ??0?$QVector@VQPointF@@@@QAE@XZ,"기본 생성자로, 빈 QVector<QPointF> 객체를 생성합니다."
+- ??0?$QVector@VQXmlStreamAttribute@@@@QAE@$$QAV0@@Z,QXmlStreamAttribute 객체를 복사하여 QVector를 생성하는 생성자입니다.
+- ??0?$QVector@VQXmlStreamAttribute@@@@QAE@ABV0@@Z,기존 QVector<QXmlStreamAttribute> 객체를 복사하여 새로운 QVector를 생성하는 생성자입니다.
+- ??0?$QVector@VQXmlStreamAttribute@@@@QAE@H@Z,주어진 크기만큼의 QVector<QXmlStreamAttribute>를 생성하는 생성자입니다.
+- ??0?$QVector@VQXmlStreamAttribute@@@@QAE@HABVQXmlStreamAttribute@@@Z,주어진 크기와 초기값으로 QVector<QXmlStreamAttribute>를 생성하는 생성자입니다.
+- ??0?$QVector@VQXmlStreamAttribute@@@@QAE@XZ,"기본 생성자로, 빈 QVector<QXmlStreamAttribute> 객체를 생성합니다."
+- ??0Connection@QMetaObject@@AAE@PAX@Z,QMetaObject::Connection 객체를 포인터로 초기화하는 생성자입니다.
+- ??0Connection@QMetaObject@@QAE@$$QAV01@@Z,QMetaObject::Connection 객체를 복사하여 생성하는 생성자입니다.
+- ??0Connection@QMetaObject@@QAE@ABV01@@Z,기존 QMetaObject::Connection 객체를 복사하여 새로운 객체를 생성하는 생성자입니다.
+- ??0Connection@QMetaObject@@QAE@XZ,"기본 생성자로, 빈 QMetaObject::Connection 객체를 생성합니다."
+- ??0ConverterState@QTextCodec@@QAE@V?$QFlags@W4ConversionFlag@QTextCodec@@@@@Z,QTextCodec::ConverterState 객체를 QFlags<ConversionFlag>로 초기화하는 생성자입니다.
+- ??0ExceptionHolder@QtPrivate@@QAE@ABV01@@Z,QtPrivate::ExceptionHolder 객체를 복사하여 생성하는 생성자입니다.
+- ??0ExceptionHolder@QtPrivate@@QAE@PAVQException@@@Z,QException 객체를 포인터로 받아 QtPrivate::ExceptionHolder를 생성하는 생성자입니다.
+- ??0ExceptionStore@QtPrivate@@QAE@ABV01@@Z,QtPrivate::ExceptionStore 객체를 복사하여 생성하는 생성자입니다.
+- ??0ExceptionStore@QtPrivate@@QAE@XZ,"기본 생성자로, 빈 QtPrivate::ExceptionStore 객체를 생성합니다."
+- ??0QAbstractAnimation@@IAE@AAVQAbstractAnimationPrivate@@PAVQObject@@@Z,QAbstractAnimation 객체를 QAbstractAnimationPrivate 및 QObject 포인터로 초기화하는 생성자입니다.
+- ??0QAbstractAnimation@@QAE@PAVQObject@@@Z,QObject 포인터로 QAbstractAnimation 객체를 초기화하는 생성자입니다.
+- ??0QAbstractAnimationTimer@@QAE@XZ,"기본 생성자로, 빈 QAbstractAnimationTimer 객체를 생성합니다."
+- ??0QAbstractDynamicMetaObject@@QAE@ABU0@@Z,QAbstractDynamicMetaObject 객체를 복사하여 생성하는 생성자입니다.
+- ??0QAbstractDynamicMetaObject@@QAE@XZ,"기본 생성자로, 빈 QAbstractDynamicMetaObject 객체를 생성합니다."
+- ??0QAbstractEventDispatcher@@IAE@AAVQAbstractEventDispatcherPrivate@@PAVQObject@@@Z,QAbstractEventDispatcher 객체를 QAbstractEventDispatcherPrivate 및 QObject 포인터로 초기화하는 생성자입니다.
+- ??0QAbstractEventDispatcher@@QAE@PAVQObject@@@Z,QObject 포인터로 QAbstractEventDispatcher 객체를 초기화하는 생성자입니다.
+- ??0QAbstractEventDispatcherPrivate@@QAE@ABV0@@Z,QAbstractEventDispatcherPrivate 객체를 복사하여 생성하는 생성자입니다.
+- ??0QAbstractEventDispatcherPrivate@@QAE@XZ,"기본 생성자로, 빈 QAbstractEventDispatcherPrivate 객체를 생성합니다."
+- ??0QAbstractFileEngine@@IAE@AAVQAbstractFileEnginePrivate@@@Z,QAbstractFileEngine 객체를 QAbstractFileEnginePrivate로 초기화하는 생성자입니다.
+- ??0QAbstractFileEngine@@IAE@XZ,"기본 생성자로, 빈 QAbstractFileEngine 객체를 생성합니다."
+- ??0QAbstractFileEngineHandler@@QAE@ABV0@@Z,QAbstractFileEngineHandler 객체를 복사하여 생성하는 생성자입니다.
+- ??0QAbstractFileEngineHandler@@QAE@XZ,"기본 생성자로, 빈 QAbstractFileEngineHandler 객체를 생성합니다."
+- ??0QAbstractFileEngineIterator@@QAE@V?$QFlags@W4Filter@QDir@@@@ABVQStringList@@@Z,QFlags<Filter> 및 QStringList로 QAbstractFileEngineIterator 객체를 초기화하는 생성자입니다.
+- ??0QAbstractItemModel@@IAE@AAVQAbstractItemModelPrivate@@PAVQObject@@@Z,QAbstractItemModel 객체를 QAbstractItemModelPrivate 및 QObject 포인터로 초기화하는 생성자입니다.
+- ??0QAbstractItemModel@@QAE@PAVQObject@@@Z,QObject 포인터로 QAbstractItemModel 객체를 초기화하는 생성자입니다.
+- ??0QAbstractItemModelPrivate@@QAE@ABV0@@Z,QAbstractItemModelPrivate 객체를 복사하여 생성하는 생성자입니다.
+- ??0QAbstractItemModelPrivate@@QAE@XZ,"기본 생성자로, 빈 QAbstractItemModelPrivate 객체를 생성합니다."
+- ??0QAbstractListModel@@IAE@AAVQAbstractItemModelPrivate@@PAVQObject@@@Z,QAbstractListModel 객체를 QAbstractItemModelPrivate 및 QObject 포인터로 초기화하는 생성자입니다.
+- ??0QAbstractListModel@@QAE@PAVQObject@@@Z,QObject 포인터로 QAbstractListModel 객체를 초기화하는 생성자입니다.
+- ??0QAbstractNativeEventFilter@@QAE@XZ,"기본 생성자로, 빈 QAbstractNativeEventFilter 객체를 생성합니다."
+- ??0QAbstractProxyModel@@IAE@AAVQAbstractProxyModelPrivate@@PAVQObject@@@Z,QAbstractProxyModel 객체를 QAbstractProxyModelPrivate 및 QObject 포인터로 초기화하는 생성자입니다.
+- ??0QAbstractProxyModel@@QAE@PAVQObject@@@Z,QObject 포인터로 QAbstractProxyModel 객체를 초기화하는 생성자입니다.
+- ??0QAbstractProxyModelPrivate@@QAE@ABV0@@Z,QAbstractProxyModelPrivate 객체를 복사하여 생성하는 생성자입니다.
+- ??0QAbstractProxyModelPrivate@@QAE@XZ,"기본 생성자로, 빈 QAbstractProxyModelPrivate 객체를 생성합니다."
+- ??0QAbstractState@@IAE@AAVQAbstractStatePrivate@@PAVQState@@@Z,QAbstractState 객체를 QAbstractStatePrivate 및 QState 포인터로 초기화하는 생성자입니다.
+- ??0QAbstractState@@IAE@PAVQState@@@Z,QState 포인터로 QAbstractState 객체를 초기화하는 생성자입니다.
+- ??0QAbstractTableModel@@IAE@AAVQAbstractItemModelPrivate@@PAVQObject@@@Z,QAbstractTableModel 객체를 QAbstractItemModelPrivate 및 QObject 포인터로 초기화하는 생성자입니다.
+- ??0QAbstractTableModel@@QAE@PAVQObject@@@Z,QObject 포인터로 QAbstractTableModel 객체를 초기화하는 생성자입니다.
+- ??0QAbstractTransition@@IAE@AAVQAbstractTransitionPrivate@@PAVQState@@@Z,QAbstractTransition 객체를 QAbstractTransitionPrivate 및 QState 포인터로 초기화하는 생성자입니다.
+- ??0QAbstractTransition@@QAE@PAVQState@@@Z,QState 포인터로 QAbstractTransition 객체를 초기화하는 생성자입니다.
+- ??0QAbstractTransitionPrivate@@QAE@ABV0@@Z,QAbstractTransitionPrivate 객체를 복사하여 생성하는 생성자입니다.
+- ??0QAbstractTransitionPrivate@@QAE@XZ,"기본 생성자로, 빈 QAbstractTransitionPrivate 객체를 생성합니다."
+- ??0QAnimationDriver@@IAE@AAVQAnimationDriverPrivate@@PAVQObject@@@Z,QAnimationDriver 객체를 QAnimationDriverPrivate 및 QObject 포인터로 초기화하는 생성자입니다.
+- ??0QAnimationDriver@@QAE@PAVQObject@@@Z,QObject 포인터로 QAnimationDriver 객체를 초기화하는 생성자입니다.
+- ??0QAnimationDriverPrivate@@QAE@ABV0@@Z,QAnimationDriverPrivate 객체를 복사하여 생성하는 생성자입니다.
+- ??0QAnimationDriverPrivate@@QAE@XZ,"기본 생성자로, 빈 QAnimationDriverPrivate 객체를 생성합니다."
+- ??0QAnimationGroup@@IAE@AAVQAnimationGroupPrivate@@PAVQObject@@@Z,QAnimationGroup 객체를 QAnimationGroupPrivate 및 QObject 포인터로 초기화하는 생성자입니다.
+- ??0QAnimationGroup@@QAE@PAVQObject@@@Z,QObject 포인터로 QAnimationGroup 객체를 초기화하는 생성자입니다.
+- ??0QAssociativeIterable@@QAE@VQAssociativeIterableImpl@QtMetaTypePrivate@@@Z,QAssociativeIterableImpl 객체를 사용하여 QAssociativeIterable을 생성하는 생성자입니다.
+- ??0QBasicTimer@@QAE@XZ,"기본 생성자로, 빈 QBasicTimer 객체를 생성합니다."
+- ??0QBitArray@@QAE@$$QAV0@@Z,QBitArray 객체를 복사하여 생성하는 생성자입니다.
+- ??0QBitArray@@QAE@ABV0@@Z,기존 QBitArray 객체를 복사하여 새로운 객체를 생성하는 생성자입니다.
+- ??0QBitArray@@QAE@H_N@Z,주어진 크기와 초기값으로 QBitArray 객체를 생성하는 생성자입니다.
+- ??0QBitArray@@QAE@XZ,"기본 생성자로, 빈 QBitArray 객체를 생성합니다."
+- ??0QBitRef@@AAE@AAVQBitArray@@H@Z,QBitArray의 특정 비트를 참조하는 QBitRef 객체를 생성하는 생성자입니다.
+- ??0QBuffer@@QAE@PAVQByteArray@@PAVQObject@@@Z,QByteArray 및 QObject 포인터로 QBuffer 객체를 초기화하는 생성자입니다.
+- ??0QBuffer@@QAE@PAVQObject@@@Z,QObject 포인터로 QBuffer 객체를 초기화하는 생성자입니다.
+- ??0QByteArray@@QAE@$$QAV0@@Z,QByteArray 객체를 복사하여 생성하는 생성자입니다.
+- ??0QByteArray@@QAE@ABV0@@Z,기존 QByteArray 객체를 복사하여 새로운 객체를 생성하는 생성자입니다.
+- ??0QByteArray@@QAE@HD@Z,주어진 크기와 초기값으로 QByteArray 객체를 생성하는 생성자입니다.
+- ??0QByteArray@@QAE@HW4Initialization@Qt@@@Z,주어진 크기와 초기화 방법으로 QByteArray 객체를 생성하는 생성자입니다.
+- ??0QByteArray@@QAE@PBDH@Z,C 스타일 문자열과 길이를 받아 QByteArray 객체를 생성하는 생성자입니다.
+- ??0QByteArray@@QAE@UQByteArrayDataPtr@@@Z,QByteArrayDataPtr 구조체를 사용하여 QByteArray 객체를 생성하는 생성자입니다.
+- ??0QByteArray@@QAE@XZ,"기본 생성자로, 빈 QByteArray 객체를 생성합니다."
+- ??0QByteArrayMatcher@@QAE@ABV0@@Z,QByteArrayMatcher 객체를 복사하여 생성하는 생성자입니다.
+- ??0QByteArrayMatcher@@QAE@ABVQByteArray@@@Z,QByteArray 객체를 사용하여 QByteArrayMatcher를 생성하는 생성자입니다.
+- ??0QByteArrayMatcher@@QAE@PBDH@Z,C 스타일 문자열과 길이를 받아 QByteArrayMatcher 객체를 생성하는 생성자입니다.
+- ??0QByteArrayMatcher@@QAE@XZ,"기본 생성자로, 빈 QByteArrayMatcher 객체를 생성합니다."
+- ??0QByteRef@@AAE@AAVQByteArray@@H@Z,QByteArray의 특정 바이트를 참조하는 QByteRef 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@D@Z,char 타입의 값을 받아 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@E@Z,unsigned char 타입의 값을 받아 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@EE@Z,두 개의 unsigned char 값을 받아 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@F@Z,short 타입의 값을 받아 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@G@Z,unsigned short 타입의 값을 받아 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@H@Z,int 타입의 값을 받아 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@I@Z,unsigned int 타입의 값을 받아 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@UQLatin1Char@@@Z,QLatin1Char 객체를 사용하여 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@W4SpecialCharacter@0@@Z,QChar::SpecialCharacter 열거형 값을 사용하여 QChar 객체를 생성하는 생성자입니다.
+- ??0QChar@@QAE@XZ,"기본 생성자로, 빈 QChar 객체를 생성합니다."
+- ??0QCharRef@@AAE@AAVQString@@H@Z,QString의 특정 문자를 참조하는 QCharRef 객체를 생성하는 생성자입니다.
