@@ -6,14 +6,11 @@
 
 ## 프로젝트 구조
 
-DED dll및ini파일 분석 자동화/
+```DED dll및ini파일 분석 자동화
 ├── DLL txt파일/ ← dumpbin 결과 .txt 파일 모음
 ├── DLL csv파일/ ← 분석 결과 저장 폴더
 ├── parse_all_dll_exports.py ← 메인 자동화 스크립트
 └── README.md
-
-yaml
-코드 복사
 
 ---
 
