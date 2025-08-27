@@ -1,0 +1,7 @@
+2025-08-27, 09:00:00.00, SYSTEM,Startup,True
+2025-08-27, 09:00:01.00, SYSTEM,Initialization,Complete
+2025-08-27, 09:00:02.00, NC_CS5AXIS,Status,Ready
+2025-08-27, 09:00:03.00, CAMERA,Status,Connected
+2025-08-27, 09:00:04.00, LASER,Status,Standby
+2025-08-27, 10:42:11.24, NC_CS5AXIS,IsRunning,True
+2025-08-27, 10:42:41.29, NC_CS5AXIS,IsRunning,False
