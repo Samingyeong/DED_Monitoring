@@ -1,0 +1,7 @@
+# HBU_monitoring 폴더 내에서 dll, ini 파일 제외
+HBU_monitoring/**/*.dll
+HBU_monitoring/**/*.ini
+
+# DED 폴더 내에서 Trace 폴더만 제외하지 않고, 나머지 모두 제외
+DED/*
+!DED/Trace/
