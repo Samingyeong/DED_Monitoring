@@ -4,4 +4,6 @@ HBU_monitoring/**/*.ini
 
 # DED 폴더 내에서 Trace 폴더만 제외하지 않고, 나머지 모두 제외
 DED/*
-!DED/Trace/
+!DED/Log/
+!DED/Log/Trace/
+DED/Log/Trace/Old/
